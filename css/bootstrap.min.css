@@ -872,4 +872,5 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
 
-.footer img{opacity:.5;}
+.footer {font-color:#808080;}
+.footer img{opacity:.4;}
