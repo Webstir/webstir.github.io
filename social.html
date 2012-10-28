@@ -39,27 +39,21 @@
 <body class="preview" data-spy="scroll" data-target=".subnav" data-offset="80">
   <script src="http://bootswatch.com/js/bsa.js"></script>
 
-
+<script type="text/javascript" src="http://twitter.github.com/bootstrap/assets/js/bootstrap-dropdown.js"></script>
+<script type="text/javascript" src="http://twitter.github.com/bootstrap/assets/js/bootstrap.js"></script>
 
 
   <!-- Navbar
     ================================================== -->
 
-
-
-    <div class="navbar navbar-inverse navbar-fixed-top">
+<div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <a class="brand" href="/index.html">Webst.ir</a>
-          <div class="nav-collapse collapse">
+          <a class="brand" href="/">Webst.ir</a>
+            <div class="nav-collapse">
             <ul class="nav">
-              <li class="dropdown">
-                <a href="#list" class="dropdown-toggle" data-toggle="dropdown">The List<b class="caret"></b></a>
+              <li class="dropdown" id="list">
+                <a href="#list" class="dropdown-toggle" data-toggle="dropdown">The List <b class="caret"></b></a>
                 <ul class="dropdown-menu">
                   <li><a href="/social.html">Social</a></li>
                   <li><a href="#">Education</a></li>
@@ -71,7 +65,7 @@
                 </ul>
               </li>
               <li><a href="#submit">Submit</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <li><a href="#suggest">Suggest</a></li>
               <li><a href="#about">About</a></li>
             </ul>
             
@@ -80,29 +74,6 @@
       </div>
     </div>
 
-  
-
-<!-- Masthead
-================================================== -->
-<header class="jumbotron subhead" id="overview">
-  <div class="row">
-    <div class="span6">
-      <h1>Spacelab</h1>
-      <p class="lead">A preview of changes in this swatch.</p>
-    </div>
-   
-  </div>
-  <div class="subnav">
-    <ul class="nav nav-pills">
-      <li><a href="#typography">Typography</a></li>
-      <li><a href="#navbar">Navbar</a></li>
-      <li><a href="#buttons">Buttons</a></li>
-      <li><a href="#forms">Forms</a></li>
-      <li><a href="#miscellaneous">Miscellaneous</a></li>
-    </ul>
-  </div>
-</header>
-
 
 
 <!-- Nav-tabs
@@ -110,56 +81,44 @@
 
 <section>
   <div class="container">  
-  <div class="row">  
-  <div class="span6">  
-    <ul class="nav nav-tabs">  
-      <li class="active">  
-        <a href="#">Home</a> </li>   
-      <li><a href="#">Tutorials</a></li>  
-      <li><a href="#">Practice Editor </a></li>   
-      <li><a href="#">Gallery</a></li>   
-      <li><a href="#">Contact</a></li>   
-    </ul>  
-  </div>  
-  </div>  
-  </div>
-</section>
-
-<section>
-  <div class="container">  
     <div class="row">  
       <div class="span4">  
         <div class="tabbable">  
           <ul class="nav nav-tabs">  
-            <li class="active"><a href="#1" data-toggle="tab">Section 1</a></li>  
-            <li class=""><a href="#2" data-toggle="tab">Section 2</a></li>  
-            <li class=""><a href="#3" data-toggle="tab">Section 3</a></li>  
+            <li class="active"><a href="#1" data-toggle="tab">Social Networking</a></li>  
+            <li class=""><a href="#2" data-toggle="tab">Q & A</a></li>  
+            <li class=""><a href="#3" data-toggle="tab">Reviews</a></li>
+            <li class=""><a href="#4" data-toggle="tab">Dating</a></li>  
+  
           </ul>  
           <div class="tab-content">  
           <div class="tab-pane active" id="1">  
-            <p>You are watching section 1.</p>  
+            <p>There isn't anything here...yet! (Social Networking)</p>  
           </div>  
           <div class="tab-pane" id="2">  
-            <p>You are watching Section 2.</p>  
+            <p>There isn't anything here...yet! (Q&A)</p>  
           </div>  
           <div class="tab-pane" id="3">  
-           <p>You are watching Section 3.</p>  
-          </div>  
+           <p>There isn't anything here...yet! (Reviews)</p>  
+          </div>
+          <div class="tab-pane" id="4">  
+           <p>There isn't anything here...yet! (Dating)</p>  
+          </div>   
         </div>  
       </div>  
     </div>  
   </div>
 
-<!-- Footer
+      <hr>
+
+     <!-- Footer
       ================================================== -->
       <footer class="footer">
-        <p>&copy; Company 2012</p>
-        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a> Code licensed under the <a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>.<br/>
+        Based on open-source <a target="_blank" href="http://twitter.github.com/bootstrap/">Bootstrap</a>. Hosted free on <a target="_blank" href="http://pages.github.com/">GitHub</a>. Icons from <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>. Web fonts from <a target="_blank" href="http://www.google.com/webfonts">Google</a>.</p>
       </footer>
 
 </section>
-
-      <hr>     
 
     </div><!-- /container -->
 
