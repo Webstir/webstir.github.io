@@ -17,29 +17,10 @@
     <link href="http://webst.ir/css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="http://bootswatch.com/css/docs.css" rel="stylesheet">
 
- <!-- Google Analytics
-    ================================================== -->
-
-  <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-35837881-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-  </script>
-
 </head>
 
 <body>
-  <script src="http://bootswatch.com/js/bsa.js"></script>
-  <script type="text/javascript" src="http://twitter.github.com/bootstrap/assets/js/bootstrap-dropdown.js"></script>
-  <script type="text/javascript" src="http://twitter.github.com/bootstrap/assets/js/bootstrap.js"></script>
+
 
 
   <!-- Navbar
@@ -188,35 +169,6 @@
         <p><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a> Code licensed under the <a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>.<br/>
         Based on open-source <a target="_blank" href="http://twitter.github.com/bootstrap/">Bootstrap</a>. Hosted free on <a target="_blank" href="http://pages.github.com/">GitHub</a>. Icons from <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>. Web fonts from <a target="_blank" href="http://www.google.com/webfonts">Google</a>.</p>
       </footer>
-
-
-
-<script>
-$(document).scroll(function(){
-    // If has not activated (has no attribute "data-top"
-    if (!$('.subnav').attr('data-top')) {
-        // If already fixed, then do nothing
-        if ($('.subnav').hasClass('subnav-fixed')) return;
-        // Remember top position
-        var offset = $('.subnav').offset()
-        $('.subnav').attr('data-top', offset.top);
-    }
-
-    if ($('.subnav').attr('data-top') - $('.subnav').outerHeight() <= $(this).scrollTop())
-        $('.subnav').addClass('subnav-fixed');
-    else
-        $('.subnav').removeClass('subnav-fixed');
-});
-
-</script>
-
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap.min.js"></script>
-    <script src="http://twitter.github.com/bootstrap/assets/js/application.js"></script>
-    <script src="http://twitter.github.com/bootstrap/assets/js/bootswatch.js"></script>
 
 
 
