@@ -831,7 +831,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
     1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;}
-.hero-unit#social {background:url('http://webst.ir/social.png') no-repeat center center fixed}
+.socialtitle {background:url('http://webst.ir/social.png') no-repeat center center fixed}
 .pull-right{float:right;}
 .pull-left{float:left;}
 .hide{display:none;}
