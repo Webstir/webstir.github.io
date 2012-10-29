@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Webst.ir | Celebrating Web Innovation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="http://webst.ir/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://webst.ir/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <!-- link href="http://bootswatch.com/css/docs.css" rel="stylesheet"-->
+
+ <!-- Google Analytics
+    ================================================== -->
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35837881-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
+
+</head>
+
+<body class="preview" data-spy="scroll" data-target=".subnav" data-offset="80">
+
+
+  <!-- Navbar
+    ================================================== -->
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="/">Webst.ir</a>
+            <div class="nav-collapse">
+            <ul class="nav">
+              <li class="dropdown" id="list">
+                <a href="#list" class="dropdown-toggle" data-toggle="dropdown">The List <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Web</a></li>
+                  <li><a href="#">Exchange</a></li>
+                  <li><a href="/social.html">Social</a></li>
+                  <li><a href="#">Open Education</a></li>
+                  <li><a href="#">Free Media</a></li>
+                  <li><a href="#">Do it Yourself</a></li>
+                  <li><a href="#">Causes</a></li>
+                </ul>
+              </li>
+              <li><a href="#submit">Submit</a></li>
+              <li><a href="/suggest.html">Suggest</a></li>
+            </ul>
+            <ul class="nav pull-right">
+              <li class="divider-vertical"></li>
+              <li><a href="#about">About</a></li>
+            </ul>
+
+            
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+
+
+<!-- Nav-tabs
+================================================== -->
+<div class="container">  
+<section>
+<div class="container">  
+<div class="row-fluid">  
+<div class="span12">
+  <h1>Suggestion</h1>
+  <p>Have an idea for how the site could be better? Think there is something on here that should be removed or changed? I am open to any and all suggestions. Thanks!</p>
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'webstir'; // required: replace example with your forum shortname
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+            <hr>
+
+</div>
+</div>  
+</div>
+</section>
+
+     <!-- Footer
+      ================================================== -->
+      <footer class="footer">
+        <p><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a> Code licensed under the <a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>.<br/>
+        Based on open-source <a target="_blank" href="http://twitter.github.com/bootstrap/">Bootstrap</a>. Hosted free on <a target="_blank" href="http://pages.github.com/">GitHub</a>. Icons from <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>. Web fonts from <a target="_blank" href="http://www.google.com/webfonts">Google</a>.</p>
+      </footer>
+
+
+    </div><!-- /container -->
+
+
+
+<script>
+$(document).scroll(function(){
+    // If has not activated (has no attribute "data-top"
+    if (!$('.subnav').attr('data-top')) {
+        // If already fixed, then do nothing
+        if ($('.subnav').hasClass('subnav-fixed')) return;
+        // Remember top position
+        var offset = $('.subnav').offset()
+        $('.subnav').attr('data-top', offset.top);
+    }
+
+    if ($('.subnav').attr('data-top') - $('.subnav').outerHeight() <= $(this).scrollTop())
+        $('.subnav').addClass('subnav-fixed');
+    else
+        $('.subnav').removeClass('subnav-fixed');
+});
+
+</script>
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="http://bootswatch.com/js/bsa.js"></script>
+    <script type="text/javascript" src="http://twitter.github.com/bootstrap/assets/js/bootstrap-dropdown.js"></script>
+    <script type="text/javascript" src="http://twitter.github.com/bootstrap/assets/js/bootstrap.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap.min.js"></script>
+    <script src="http://twitter.github.com/bootstrap/assets/js/application.js"></script>
+    <script src="http://twitter.github.com/bootstrap/assets/js/bootswatch.js"></script>
+
+
+    </div> 
+
+  </body>
+</html>
