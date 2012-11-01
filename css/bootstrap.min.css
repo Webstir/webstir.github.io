@@ -826,17 +826,16 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
     1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;letter-spacing:-1px;}
-
-.hero-unit-inverse h1,p {color:black;text-shadow:
-   -1px -1px 0 #FFF,  
-    1px -1px 0 #FFF,
-    -1px 1px 0 #FFF,
-     1px 1px 0 #FFF;}
 .hero-unit p{font-size:18px;font-weight:200;line-height:31.5px;color:white;text-shadow:
    -1px -1px 0 #000,  
     1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;}
+.hero-unit-inverse h1,p{color:black;text-shadow:
+   -1px -1px 0 #FFF,  
+    1px -1px 0 #FFF,
+    -1px 1px 0 #FFF,
+     1px 1px 0 #FFF;}
 .social-title{background:url('http://webst.ir/social.png') no-repeat center center fixed;}
 .exchange-title{background:url('http://webst.ir/exchange.png') no-repeat center top fixed; background-size:80%;}
 .pull-right{float:right;}
