@@ -838,6 +838,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
      1px 1px 0 #FFF;}
 .social-title{background:url('http://webst.ir/social.png') no-repeat center center fixed;}
 .exchange-title{background:url('http://webst.ir/exchange.png') no-repeat center top fixed; background-size:80%;}
+.create-title{background:url('http://webst.ir/create.png') no-repeat center top fixed; background-size:80%;}
 .pull-right{float:right;}
 .pull-left{float:left;}
 .hide{display:none;}
