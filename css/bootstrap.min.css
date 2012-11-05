@@ -838,7 +838,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
      1px 1px 0 #FFF;}
 .social-title{background:url('http://webst.ir/social.png') no-repeat center center fixed;}
 .exchange-title{background:url('http://webst.ir/exchange2.png') no-repeat center top fixed; background-size:80%;}
-.learn-title{padding:60px;margin-top:30px;background:url('http://webst.ir/learn2.png') no-repeat center top fixed; background-size:80%;}
+.learn-title{padding:60px;margin-top:30px;background:url('http://webst.ir/learn2.png') no-repeat center center fixed; background-size:80%;}
 .create-title{background:url('http://webst.ir/create2.png') no-repeat center top fixed; background-size:100%;}
 .art-title{background:url('http://webst.ir/art2.png') no-repeat center top fixed; background-size:100%;}
 .pull-right{float:right;}
