@@ -50,7 +50,14 @@
 
   <!-- Facebook like button code
     ================================================== -->
-<div><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwebst.ir&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
   
@@ -94,7 +101,7 @@
 
 ​<div class="container">
 
-<div class="fb-like" data-href="http://webst.ir" data-send="true" data-layout="button_count" data-width="450" data-show-faces="true" data-font="verdana"></div>
+<fb:like href="http://webst.ir" send="false" layout="button_count" width="450" show_faces="true" font="verdana"></fb:like>
 
 <section>
 
