@@ -53,32 +53,6 @@
 
 <body class="preview" data-spy="scroll" data-target=".subnav" data-offset="80">
 
-  <div id="fb-root"></div>
-<script>
-  window.fbAsyncInit = function() {
-    // init the FB JS SDK
-    FB.init({
-      appId      : 'Webstir', // App ID from the App Dashboard
-      channelUrl : '//WWW.webst.ir/index.html', // Channel File for x-domain communication
-      status     : true, // check the login status upon init?
-      cookie     : true, // set sessions cookies to allow your server to access the session?
-      xfbml      : true  // parse XFBML tags on this page?
-    });
-
-    // Additional initialization code such as adding Event Listeners goes here
-
-  };
-
-  // Load the SDK's source Asynchronously
-  (function(d, debug){
-     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement('script'); js.id = id; js.async = true;
-     js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
-     ref.parentNode.insertBefore(js, ref);
-   }(document, /*debug*/ false));
-</script>
-
 
   <!-- Facebook like button code
     ================================================== -->
@@ -90,7 +64,6 @@
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
 
   
 
@@ -133,7 +106,7 @@
 
 ​<div class="container">
 
-<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FWebstir%2F516517001692871&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
+<div class="fb-like" data-href="https://www.facebook.com/pages/Webstir/516517001692871" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true" data-font="verdana"></div>
 
 <section>
 
