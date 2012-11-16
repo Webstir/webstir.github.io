@@ -82,7 +82,32 @@
 <div class="container-fluid">  
 <div class="row-fluid">  
  
-  <center><h1>Fearlessly Argued Queries</h1></center>
+  <center><h1><script language="JavaScript">
+// ==============================================
+// Copyright 2004 by CodeLifter.com
+// Free for all; but please leave in this header.
+// ==============================================
+
+var Quotation=new Array() // do not change this!
+
+// Set up the quotations to be shown, below.
+// To add more quotations, continue with the
+// pattern, adding to the array.  Remember
+// to increment the Quotation[x] index!
+
+Quotation[0] = "Fearless Argued Queries";
+Quotation[1] = "Flippantly Annoying Questions";
+Quotation[2] = "Ferocious Asked Quandries";
+Quotation[3] = "Feeding Angry Quarrels";
+
+// ======================================
+// Do not change anything below this line
+// ======================================
+var Q = Quotation.length;
+var whichQuotation=Math.round(Math.random()*(Q-1));
+function showQuotation(){document.write(Quotation[whichQuotation]);}
+showQuotation();
+</script></h1></center>
   <div class="span8 offset1">
   <h3>What is Webst.ir?</h3>
 
