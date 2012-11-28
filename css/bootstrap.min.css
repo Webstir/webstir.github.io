@@ -903,13 +903,14 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 
 #nav-wrapper {
 
+    height: 125px;
     text-align: justify;
     -ms-text-justify: distribute-all-lines;
     text-justify: distribute-all-lines;
 
 }
 
-.box1, .box2, .box3, .box4, .box5, .box6 {
+.box{
 
     vertical-align: top;
     display: inline-block;
