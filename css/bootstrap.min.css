@@ -875,7 +875,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .learn-title{padding:60px;margin-top:30px;background:url('http://webst.ir/learn3.png') no-repeat center top;}
 .create-title{padding:60px;margin-top:30px;background:url('http://webst.ir/create2.png') no-repeat center top;}
 .art-title{padding:60px;margin-top:30px;background:url('http://webst.ir/art3.png') no-repeat center top;}
-.home-title{padding:0px;margin-top:10px;background:url('http://webst.ir/webster.png') no-repeat center top;}
+.home-title{padding:40px;margin-top:10px;background:url('http://webst.ir/webster.png') no-repeat center top;}
 .web-title{padding:60px;margin-top:30px;background:url('http://webst.ir/web_home.png') no-repeat center center;}
 .pull-right{float:right;}
 .pull-left{float:left;}
