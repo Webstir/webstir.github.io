@@ -654,7 +654,7 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
     text-align: justify;
     -ms-text-justify: distribute-all-lines;
     text-justify: distribute-all-lines;
-    /*min-width: 900px;*/
+    min-width: 850px;
 
 }
 
