@@ -578,7 +578,7 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .alert-block p+p{margin-top:5px;}
 .nav{margin-left:0;margin-bottom:21px;list-style:none;}
 .nav>li>a{display:block;}
-.nav>li>a:hover{text-decoration:none;background-color:#eeeeee;}
+.nav>li>a:hover{text-decoration:none;/*background-color: #eeeeee;*/}
 .nav>.pull-right{float:right;}
 .nav-header{display:block;padding:3px 15px;font-size:11px;font-weight:bold;line-height:21px;color:#bbbbbb;text-shadow:0 1px 0 rgba(255, 255, 255, 0.5);text-transform:uppercase;}
 .nav li+.nav-header{margin-top:9px;}
