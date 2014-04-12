@@ -970,7 +970,7 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
 
-.footer {margin-left:8px;}
+.footer {margin-left:8px;background: #000000}
 .footer p{color:#808080;}
 .footer img{opacity:.4;}
 
