@@ -885,7 +885,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .hero-unit{margin-bottom:30px;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:0px;background:#342B24}
+	background-size: cover;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:0px;}
 
 .hero-unit h1{margin-bottom:0;font-size:60px;line-height:1;color:white;text-shadow:
    -1px -1px 0 #000,  
@@ -910,7 +910,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .learn-title{padding:60px;margin-top:30px;background:url('http://webst.ir/learn4.png') no-repeat center top;}
 .create-title{background:url('http://webst.ir/create3.png') no-repeat center top;}
 .art-title{padding:60px;margin-top:30px;background:url('http://webst.ir/art5.png') no-repeat center top;}
-.home-title{padding:28px;margin-top:10px;background:url('http://webst.ir/webster.png') no-repeat center top;}
+.home-title{padding:28px;margin-top:10px;background:#342B24; background:url('http://webst.ir/webster.png') no-repeat center top;}
 .web-title{padding:60px;margin-top:30px;background:url('http://webst.ir/web_home4.png') no-repeat center center;}
 
 
