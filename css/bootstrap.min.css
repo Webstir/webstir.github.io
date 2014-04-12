@@ -27,7 +27,7 @@ body{margin: 0px 0px 0px 0px; padding-top:30px; font-family:"Muli","Helvetica Ne
 a{text-decoration:none;}
 a:hover{text-decoration:none;}
 
-#red{color:#720200;}
+a.footer-link:visited{color:#720200;}
 
 
 .img-rounded{-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}
