@@ -983,7 +983,10 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 .footer p{color:#808080;padding-left: 15px;
 padding-bottom: 12px;padding-top:12px;}
 .footer img{opacity:.4;}
-#footor a{color: #8ebae8;}
+.footor a:link{color: #8ebae8;}
+.footor a:hover{color: #8ebae8;}
+.footor a:visited{color: #8ebae8;}
+
 
 #myTab{background-color: #efeeee;}
 
