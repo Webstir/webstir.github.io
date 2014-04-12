@@ -976,10 +976,9 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
     height: 65px;
     bottom: 0;
     width: 100%;
-    font-sie:12px;
 }
 .footer p{color:#808080;padding-left: 15px;
-padding-bottom: 12px;padding-top:12px;}
+padding-bottom: 12px;padding-top:12px;font-size:12px;}
 .footer img{opacity:.4;}
 
 a.footer:hover{color: #8ebae8;}
