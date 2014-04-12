@@ -24,10 +24,10 @@ textarea{overflow:auto;vertical-align:top;}
 body{margin: 0px 0px 0px 0px; padding-top:30px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:21px;color:#2d2d2d;background:#efeeee;}
 
 /* link colors*/
-a{color:#720200;text-decoration:none;}
+a{text-decoration:none;}
 a:hover{text-decoration:none;}
 
-
+#red{color:#720200;}
 
 
 .img-rounded{-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}
