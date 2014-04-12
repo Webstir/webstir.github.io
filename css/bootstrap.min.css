@@ -975,7 +975,8 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 
 
 .footer {margin-left:0px;background: #342b24}
-.footer p{color:#808080;}
+.footer p{color:#808080;padding-left: 15px;
+padding-bottom: 12px;}
 .footer img{opacity:.4;}
 .footor a{color: #8ebae8;}
 
