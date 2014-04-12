@@ -21,7 +21,7 @@ textarea{overflow:auto;vertical-align:top;}
 .clearfix:after{clear:both;}
 .hide-text{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0;}
 .input-block-level{display:block;width:100%;min-height:30px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
-body{margin: 0px 0px 0px 0px; padding-top:30px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:21px;color:#2d2d2d;background:#efeeee;}
+body{margin: 0px 0px 0px 0px; padding-top:30px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:21px;color:#2d2d2d;background:#efeeee;}
 
 /* link colors*/
 a{text-decoration:none;color:#b6806f;}
@@ -976,6 +976,7 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
     height: 65px;
     bottom: 0;
     width: 100%;
+    font-sie:12px;
 }
 .footer p{color:#808080;padding-left: 15px;
 padding-bottom: 12px;padding-top:12px;}
