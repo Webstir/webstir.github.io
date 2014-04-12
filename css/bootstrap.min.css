@@ -676,7 +676,7 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .nav>.disabled>a{color:#bbbbbb;}
 .nav>.disabled>a:hover{text-decoration:none;background-color:transparent;cursor:default;}
 .navbar{overflow:visible;margin-bottom:21px;color:#2d2d2d;*position:relative;*z-index:2;}
-.navbar-inner{min-height:40px;padding-left:20px;padding-right:20px;background-color:#FFedCC;
+.navbar-inner{min-height:40px;padding-left:20px;padding-right:20px;background-color:#efeeee;
 	/* background-image:-moz-linear-gradient(top, #afb3ba, #333333);
 	background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#afb3ba), to(#333333));
 	background-image:-webkit-linear-gradient(top, #afb3ba, #333333);background-image:-o-linear-gradient(top, #afb3ba, #333333);
