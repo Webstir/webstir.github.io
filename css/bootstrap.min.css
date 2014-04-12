@@ -25,6 +25,11 @@ body{margin: 0px 0px 0px 0px; padding-top:30px; font-family:"Muli","Helvetica Ne
 
 
 
+.footer {margin-left:0px;background: #342b24}
+.footer p{color:#808080;}
+.footer img{opacity:.4;}
+.footor a{color: #8ebae8;}
+
 /* link colors*/
 a{color:#313131;text-decoration:none;}
 a:hover{color:#3399FF;text-decoration:none;}
@@ -970,10 +975,7 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
 
-.footer {margin-left:0px;background: #342b24}
-.footer p{color:#808080;}
-.footer img{opacity:.4;}
-.footor a{color: #8ebae8;}
+
 
 
 ​
