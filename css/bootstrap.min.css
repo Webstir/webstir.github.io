@@ -885,7 +885,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .hero-unit{margin-bottom:30px;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:0px;}
+	background-size: cover;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:0px;background:#342B24}
 
 .hero-unit h1{margin-bottom:0;font-size:60px;line-height:1;color:white;text-shadow:
    -1px -1px 0 #000,  
@@ -902,8 +902,6 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
     1px -1px 0 #FFF,
     -1px 1px 0 #FFF,
      1px 1px 0 #FFF;}
-.hero-unit .home-title{background:#342B24}
-
 
 /*Banner images*/
 
