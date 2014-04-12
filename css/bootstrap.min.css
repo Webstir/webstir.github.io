@@ -923,7 +923,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .show{display:block;}
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
-.navbar .navbar-inner{border-bottom:1px solid #CACACA;-webkit-box-shadow:0 1px 0 rgba(255, 255, 255, 0.4) , 0 0 10px rgba(0, 0, 0, 0.1);-moz-box-shadow:0 1px 0 rgba(255, 255, 255, 0.4) , 0 0 10px rgba(0, 0, 0, 0.1);box-shadow:0 1px 0 rgba(255, 255, 255, 0.4) , 0 0 10px rgba(0, 0, 0, 0.1);}
+.navbar .navbar-inner{border-bottom:1px solid #a8320a;-webkit-box-shadow:0 1px 0 rgba(255, 255, 255, 0.4) , 0 0 10px rgba(0, 0, 0, 0.1);-moz-box-shadow:0 1px 0 rgba(255, 255, 255, 0.4) , 0 0 10px rgba(0, 0, 0, 0.1);box-shadow:0 1px 0 rgba(255, 255, 255, 0.4) , 0 0 10px rgba(0, 0, 0, 0.1);}
 .navbar .brand{text-shadow:0 1px 0 rgba(255, 255, 255, 0.3);}.navbar .brand:hover{color:#558bc4;}
 .navbar .nav>li>a{padding:11px 10px 9px;text-shadow:0 1px 0 rgba(255, 255, 255, 0.3);}
 .navbar .navbar-text{margin-top:2px;padding:0 10px;line-height:38px;}
