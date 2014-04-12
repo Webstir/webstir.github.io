@@ -576,7 +576,9 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .alert-block>p,.alert-block>ul{margin-bottom:0;}
 .alert-block p+p{margin-top:5px;}
 
-.nav{margin-left:0;list-style:none;background-color: #efeeee;}
+.nav{margin-left:0;list-style:none;}
+
+
 .nav>li>a{display:block;}
 .nav>li>a:hover{text-decoration:none;/*background-color: #eeeeee;*/}
 .nav>.pull-right{float:right;}
@@ -976,4 +978,7 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 .footer p{color:#808080;}
 .footer img{opacity:.4;}
 .footor a{color: #8ebae8;}
+
+.myTab{background-color: #efeeee;}
+
 ​
