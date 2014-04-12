@@ -21,7 +21,7 @@ textarea{overflow:auto;vertical-align:top;}
 .clearfix:after{clear:both;}
 .hide-text{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0;}
 .input-block-level{display:block;width:100%;min-height:30px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
-body{margin: 0px 0px 0px 0px; padding-top:40px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:21px;color:#2d2d2d;background-color: #342B24;}
+body{margin: 0px 0px 0px 0px; padding-top:40px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:21px;color:#2d2d2d;}
 
 
 
@@ -883,9 +883,9 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .carousel-caption h4{margin:0 0 5px;}
 .carousel-caption p{margin-bottom:0;}
 .hero-unit{padding:60px;margin-bottom:30px;
-	/*-moz-background-size: cover;
+	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;*/-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}.hero-unit h1{margin-bottom:0;font-size:60px;line-height:1;color:white;text-shadow:
+	background-size: cover;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;background:#342B24}.hero-unit h1{margin-bottom:0;font-size:60px;line-height:1;color:white;text-shadow:
    -1px -1px 0 #000,  
     1px -1px 0 #000,
     -1px 1px 0 #000,
@@ -907,7 +907,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .social-title{padding:60px;margin-top:30px;background:url('http://webst.ir/social3.png') no-repeat center center;}
 .exchange-title{padding:60px;margin-top:30px;background:url('http://webst.ir/commerce.png') no-repeat center top;}
 .learn-title{padding:60px;margin-top:30px;background:url('http://webst.ir/learn4.png') no-repeat center top;}
-.create-title{padding:60px;margin-top:30px;background:url('http://webst.ir/create3.png') no-repeat center top;}
+.create-title{background:url('http://webst.ir/create3.png') no-repeat center top;}
 .art-title{padding:60px;margin-top:30px;background:url('http://webst.ir/art5.png') no-repeat center top;}
 .home-title{padding:28px;margin-top:10px;background:url('http://webst.ir/webster.png') no-repeat center top;}
 .web-title{padding:60px;margin-top:30px;background:url('http://webst.ir/web_home4.png') no-repeat center center;}
