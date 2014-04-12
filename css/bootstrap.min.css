@@ -628,7 +628,7 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .nav li.dropdown.open .caret,.nav li.dropdown.open.active .caret,.nav li.dropdown.open a:hover .caret{border-top-color:#ffffff;border-bottom-color:#ffffff;opacity:1;filter:alpha(opacity=100);}
 .tabs-stacked .open>a:hover{border-color:#bbbbbb;}
 .tabbable{*zoom:1;background-color: #ffffff;}.tabbable:before,.tabbable:after{display:block;content:"";line-height:0;}
-.tabbable:after{clear:both;}
+.tabbable:after{clear:both;border-bottom:1px solid #ddd;}
 .tab-content{overflow:auto;margin-left: 8px;padding-top: 10px;padding-bottom:10px;}
 .tabs-below>.nav-tabs,.tabs-right>.nav-tabs,.tabs-left>.nav-tabs{border-bottom:0;}
 .tab-content>.tab-pane,.pill-content>.pill-pane{display:none;}
