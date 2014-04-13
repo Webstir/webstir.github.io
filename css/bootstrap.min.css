@@ -22,7 +22,7 @@ textarea{overflow:auto;vertical-align:top;}
 .hide-text{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0;}
 .input-block-level{display:block;width:100%;min-height:30px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
 
-body{margin: 0px 0px 0px 0px;height:100%; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;
+body{margin: 0px 0px 0px 0px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;
 line-height:21px;color:#2d2d2d;background:#efeeee;}
 
 /* link colors*/
