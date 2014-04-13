@@ -972,7 +972,7 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 
 
 .footer {margin-left:0px;background: #342b24;
-    position: fixed;
+    position: absolute;
     height: 65px;
     bottom: 0;
     width: 100%;
@@ -982,9 +982,5 @@ padding-bottom: 12px;padding-top:12px;font-size:12px;}
 .footer img{opacity:.4;}
 
 a.footer:hover{color: #8ebae8;}
-
-
-
-#myTab{background-color: #efeeee;}
 
 ​
