@@ -21,7 +21,9 @@ textarea{overflow:auto;vertical-align:top;}
 .clearfix:after{clear:both;}
 .hide-text{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0;}
 .input-block-level{display:block;width:100%;min-height:30px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
-body{margin: 0px 0px 0px 0px; padding-top:30px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:21px;color:#2d2d2d;background:#efeeee;}
+
+body{margin: 0px 0px 0px 0px; padding-top:30px;padding-bottom:60px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;
+line-height:21px;color:#2d2d2d;background:#efeeee;}
 
 /* link colors*/
 a{text-decoration:none;color:#b6806f;}
