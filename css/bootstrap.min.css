@@ -994,3 +994,10 @@ a.footer:hover{color: #8ebae8;}
 
 .site-box img{float:left;}
 ​
+.col-md-3 {
+position: relative;
+min-height: 1px;
+padding-left: 15px;
+padding-right: 15px;
+float:left;
+width:25%;}
