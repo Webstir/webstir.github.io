@@ -929,8 +929,8 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .web-title{padding:60px;margin-top:30px;background:url('http://webst.ir/web_home4.png') no-repeat center center;}
 
 
-.footerSpacer{margin-bottom:30px;}
-
+.footer-spacer{height:30px;}
+/*DON'T PLACE NEW CSS AT END OF FILE????*/
 
 
 
