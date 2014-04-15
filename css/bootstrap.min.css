@@ -5,7 +5,7 @@ audio:not([controls]){display:none;}
 html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
 
 position: relative;
-min-height: 100%;
+min-height: 100%;min-width: 430px;
 
 }
 a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
@@ -664,7 +664,6 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 
 }
 
-.nav-tabs-wrapper {min-width: 430px;}
 
 .box{
 
