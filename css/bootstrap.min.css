@@ -726,8 +726,8 @@ a.brand {font-size:29px;})
 .navbar .nav>li{/*float:left;*/}
 
 
-.navbar .nav>li>a{font-size:26px;font-family: 'Lato', sans-serif;
-float:none;padding:9.5px 15px 9.5px;color:#8E8E8E;text-decoration:none;text-shadow:0 1px 0 #eeeeee;}
+.navbar .nav>li>a{font-size:26px;
+float:none;padding:9.5px 15px 9.5px;text-decoration:none;text-shadow:0 1px 0 #eeeeee;}
 .navbar .nav .dropdown-toggle .caret{font-size:20px; margin-top:8px;}
 
 
