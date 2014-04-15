@@ -696,7 +696,7 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .nav-collapse.collapse{height:auto;}
 .navbar .brand{background: url(http://webst.ir/monocle-small.png) no-repeat left center;
   height: 20px; width: 145px; float:left;display:block;padding:9.5px 20px 9.5px;margin-left:0px;font-size:30px;font-weight:200;
-  color:#333333;text-shadow:0 1px 0 #eeeeee;text-align: right;font-family:Georgia;}
+  text-shadow:0 1px 0 #eeeeee;text-align: right;font-family:Georgia;}
   .navbar .brand:hover{text-decoration:none;}
 
 a.brand {font-size:29px;})
