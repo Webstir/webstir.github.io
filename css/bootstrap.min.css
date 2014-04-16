@@ -931,6 +931,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 
 
 .footer-spacer{height:30px;}
+.site-box img{float:left;height:50px;width:300px;background: #342b24;}
 /*DON'T PLACE NEW CSS AT END OF FILE????*/
 
 
@@ -1005,6 +1006,6 @@ padding-bottom: 12px;padding-top:12px;font-size:12px;}
 a.footer:hover{color: #8ebae8;}
 
 
-.site-box img{float:left;height:50px;width:300px;background: #342b24;}
+
 ​
 
