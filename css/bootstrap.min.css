@@ -727,7 +727,7 @@ a.brand {font-size:29px;color:#a8320a;})
 .navbar .nav>li{/*float:left;*/}
 
 
-nav.navbar>li>a{font-size:26px;
+.navbar>li>a{font-size:26px;
 float:none;padding:9px 9px 13px;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
 color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;}
 
