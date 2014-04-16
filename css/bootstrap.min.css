@@ -581,12 +581,13 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .alert-block>p,.alert-block>ul{margin-bottom:0;}
 .alert-block p+p{margin-top:5px;}
 
-nav{margin-left:0;list-style:none;min-width: 360px;}
 nav>li>a{display:block;}
 nav>li>a:hover{text-decoration:none;/*background-color: #eeeeee;*/}
 nav>.pull-right{float:right;}
 nav li+.nav-header{margin-top:9px;}
-nav{font-size:26px;
+
+/* TOP NAVIGATION */
+nav{margin-left:0;list-style:none;min-width: 445px;font-size:26px;
 float:none;padding:9px 9px 13px;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
 color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;}
 
@@ -706,7 +707,9 @@ nav>.disabled>a:hover{text-decoration:none;background-color:transparent;cursor:d
   text-shadow:0 1px 0 #eeeeee;text-align: right;font-family:Georgia;}
   .navbar .brand:hover{text-decoration:none;}
 
-a.brand {font-size:29px;color:#a8320a;})
+a.brand {font-size:29px;color:#a8320a;font-weight:400}
+
+
 .navbar-text{margin-bottom:0;line-height:40px;}
 .navbar-link{color:#2d2d2d;}.navbar-link:hover{color:#558bc4;}
 .navbar .divider-vertical{height:40px;margin:0 9px;border-left:1px solid #bbbbbb;border-right:1px solid #eeeeee;}
