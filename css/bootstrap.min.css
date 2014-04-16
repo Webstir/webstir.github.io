@@ -586,6 +586,12 @@ nav>li>a{display:block;}
 nav>li>a:hover{text-decoration:none;/*background-color: #eeeeee;*/}
 nav>.pull-right{float:right;}
 nav li+.nav-header{margin-top:9px;}
+nav{font-size:26px;
+float:none;padding:9px 9px 13px;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
+color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;}
+
+
+nav.navbar  .dropdown-toggle .caret{font-size:20px; margin-top:8px;}
 
 .nav-header{display:block;padding:3px 15px;font-size:11px;font-weight:bold;line-height:21px;color:#bbbbbb;text-shadow:0 1px 0 rgba(255, 255, 255, 0.5);text-transform:uppercase;}
 .nav-list{padding-left:15px;padding-right:15px;margin-bottom:0;}
@@ -725,14 +731,6 @@ a.brand {font-size:29px;color:#a8320a;})
 .navbar .nav{position:relative;left:0;display:block;/*float:left;*/margin:0 0 0 0;}
 .navbar .nav.pull-right{float:right;margin-right:0;}
 .navbar .nav>li{/*float:left;*/}
-
-
-nav{font-size:26px;
-float:none;padding:9px 9px 13px;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
-color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;}
-
-
-nav.navbar  .dropdown-toggle .caret{font-size:20px; margin-top:8px;}
 
 
 .navbar nav>li>a:focus,.navbar nav>li>a:hover{background-color:transparent;color:#e70401;/*text-decoration:none;*/}
