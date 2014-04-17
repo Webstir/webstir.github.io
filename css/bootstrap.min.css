@@ -1064,6 +1064,14 @@ footer a:hover{color: #8ebae8;}
   -o-transform: rotate(-90deg); 
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
+#bookshelf {
+  height: 28px; 
+  width: 28px; 
+  position: absolute; 
+  top: 146px;
+  display: block; 
+  background: #f23d2f;
+  padding: 3px 10px;}
 
 #site-submit a { 
   display: block; 
