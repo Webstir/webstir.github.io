@@ -1066,7 +1066,8 @@ footer a:hover{color: #8ebae8;}
 
 #site-submit a { 
   display: block; 
-  background: #f23d2f; 
+  background: #f23d2f;
+  color:#efeeee;
   height: 24px; 
   width: 64px; 
   padding: 3px 10px;
