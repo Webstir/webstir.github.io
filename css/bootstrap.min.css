@@ -1067,13 +1067,14 @@ footer a:hover{color: #8ebae8;}
 
 @media only screen and (min-device-width: 1400px) {
 #bookshelf {
-  height: 28px; 
-  width: 28px; 
+  height: 3px; 
+  width: 70px; 
   position: absolute; 
-  top: 146px;
+  top: 174px;
   display: block; 
-  background: #f23d2f;
-  padding: 3px 10px;}
+  background: #ee140f;
+  border-bottom: 1px solid #911f19;
+  border-top:1px solid #cf1913;}
 }
 
 #site-submit a { 
