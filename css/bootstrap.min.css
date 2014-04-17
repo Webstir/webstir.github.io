@@ -1055,7 +1055,7 @@ footer a:hover{color: #8ebae8;}
   height: 28px; 
   width: 28px; 
   position: fixed; 
-  top: 145px; 
+  top: 146px; 
   z-index: 999;
   transform: rotate(-90deg);
   -webkit-transform: rotate(-90deg); 
@@ -1080,6 +1080,7 @@ footer a:hover{color: #8ebae8;}
 
 #site-submit a:hover {
 	color: #fa372e;
+	background:#efeeee;
 }
 
 ​
