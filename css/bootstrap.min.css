@@ -5,7 +5,7 @@ audio:not([controls]){display:none;}
 html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
 
 position: relative;
-min-height: 100%;min-width: 640px;
+min-height: 100%;min-width: 635px;
 
 }
 a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
