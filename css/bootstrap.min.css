@@ -1052,8 +1052,8 @@ footer img{opacity:.4;float:left;}
 footer a:hover{color: #8ebae8;}
 
 #site-submit { 
-  height: 104px; 
-  width: 104px; 
+  height: 28px; 
+  width: 28px; 
   position: fixed; 
   top: 40%; 
   z-index: 999;
@@ -1066,15 +1066,15 @@ footer a:hover{color: #8ebae8;}
 
 #site-submit a { 
   display: block; 
-  background: #efeeee; 
+  background: #f23d2f; 
   height: 24px; 
-  width: 60px; 
+  width: 64px; 
   padding: 3px 10px;
   font-size: 17px; 
   font-weight: bold; 
-  border-bottom: solid 1px #333;
-  border-left: solid 1px #333;
-  border-right: solid 1px #333;
+  border-bottom: solid 1px #332b24;
+  border-left: solid 1px #332b24;
+  border-right: solid 1px #332b24;
 }
 
 #site-submit a:hover { 
