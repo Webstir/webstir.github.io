@@ -1064,6 +1064,8 @@ footer a:hover{color: #8ebae8;}
   -o-transform: rotate(-90deg); 
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
+
+@media only screen and (min-device-width: 1400px) {
 #bookshelf {
   height: 28px; 
   width: 28px; 
@@ -1072,6 +1074,7 @@ footer a:hover{color: #8ebae8;}
   display: block; 
   background: #f23d2f;
   padding: 3px 10px;}
+}
 
 #site-submit a { 
   display: block; 
