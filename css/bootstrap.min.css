@@ -1039,17 +1039,17 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 */
 
 
-.footer {margin-left:0px;background: #342b24;
+footer {margin-left:0px;background: #342b24;
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
 }
-.footer p{color:#808080;padding-left: 15px;
+footer p{color:#808080;padding-left: 15px;
 padding-bottom: 12px;padding-top:12px;font-size:12px;}
-.footer img{opacity:.4;float:left;}
+footer img{opacity:.4;float:left;}
 
-a.footer:hover{color: #8ebae8;}
+footer a:hover{color: #8ebae8;}
 
 
 
