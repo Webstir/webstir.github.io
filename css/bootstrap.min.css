@@ -1066,12 +1066,10 @@ footer a:hover{color: #8ebae8;}
 
 #site-submit a { 
   display: block; 
-  background: #f00; 
-  height: 15px; 
-  width: 70px; 
-  padding: 8px 16px;
-  color: #fff; 
-  font-family: Arial, sans-serif; 
+  background: #efeeee; 
+  height: 24px; 
+  width: 60px; 
+  padding: 0px 10px;
   font-size: 17px; 
   font-weight: bold; 
   text-decoration: none; 
