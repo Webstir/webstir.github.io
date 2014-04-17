@@ -587,7 +587,7 @@ nav>.pull-right{float:right;}
 nav li+.nav-header{margin-top:9px;}
 
 /* TOP NAVIGATION */
-nav{margin-left:0;list-style:none;min-width: 445px;font-size:26px;
+nav{margin-left:0;list-style:none;min-width: 500px;font-size:26px;
 float:none;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
 color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;}
 
