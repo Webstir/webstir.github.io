@@ -1064,6 +1064,10 @@ footer a:hover{color: #8ebae8;}
   -o-transform: rotate(-90deg); 
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
+@media (max-width: 880px) {
+  #site-submit a {z-index: -1;}
+
+}
 
 @media (min-width: 1400px) {
 #bookshelf {
