@@ -1048,7 +1048,7 @@ footer {margin-left:0px;background: #342b24;
 }
 footer p{color:#808080;padding-left: 15px;
 padding-bottom: 12px;padding-top:12px;font-size:12px;}
-footer img{opacity:.4;float:left;}
+footer img{opacity:.4;float:left;padding-bottom:10px;padding-right: 10px;}
 
 footer a:hover{color: #8ebae8;}
 
