@@ -215,28 +215,6 @@
     </center>
   </div>
   <div class="container-fluid">
-
-    
-    <!-- START: Livefyre Embed -->
-<div id="livefyre-comments"></div>
-<script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
-<script type="text/javascript">
-(function () {
-    var articleId = fyre.conv.load.makeArticleId(null);
-    fyre.conv.load({}, [{
-        el: 'livefyre-comments',
-        network: "livefyre.com",
-        siteId: "357491",
-        articleId: articleId,
-        signed: false,
-        collectionMeta: {
-            articleId: articleId,
-            url: fyre.conv.load.makeCollectionUrl(),
-        }
-    }], function() {});
-}());
-</script>
-<!-- END: Livefyre Embed -->
             
     <div id="disqus_thread"></div>
     <script type="text/javascript">
@@ -251,7 +229,7 @@
             })();
     </script>
     <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">submissions.</a></noscript>
-  </div><!--row-fluid-->
+  </div><!--container-fluid-->
 </section>
 
 <div class="footer-spacer"></div>
