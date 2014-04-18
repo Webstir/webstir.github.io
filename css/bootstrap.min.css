@@ -1076,7 +1076,7 @@ footer a:hover{color: #8ebae8;}
   border-bottom: 1px solid #911f19;
   border-top:1px solid #cf1913;}
 }
-@media (max-width: 880px) {
+@media (min-width: 880px) {
 #site-submit a { 
   display: block; 
   background: #f23d2f;
@@ -1090,10 +1090,9 @@ footer a:hover{color: #8ebae8;}
   border-left: solid 1px #332b24;
   border-right: solid 15px #332b24;
   border-top:solid 2px #332b24;}
-}
 #site-submit a:hover {
 	color: #fa372e;
-	background:#ffffff;
+	background:#ffffff;}
 }
 
 ​
