@@ -1086,9 +1086,10 @@ footer a:hover{color: #8ebae8;}
   padding: 3px 10px;
   font-size: 17px; 
   font-weight: bold; 
-  border-bottom: solid 1px #332b24;
+  border-bottom: solid 5px #332b24;
   border-left: solid 1px #332b24;
-  border-right: solid 1px #332b24;
+  border-right: solid 15px #332b24;
+  border-top:solid 2px #332b24;
 }
 
 #site-submit a:hover {
