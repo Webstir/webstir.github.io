@@ -5,7 +5,7 @@ audio:not([controls]){display:none;}
 html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
 
 position: relative;
-min-height: 100%;
+min-height: 100%;min-width: 540px;
 
 }
 a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
@@ -1097,6 +1097,7 @@ footer a:hover{color: #8ebae8;}
 	background:#ffffff;}
 }
 
-#hand-pointing { width:30%;float:left;padding-right:50px;}
+#hand-pointing { width:30%;float:left;padding-top:4%;
+padding-right: 3%;}
 ​
 
