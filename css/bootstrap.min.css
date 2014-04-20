@@ -616,7 +616,7 @@ nav li+.nav-header{margin-top:9px;}
 /* TOP NAVIGATION */
 nav{margin-left:0;list-style:none;font-size:1.8em;
 float:none;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
-color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 651px;}
+color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 100%;}
 
 /*Equally spaces top navigation*/
 
