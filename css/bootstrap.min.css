@@ -628,7 +628,6 @@ ul#nav {
 }
 ul#nav li { 
     display: inline;
-    padding: 0px 16px;
 }
 ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 
