@@ -1110,11 +1110,12 @@ MEDIA QUERIES
 }
 
 @media (min-width: 480px){
-	.nav-pills {visibility: hidden}
+	.nav-tabs {visibility: visible;}
+	.nav-pills {visibility: hidden;}
 }
 @media (max-width: 480px){
-	.nav-tabs {visibility: hidden}
-	.nav-pills {visibility: visible}
+	.nav-tabs {visibility: hidden;}
+	.nav-pills {visibility: visible;}
 	.hero-unit {visibility: hidden;display: none;}
 	ul#nav {height:80px;}
 }
