@@ -1058,12 +1058,11 @@ footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
 
 footer a:hover{color: #8ebae8;}
 
-#site-submit { 
-  height: 28px; 
-  width: 28px; 
-  position: absolute; 
-  top: 146px; 
-  z-index: 999;
+#site-submit {
+	position: absolute;
+	top: 102px;
+	left:-20px;
+	z-index: 999;
   transform: rotate(-90deg);
   -webkit-transform: rotate(-90deg); 
   -moz-transform: rotate(-90deg); 
@@ -1080,7 +1079,7 @@ footer a:hover{color: #8ebae8;}
   height: 3px; 
   width: 100px; 
   position: absolute; 
-  top: 174px;
+  top: 171px;
   display: block; 
   background: #ee140f;
   border-bottom: 1px solid #911f19;
