@@ -1136,14 +1136,14 @@ display: none;}
 }
 
 @media (max-width: 480px){
-	.brand {display: none}
+	.brand {}
 	#webstir-blurb {background:white;border-bottom: 1px solid #dddddd;
 border-top: 1px solid #dddddd;}
 	#hand-pointing {display: none}
 	.hero-unit {visibility: hidden;display: none;}
 	ul#nav {height:80px;}
 
-	/*HAMBURGER BUTTON*/
+	/*HAMBURGER BUTTON  \/ \/ \/ \/ \/ */
 body {
     margin: 0;
     padding: 0;
