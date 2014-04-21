@@ -1111,6 +1111,7 @@ MEDIA QUERIES
 
 
 @media (max-width: 480px){
+	#hand-pointing {display: none}
 	.hero-unit {visibility: hidden;display: none;}
 	ul#nav {height:80px;}
 }
