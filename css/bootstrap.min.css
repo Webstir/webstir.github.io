@@ -1110,7 +1110,8 @@ MEDIA QUERIES
 }
 
 @media (min-width: 481px){
-#webstir-blurb {visibility: hidden;}
+#webstir-blurb {visibility: hidden;
+display: none;}
 }
 
 @media (max-width: 480px){
