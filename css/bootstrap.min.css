@@ -1041,7 +1041,7 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 padding-right: 3%;}
 
 #submit-example {
-	border:solid 1px;
+	border:1px solid;
 	padding: 50px;
 	border-radius: 5px;}
 
