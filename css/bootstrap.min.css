@@ -1100,4 +1100,7 @@ footer a:hover{color: #8ebae8;}
 #hand-pointing { width:30%;float:left;padding-top:4%;
 padding-right: 3%;}
 ​
+#submit-example {border: solid 1px;
+padding: 50px;
+border-radius: 5px;}
 
