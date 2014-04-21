@@ -1111,7 +1111,6 @@ MEDIA QUERIES
 
 @media (min-width: 480px){
 	.nav-pills {visibility: hidden}
-	.nav-tabs {visibility: visible}
 }
 @media (max-width: 480px){
 	.nav-tabs {visibility: hidden}
