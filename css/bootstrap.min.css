@@ -1062,7 +1062,6 @@ padding-right: 3%;}
 #submit-example {
 	border:2px solid #ccd4d8;
 	padding: 5px;
-	width:530px;
 	background:#ffffff;
 	border-radius: 5px;
 	font-size: 1.3em;
@@ -1134,7 +1133,8 @@ display: none;}
 }
 
 @media (max-width: 480px){
-	#webstir-blurb {background:white;}
+	#webstir-blurb {background:white;border-bottom: 1px solid #dddddd;
+border-top: 1px solid #dddddd;}
 	#hand-pointing {display: none}
 	.hero-unit {visibility: hidden;display: none;}
 	ul#nav {height:80px;}
