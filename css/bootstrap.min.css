@@ -1074,7 +1074,7 @@ footer a:hover{color: #8ebae8;}
 @media (min-width: 1400px) {
 #bookshelf {
   height: 3px; 
-  width: 100px; 
+  width: 65px; 
   position: absolute; 
   top: 171px;
   display: block; 
