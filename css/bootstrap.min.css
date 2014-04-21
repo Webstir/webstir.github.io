@@ -1109,13 +1109,8 @@ MEDIA QUERIES
   #site-submit a {visibility:hidden;}
 }
 
-@media (min-width: 480px){
-	.nav-pills {visibility: hidden;}
-	.nav-tabs {visibility: visible;}
-}
+
 @media (max-width: 480px){
-	.nav-tabs {visibility: hidden;}
-	.nav-pills {visibility: visible;}
 	.hero-unit {visibility: hidden;display: none;}
 	ul#nav {height:80px;}
 }
