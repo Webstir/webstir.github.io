@@ -1037,7 +1037,12 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
 */
-
+#hand-pointing { width:30%;float:left;padding-top:4%;
+padding-right: 3%;}
+​
+#submit-example {border: solid 1px;
+padding: 50px;
+border-radius: 5px;}
 
 footer {margin-left:0px;background: #342b24;
     position: absolute;
@@ -1078,6 +1083,8 @@ footer a:hover{color: #8ebae8;}
   border-bottom: 1px solid #911f19;
   border-top:1px solid #cf1913;}
 }
+
+
 @media (min-width: 880px) {
 #site-submit a { 
   display: block; 
@@ -1097,10 +1104,5 @@ footer a:hover{color: #8ebae8;}
 	background:#ffffff;}
 }
 
-#hand-pointing { width:30%;float:left;padding-top:4%;
-padding-right: 3%;}
-​
-#submit-example {border: solid 1px;
-padding: 50px;
-border-radius: 5px;}
+
 
