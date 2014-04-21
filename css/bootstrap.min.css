@@ -1059,6 +1059,8 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 #hand-pointing { width:30%;float:left;padding-top:4%;
 padding-right: 3%;}
 
+#submit-check {text-align: center}
+
 #submit-example {
 	border:2px solid #ccd4d8;
 	padding: 5px;
