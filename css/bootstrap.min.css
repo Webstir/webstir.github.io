@@ -1110,5 +1110,6 @@ MEDIA QUERIES
 }
 
 @media (max-width: 480px){
-	.hero-unit {visibility: hidden;}
+	.hero-unit {visibility: hidden;display: none;}
+	ul .nav {height:inherit;}
 }
