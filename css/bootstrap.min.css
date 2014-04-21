@@ -1040,9 +1040,10 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 #hand-pointing { width:30%;float:left;padding-top:4%;
 padding-right: 3%;}
 
-#submit-example { border: solid 1px;
-padding: 50px;
-border-radius: 5px;}
+#submit-example {
+	border:solid 1px;
+	padding: 50px;
+	border-radius: 5px;}
 
 footer {margin-left:0px;background: #342b24;
     position: absolute;
