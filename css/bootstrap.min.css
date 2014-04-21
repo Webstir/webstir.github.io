@@ -1041,8 +1041,10 @@ div.subnav .nav>li.dropdown.open>.dropdown-toggle{border-left:1px solid whiteSmo
 padding-right: 3%;}
 
 #submit-example {
-	border:1px solid;
-	padding: 50px;
+	border:2px solid #ccd4d8;
+	padding: 5px;
+	width:530px;
+	background:#ffffff;
 	border-radius: 5px;}
 
 footer {margin-left:0px;background: #342b24;
