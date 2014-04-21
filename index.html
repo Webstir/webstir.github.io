@@ -7,7 +7,7 @@
 
     <meta charset="utf-8">
     <title>Webst.ir | Celebrating Web Innovation</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -18,6 +18,8 @@
   <!--jquery must be before bootstrap.js-->
   <script src="http://webst.ir/js/jquery-1.11.0.js"></script>
   <script src="http://webst.ir/js/bootstrap.js"></script>
+  <script src="http://webst.ir/js/hamburger.js"></script>
+  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 
   <!--Google fonts-->
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
@@ -72,6 +74,37 @@
   </ul> 
 </nav>
 
+<!--This wrapping container is used to get the width of the whole content-->
+    <div id="container">
+
+        <!--The Hamburger Button in the Header-->
+        <header>
+            <div id="hamburger">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </header>
+
+        <!--The mobile navigation Markup hidden via css-->
+        <nav class="mobileNav">
+            <ul>
+                <li><a href="#">menuitem 1</a></li>
+                <li><a href="#">menuitem 2</a></li>
+                <li><a href="#">menuitem 3</a></li>
+                <li><a href="#">menuitem 4</a></li>
+                <li><a href="#">menuitem 5</a></li>
+                <li><a href="#">menuitem 6</a></li>
+            </ul>
+        </nav>
+
+        <!--The Layer that will be layed over the content
+        so that the content is unclickable while menu is shown-->
+        <div id="contentLayer"></div>
+
+        <!--The content of the site-->
+        <div id="content">
+          
 <div id="site-submit"><a href="#submit">Submit</a></div>
   <!-- Main hero unit -->
 <div class="hero-unit home-title"></div>
@@ -200,8 +233,9 @@
   <p><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>Code licensed under the <a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>. Based on open-source <a target="_blank" href="http://twitter.github.com/bootstrap/">Bootstrap</a>. Hosted free on <a target="_blank" href="http://pages.github.com/">GitHub</a>. Icons from <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>. Web fonts from <a target="_blank" href="http://www.google.com/webfonts">Google</a>.</p>
 </center>
 </footer>
+</div>
 
-
+</div>
 
 </body>
 </html>
