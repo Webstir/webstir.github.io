@@ -1136,7 +1136,8 @@ display: none;}
 }
 
 @media (max-width: 480px){
-	.brand {}
+	.brand {position: absolute;
+left:50px;}
 	#webstir-blurb {background:white;border-bottom: 1px solid #dddddd;
 border-top: 1px solid #dddddd;}
 	#hand-pointing {display: none}
@@ -1156,7 +1157,7 @@ body {
 Header is relative so z-index: 1 guarantees always displayed on top
 */
 header {
-    background-color: #3b5998;
+    background-color: #efeeee;
     padding: 10px;
     text-decoration: none;
     position: fixed;
@@ -1192,15 +1193,7 @@ the hamburger button with a little gradient effekt
     padding: 3px 4px 3px;
     position: relative;
     width: 25px;
-    background: #4569b2;
-    background: -moz-linear-gradient(top,  #4569b2 0%, #4062a5 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4569b2), color-stop(100%,#4062a5));
-    background: -webkit-linear-gradient(top,  #4569b2 0%,#4062a5 100%);
-    background: -o-linear-gradient(top,  #4569b2 0%,#4062a5 100%);
-    background: -ms-linear-gradient(top,  #4569b2 0%,#4062a5 100%);
-    background: linear-gradient(to bottom,  #4569b2 0%,#4062a5 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4569b2', endColorstr='#4062a5',GradientType=0 );
-}
+    background: #efeeee;}
 
 /*
 The white stripes in the hamburger button
