@@ -1115,6 +1115,7 @@ display: none;}
 }
 
 @media (max-width: 480px){
+	#webstir-blurb {background:white;border: 1px #dddddd solid;}
 	#hand-pointing {display: none}
 	.hero-unit {visibility: hidden;display: none;}
 	ul#nav {height:80px;}
