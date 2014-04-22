@@ -1188,7 +1188,7 @@ position absolute isset to cover the whole viewport
 the hamburger button with a little gradient effekt
 */
 #hamburger {
-    border: 1px solid #374C77;
+    border: 1px solid #b6806f;
     border-radius: 3px 3px 3px 3px;
     cursor: pointer;
     display: block;
@@ -1203,7 +1203,7 @@ the hamburger button with a little gradient effekt
 The white stripes in the hamburger button
 */
 #hamburger div {
-    background-color: #000;
+    background-color: #b6806f;
     border: 1px solid #eee;
     border-radius: 2px 2px 2px 2px;
     height: 2px;
