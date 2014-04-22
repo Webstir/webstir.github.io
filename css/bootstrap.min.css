@@ -1186,6 +1186,7 @@ the hamburger button with a little gradient effekt
     border-radius: 3px 3px 3px 3px;
     cursor: pointer;
     display: block;
+    float:left;
     height: 24px;
     padding: 3px 4px 3px;
     position: relative;
