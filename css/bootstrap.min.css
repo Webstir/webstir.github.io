@@ -1157,19 +1157,15 @@ Header is relative so z-index: 1 guarantees always displayed on top
 */
 header {
     background-color: #efeeee;
-    padding: 10px;
-    text-decoration: none;
     position: fixed;
     width: 100%;
     z-index: 1;
-    -webkit-box-shadow:  0px 3px 7px 0px rgba(0, 0, 0, 0.4);
-    box-shadow:  0px 3px 7px 0px rgba(0, 0, 0, 0.4);
 }
 
 /*
 using background color is important to cover the menu
 position absolute isset to cover the whole viewport
-*/
+
 #content {
     background-color: #FFFFFF;
     padding: 52px 10px 10px 10px;
@@ -1179,7 +1175,7 @@ position absolute isset to cover the whole viewport
     -webkit-box-shadow:  -10px 0px 9px 0px rgba(0, 0, 0, 0.4);
     box-shadow:  -10px 0px 9px 0px rgba(0, 0, 0, 0.4);
 }
-
+*/
 /*
 the hamburger button with a little gradient effekt
 */
