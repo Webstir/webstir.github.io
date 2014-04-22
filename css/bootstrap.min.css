@@ -1145,7 +1145,7 @@ border-top: 1px solid #dddddd;}
 	.hero-unit {visibility: hidden;display: none;}
 	ul#nav {height:80px;}
 
-	/*HAMBURGER BUTTON  \/ \/ \/ \/ \/ */
+	/*HAMBURGER BUTTON  \/ \/ \/ \/ \/ 
 body {
     margin: 0;
     padding: 0;
@@ -1153,7 +1153,7 @@ body {
     font-family: Arial;
     font-size: 18px;
 }
-
+*/
 /*
 Header is relative so z-index: 1 guarantees always displayed on top
 */
