@@ -1149,7 +1149,7 @@ bottom: 15px;}
 		color:#efeeee;
 		margin:13px;}
 	#hand-pointing {display: none}
-	#tab-text {display: none}
+	.tab-text {display: none}
 	ul#nav {height:80px;}
 
 	/*HAMBURGER BUTTON  \/ \/ \/ \/ \/ */
