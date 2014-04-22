@@ -920,7 +920,7 @@ nav.navbar  .dropdown-toggle .caret{font-size:20px; margin-top:8px;}
 
 ul#nav { 
   text-align: justify;
-  width: 95%;padding: 0px 0 0 0;height:45px;min-width: 481px;
+  width: 95%;padding: 0px 0 0 0;height:35px;min-width: 481px;
 }
 ul#nav li { 
     display: inline;
@@ -1102,7 +1102,7 @@ footer a:hover{color: #8ebae8;}
 
 #site-submit {
 	position: absolute;
-	top: 102px;
+	top: 92px;
 	left:-20px;
 	z-index: 999;
   transform: rotate(-90deg);
