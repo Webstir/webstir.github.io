@@ -917,9 +917,9 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 .nav-list [class^="icon-"]{margin-right:2px;}
 .nav-tabs:after,.nav-pills:after{clear:both;}
 .nav-tabs>li,.nav-pills>li{float:left;}
-.nav-tabs>li>a,.nav-pills>li>a{padding-right:12px;padding-left:12px;margin-right:2px;line-height:14px;}
+.nav-tabs>li>a,.nav-pills>li>a{padding-right:3%;padding-left:3%;margin-right:2%;line-height:14px;}
 
-.nav-tabs{border-bottom:1px solid #ddd;padding-left: 40px;height:30px;margin-top: 10px;min-width: 405px;}
+.nav-tabs{border-bottom:1px solid #ddd;padding-left: 2%;height:30px;margin-top: 10px;}
 .nav-tabs>li{margin-bottom:5px;list-style-type: none;}
 
 
