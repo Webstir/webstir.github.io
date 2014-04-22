@@ -1157,9 +1157,13 @@ Header is relative so z-index: 1 guarantees always displayed on top
 */
 header {
     background-color: #efeeee;
+    padding: 10px;
+    text-decoration: none;
     position: fixed;
     width: 100%;
     z-index: 1;
+    -webkit-box-shadow:  0px 3px 7px 0px rgba(0, 0, 0, 0.4);
+    box-shadow:  0px 3px 7px 0px rgba(0, 0, 0, 0.4);
 }
 
 /*
