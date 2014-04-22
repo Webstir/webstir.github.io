@@ -1138,8 +1138,10 @@ header .brand {display: none}
 }
 
 @media (max-width: 480px){
+	.hero-unit {visibility: hidden;display: none;}
 	.brand {position: absolute;
 left:50px;}
+	#webstir-center {width:100px;margin-left: auto;margin-right: auto;}
 	#webstir-blurb {background:white;border-bottom: 1px solid #dddddd;
 		border-top: 1px solid #dddddd;background:#720200;}
 	#webstir-blurb p {border:2px solid black;
@@ -1148,7 +1150,6 @@ left:50px;}
 		color:#efeeee;
 		margin:13px;}
 	#hand-pointing {display: none}
-	.hero-unit {visibility: hidden;display: none;}
 	ul#nav {height:80px;}
 
 	/*HAMBURGER BUTTON  \/ \/ \/ \/ \/ */
