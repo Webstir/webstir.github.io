@@ -1139,9 +1139,7 @@ header .brand {display: none}
 
 @media (max-width: 480px){
 	.hero-unit {visibility: hidden;display: none;}
-	.brand {position: absolute;
-left:50px;}
-	#webstir-center {width:100px;margin-left: auto;margin-right: auto;}
+	#webstir-center {width:100px;margin-left: auto;margin-right: auto;padding-right: 35px;}
 	#webstir-blurb {background:white;border-bottom: 1px solid #dddddd;
 		border-top: 1px solid #dddddd;background:#720200;}
 	#webstir-blurb p {border:2px solid black;
@@ -1164,7 +1162,7 @@ Header is relative so z-index: 1 guarantees always displayed on top
 */
 header {
     background-color: #efeeee;
-    padding: 10px;
+    padding: 0px;
     text-decoration: none;
     position: fixed;
     width: 100%;
@@ -1197,6 +1195,7 @@ the hamburger button with a little gradient effekt
     float:left;
     height: 24px;
     padding: 3px 4px 3px;
+    margin:3px 0px 3px 6px;
     position: relative;
     width: 25px;
     background: #efeeee;}
