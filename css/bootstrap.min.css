@@ -1162,8 +1162,6 @@ header {
     position: fixed;
     width: 100%;
     z-index: 1;
-    -webkit-box-shadow:  0px 3px 7px 0px rgba(0, 0, 0, 0.4);
-    box-shadow:  0px 3px 7px 0px rgba(0, 0, 0, 0.4);
 }
 
 /*
@@ -1176,7 +1174,8 @@ position absolute isset to cover the whole viewport
     position: relative;
     width: auto;
     min-height: 1000px;
-    
+    -webkit-box-shadow:  -10px 0px 9px 0px rgba(0, 0, 0, 0.4);
+    box-shadow:  -10px 0px 9px 0px rgba(0, 0, 0, 0.4);
 }
 
 /*
