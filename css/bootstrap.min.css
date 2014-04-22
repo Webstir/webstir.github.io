@@ -1165,17 +1165,17 @@ header {
 /*
 using background color is important to cover the menu
 position absolute isset to cover the whole viewport
-
+*/
 #content {
-    background-color: #FFFFFF;
-    padding: 52px 10px 10px 10px;
+    /*background-color: #FFFFFF;
+    padding: 52px 10px 10px 10px;*/
     position: relative;
     width: auto;
     min-height: 1000px;
     -webkit-box-shadow:  -10px 0px 9px 0px rgba(0, 0, 0, 0.4);
     box-shadow:  -10px 0px 9px 0px rgba(0, 0, 0, 0.4);
 }
-*/
+
 /*
 the hamburger button with a little gradient effekt
 */
