@@ -1134,6 +1134,7 @@ MEDIA QUERIES
 display: none;}
 .mobileNav{display: none}
 #hamburger{display: none}
+header .brand {display: none}
 }
 
 @media (max-width: 480px){
