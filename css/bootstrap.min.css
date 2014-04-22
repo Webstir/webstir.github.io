@@ -1133,6 +1133,7 @@ MEDIA QUERIES
 #webstir-blurb {visibility: hidden;
 display: none;}
 .mobileNav{display: none}
+#hamburger{display: none}
 }
 
 @media (max-width: 480px){
