@@ -900,7 +900,7 @@ nav.navbar  .dropdown-toggle .caret{font-size:20px; margin-top:8px;}
 
 ul#nav { 
   text-align: justify;
-  width: 95%;padding: 0px 0 0 0;height:45px;
+  width: 95%;padding: 0px 0 0 0;height:45px;min-width: 481px;
 }
 ul#nav li { 
     display: inline;
@@ -1141,7 +1141,12 @@ header .brand {display: none}
 	.brand {position: absolute;
 left:50px;}
 	#webstir-blurb {background:white;border-bottom: 1px solid #dddddd;
-border-top: 1px solid #dddddd;}
+		border-top: 1px solid #dddddd;background:#720200;}
+	#webstir-blurb p {border:2px solid black;
+		padding:10px;
+		background:#342b24;
+		color:#efeeee;
+		margin:13px;}
 	#hand-pointing {display: none}
 	.hero-unit {visibility: hidden;display: none;}
 	ul#nav {height:80px;}
