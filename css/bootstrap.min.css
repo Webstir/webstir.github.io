@@ -1092,6 +1092,7 @@ footer {margin-left:0px;background: #342b24;
     bottom: 0;
     left: 0;
     width: 100%;
+    height:50px;
 }
 footer p{color:#808080;padding:1% 1% 1% 1%;font-size: .78em;}
 footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
@@ -1248,15 +1249,7 @@ nav {
     box-sizing: border-box;
     overflow-x:hidden;
     overflow-y:auto ;
-    background: #3e3c3d;
-    background: -moz-linear-gradient(top,  #3e3c3d 0%, #2d2c2d 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3e3c3d), color-stop(100%,#2d2c2d));
-    background: -webkit-linear-gradient(top,  #3e3c3d 0%,#2d2c2d 100%);
-    background: -o-linear-gradient(top,  #3e3c3d 0%,#2d2c2d 100%);
-    background: -ms-linear-gradient(top,  #3e3c3d 0%,#2d2c2d 100%);
-    background: linear-gradient(to bottom,  #3e3c3d 0%,#2d2c2d 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3e3c3d', endColorstr='#2d2c2d',GradientType=0 );
-}
+    background: #342b24}
 
 /*
 Style the navigation menu
