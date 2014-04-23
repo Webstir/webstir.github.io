@@ -1151,7 +1151,7 @@ MEDIA QUERIES
   #site-submit a {visibility:hidden;}
 }
 
-@media (min-width: 481px){
+@media (min-width: 531px){
 #webstir-blurb {visibility: hidden;
 display: none;}
 .mobileNav{display: none}
@@ -1159,7 +1159,7 @@ display: none;}
 header .brand {display: none}
 }
 
-@media (max-width: 480px){
+@media (max-width: 530px){
 	.f-dropdown.content {max-width: 80%}
 	.hero-unit {visibility: hidden;display: none;}
 	#webstir-center {width:100px;margin-left: auto;margin-right: auto;padding-right: 35px;}
