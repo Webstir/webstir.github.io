@@ -214,7 +214,7 @@ meta.foundation-data-attribute-namespace {
     border: solid 1px #cccccc;
     font-size: 0.875rem;
     z-index: 99;
-    max-width: 200px; }
+    max-width: 500px; }
     .f-dropdown.content > *:first-child {
       margin-top: 0; }
     .f-dropdown.content > *:last-child {
