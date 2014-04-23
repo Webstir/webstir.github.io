@@ -22,8 +22,7 @@ meta.foundation-mq-xxlarge {
   font-family: "/only screen and (min-width:120.063em)/";
   width: 120.063em; }
 */
-meta.foundation-data-attribute-namespace {
-  font-family: false; }
+
 /*
 html, body {
   height: 100%; }
@@ -103,6 +102,11 @@ textarea {
 
 select {
   width: 100%; }*/
+
+  /*NECESESARY!!!*/
+meta.foundation-data-attribute-namespace {
+  font-family: false; }
+/*END NECESSARY*/
 
 .dropdown.button, button.dropdown {
   position: relative;
@@ -281,7 +285,7 @@ select {
 
   .xxlarge-text-justify {
     text-align: justify !important; } }
-/* Typography resets */
+/* Typography resets *//*
 div,
 dl,
 dt,
