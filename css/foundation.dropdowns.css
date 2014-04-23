@@ -216,7 +216,7 @@ meta.foundation-data-attribute-namespace {
     z-index: 99;
 
     /*MAX WIDTH!!!!!!*/
-    max-width: 80%; }
+    max-width: 400px; }
 
     .f-dropdown.content > *:first-child {
       margin-top: 0; }
