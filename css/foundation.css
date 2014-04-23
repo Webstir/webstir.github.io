@@ -58,7 +58,7 @@ img {
   height: auto; }
 
 img {
-  -ms-interpolation-mode: bicubic; }*/
+  -ms-interpolation-mode: bicubic; }
 
 #map_canvas img,
 #map_canvas embed,
@@ -98,7 +98,7 @@ textarea {
   min-height: 50px; }
 
 select {
-  width: 100%; }
+  width: 100%; }*/
 
 .dropdown.button, button.dropdown {
   position: relative;
