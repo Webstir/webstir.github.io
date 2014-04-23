@@ -1077,6 +1077,14 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 
 .comment-icon {width:30px;}
 
+#webster-small {
+	height:120px;
+	float: left;
+	padding: 0;
+	border: 1px solid #f0c019;
+	border-radius: 5px;
+	margin: 10px;}
+
 #hand-pointing { width:30%;float:left;padding-top:4%;
 padding-right: 3%;}
 
