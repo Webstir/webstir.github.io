@@ -15,12 +15,6 @@
     <link href="http://webst.ir/css/bootstrap.min.css" rel="stylesheet">
     <link rel="image_src" href="/webstir.png" />
 
-  <!--jquery must be before bootstrap.js-->
-  <script src="http://webst.ir/js/jquery-1.11.0.js"></script>
-  <script src="http://webst.ir/js/bootstrap.js"></script>
-  <script src="http://webst.ir/js/hamburger.js"></script>
-  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-
   <!--Google fonts-->
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
@@ -208,6 +202,17 @@
     </center>
   </div>
   <div class="container-fluid">
+
+    <form>
+ <label><u>S</u>earch Engines</label>
+ <select accesskey="S" onchange="goToPage(this.options(this.selectedIndex).value)">
+ <option selected>Please select one</option>
+ <option value="http://search.msn.com/">MSN Search</option>
+ <option value="http://www.google.com/">Google</option>
+ <option value="http://www.search.com/">Search.com</option>
+ <option value="http://www.dogpile.com/">Dogpile</option>
+ </select>
+</form>
             <!--
     <div id="disqus_thread"></div>
     <script type="text/javascript">
@@ -235,6 +240,13 @@
 
 
 </div>
+
+<!--jquery must be before bootstrap.js-->
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+  <script src="http://webst.ir/js/bootstrap.js"></script>
+  <script src="http://webst.ir/js/hamburger.js"></script>
+  
 
 </body>
 </html>
