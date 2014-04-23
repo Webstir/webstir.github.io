@@ -103,10 +103,7 @@ textarea {
 select {
   width: 100%; }*/
 
-  /*NECESESARY!!!*/
-meta.foundation-data-attribute-namespace {
-  font-family: false; }
-/*END NECESSARY*/
+  
 /*
 .dropdown.button, button.dropdown {
   position: relative;
@@ -2858,11 +2855,11 @@ textarea {
 input[type="submit"] {
   -webkit-appearance: none; }
 
-/* Respect enforced amount of rows for textarea */
+/* Respect enforced amount of rows for textarea *//*
 textarea[rows] {
   height: auto; }
 
-/* Add height value for select elements to match text input height */
+/* Add height value for select elements to match text input height *//*
 select {
   -webkit-appearance: none !important;
   background-color: #fafafa;
@@ -2880,7 +2877,7 @@ select {
     background-color: #f3f3f3;
     border-color: #999999; }
 
-/* Adjust margin for form elements below */
+/* Adjust margin for form elements below *//*
 input[type="file"],
 input[type="checkbox"],
 input[type="radio"],
@@ -2895,11 +2892,11 @@ input[type="radio"] + label {
   margin-bottom: 0;
   vertical-align: baseline; }
 
-/* Normalize file input width */
+/* Normalize file input width *//*
 input[type="file"] {
   width: 100%; }
 
-/* We add basic fieldset styling */
+/* We add basic fieldset styling *//*
 fieldset {
   border: 1px solid #dddddd;
   padding: 1.25rem;
@@ -2911,7 +2908,7 @@ fieldset {
     margin: 0;
     margin-left: -0.1875rem; }
 
-/* Error Handling */
+/* Error Handling *//*
 [data-abide] .error small.error, [data-abide] span.error, [data-abide] small.error {
   display: block;
   padding: 0.375rem 0.5625rem 0.5625rem;
@@ -2974,3 +2971,8 @@ textarea.error {
 
 label.error {
   color: #c60f13; }
+*/
+  /*NECESESARY!!!*/
+meta.foundation-data-attribute-namespace {
+  font-family: false; }
+/*END NECESSARY*/
