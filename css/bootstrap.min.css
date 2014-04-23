@@ -872,7 +872,6 @@ a:hover{text-decoration:none;color:#fa372e;}
 .container:after{clear:both;}
 .container-fluid{padding-right:20px;padding-left:20px; min-width:500px;}.container-fluid:before,.container-fluid:after{display:table;content:"";line-height:0;}
 .container-fluid:after{clear:both;}
-p{margin:10px;}
 .lead{margin-bottom:21px;font-size:21px;font-weight:200;line-height:31.5px;}
 small{font-size:85%;}
 strong{font-weight:bold;}
@@ -1094,7 +1093,7 @@ footer {margin-left:0px;background: #342b24;
     width: 100%;
     height:50px;
 }
-footer p{color:#808080;padding:1% 1% 1% 1%;font-size: .78em;}
+footer p{color:#808080;padding:2% 2% 2% 2%;}
 footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
 
 footer a:hover{color: #8ebae8;}
