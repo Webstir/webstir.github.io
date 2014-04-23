@@ -301,6 +301,7 @@ td {
   padding: 0; }
 
 /* Default Link Styles */
+/*
 a {
   color: #2ba6cb;
   text-decoration: none;
@@ -311,6 +312,7 @@ a {
     border: none; }
 
 /* Default paragraph styles */
+/*
 p {
   font-family: inherit;
   font-weight: normal;
@@ -435,8 +437,8 @@ ul.disc {
   margin-left: 1.1rem; }
 ul.no-bullet {
   list-style: none; }
-*/
-/* Ordered Lists */
+
+/* Ordered Lists *//*
 ol {
   margin-left: 1.4rem; }
   ol li ul,
@@ -444,14 +446,14 @@ ol {
     margin-left: 1.25rem;
     margin-bottom: 0; }
 
-/* Definition Lists */
+/* Definition Lists *//*
 dl dt {
   margin-bottom: 0.3rem;
   font-weight: bold; }
 dl dd {
   margin-bottom: 0.75rem; }
 
-/* Abbreviations */
+/* Abbreviations *//*
 abbr,
 acronym {
   text-transform: uppercase;
@@ -463,7 +465,7 @@ acronym {
 abbr {
   text-transform: none; }
 
-/* Blockquotes */
+/* Blockquotes *//*
 blockquote {
   margin: 0 0 1.25rem;
   padding: 0.5625rem 1.25rem 0 1.1875rem;
@@ -483,7 +485,7 @@ blockquote p {
   line-height: 1.6;
   color: #6f6f6f; }
 
-/* Microformats */
+/* Microformats *//*
 .vcard {
   display: inline-block;
   margin: 0 0 1.25rem 0;
@@ -519,13 +521,14 @@ blockquote p {
     font-size: 1.6875rem; }
 
   h4 {
-    font-size: 1.4375rem; } }
+    font-size: 1.4375rem; } }*/
 /*
  * Print styles.
  *
  * Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
  * Credit to Paul Irish and HTML5 Boilerplate (html5boilerplate.com)
 */
+/*
 .print-only {
   display: none !important; }
 
@@ -533,7 +536,7 @@ blockquote p {
   * {
     background: transparent !important;
     color: black !important;
-    /* Black prints faster: h5bp.com/s */
+    /* Black prints faster: h5bp.com/s 
     box-shadow: none !important;
     text-shadow: none !important; }
 
@@ -559,7 +562,7 @@ blockquote p {
 
   thead {
     display: table-header-group;
-    /* h5bp.com/t */ }
+    /* h5bp.com/t */ /*}
 
   tr,
   img {
