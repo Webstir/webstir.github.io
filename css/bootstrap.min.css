@@ -785,7 +785,7 @@ sub{bottom:-0.25em;}
 img{max-width:100%;width:auto\9;height:auto;vertical-align:middle;border:0;-ms-interpolation-mode:bicubic;}
 #map_canvas img{max-width:none;}
 button,input,select,textarea{margin:0;font-size:100%;vertical-align:middle;}
-body{margin: 0px 0px 65px 0px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1em;
+body{margin: 0px 0px 0px 0px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1em;
 color:#000000;background:#efeeee;}
 
 /* link colors*/
