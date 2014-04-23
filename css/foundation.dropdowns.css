@@ -1,3 +1,11 @@
+
+
+/*NECESESARY!!!*/
+meta.foundation-data-attribute-namespace {
+  font-family: false; }
+/*END NECESSARY*/
+
+
 /* Foundation Dropdowns */
 .f-dropdown {
   position: absolute;
@@ -219,3 +227,6 @@
     max-width: 500px; }
   .f-dropdown.large {
     max-width: 800px; }
+
+
+  
