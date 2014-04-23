@@ -327,6 +327,7 @@ p {
     font-style: italic; }
 
 /* Default header styles */
+/*
 h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -372,8 +373,9 @@ hr {
   clear: both;
   margin: 1.25rem 0 1.1875rem;
   height: 0; }
-
+*/
 /* Helpful Typography Defaults */
+/*
 em,
 i {
   font-style: italic;
@@ -392,8 +394,9 @@ code {
   font-family: Consolas, "Liberation Mono", Courier, monospace;
   font-weight: bold;
   color: #910b0e; }
-
+*/
 /* Lists */
+/*
 ul,
 ol,
 dl {
@@ -412,8 +415,9 @@ ul {
       margin-left: 1.25rem;
       margin-bottom: 0;
       list-style: none; }
-
+*/
 /* Unordered Lists */
+/*
 ul li ul,
 ul li ol {
   margin-left: 1.25rem;
@@ -431,7 +435,7 @@ ul.disc {
   margin-left: 1.1rem; }
 ul.no-bullet {
   list-style: none; }
-
+*/
 /* Ordered Lists */
 ol {
   margin-left: 1.4rem; }
