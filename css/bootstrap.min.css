@@ -1173,6 +1173,7 @@ header .brand {display: none}
 }
 
 @media (max-width: 530px){
+	html {overflow-x: hidden;}
 	.f-dropdown.content {max-width: 80%}
 	.hero-unit {visibility: hidden;display: none;}
 	#webstir-center {width:100px;margin-left: auto;margin-right: auto;padding-right: 35px;}
