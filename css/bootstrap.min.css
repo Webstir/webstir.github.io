@@ -1178,7 +1178,8 @@ bottom: 15px;}
 		padding:10px;
 		background:#342b24;
 		color:#efeeee;
-		margin:13px;}
+		margin:13px;
+		height: 120px;}
 	#hand-pointing {display: none}
 	.tab-text {display: none}
 	ul#nav {height:80px;}
