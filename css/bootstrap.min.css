@@ -1171,7 +1171,7 @@ header .brand {display: none}
 	.f-dropdown.content {max-width: 80%}
 	.hero-unit {visibility: hidden;display: none;}
 	#webstir-center {width:100px;margin-left: auto;margin-right: auto;padding-right: 35px;}
-	#webstir-blurb {background:white;border-bottom: 1px solid #dddddd;
+	#webstir-blurb-outer{border-bottom: 1px solid #dddddd;
 		border-top: 1px solid #dddddd;background:#720200;position:relative;
 bottom: 15px;}
 	#webstir-blurb{border:2px solid black;
