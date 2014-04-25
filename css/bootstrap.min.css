@@ -187,7 +187,7 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 
 
 .nav-tabs>li>a{padding:8px;line-height:25px;border:1px solid transparent;
-	-webkit-border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;border-radius:4px 4px 0 0;display:inline;}
+	-webkit-border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;border-radius:4px 4px 0 0;}
 
 .nav-tabs>li>a:hover{/*border-color:#eeeeee #eeeeee #dddddd;*/}
 
@@ -326,6 +326,8 @@ color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 1
 .navbar .brand:hover{color:#fa372e;}
 
 .comment-icon {width:30px;}
+
+.tab-text{display: inline;}
 
 .tab-text img{width:30px;}
 
