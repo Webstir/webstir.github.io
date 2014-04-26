@@ -292,7 +292,7 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 
 /*Banner images*/
 
-.social-title{padding:60px;margin-top:30px;background:url('http://webst.ir/social3.png') no-repeat center center;}
+.talk-title{height: 340px;background:#ffffff url('http://webst.ir/social3.png') no-repeat center center;}
 .share-title{height: 340px;background:#ffffff url('http://webst.ir/commerce.png') no-repeat center top;}
 .learn-title{height: 340px;background:#ffffff url('http://webst.ir/learn4.png') no-repeat center top;}
 .create-title{height: 350px; background:#ffffff url('http://webst.ir/create3.png') no-repeat center top;}
