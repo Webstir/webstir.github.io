@@ -21,7 +21,7 @@ table {	border-collapse: collapse;	border-spacing: 0;}
 @import url('http://fonts.googleapis.com/css?family=Muli');
 section{display:block;}
 html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
-min-height: 100%;
+/*min-height: 100%*/;
 
 }
 a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
@@ -424,7 +424,7 @@ header .brand {display: none}
 }
 
 @media (max-width: 530px){
-	html {overflow-x: hidden;overflow-y:hidden;}
+	html {overflow-x: hidden;/*overflow-y:hidden;*/}
 	.f-dropdown.content {max-width: 250px}
 	.hero-unit {visibility: hidden;display: none;}
 	#webstir-center {width:100px;margin-left: auto;margin-right: auto;padding-right: 35px;}
@@ -559,6 +559,6 @@ so that the content is unclickable while menu is shown
     top: 0;
     width: 30%;
     z-index: 5;
-    min-height: 1062px;
+    /*min-height: 1062px*/;
 }
 }
