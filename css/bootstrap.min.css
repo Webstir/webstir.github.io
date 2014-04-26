@@ -24,8 +24,7 @@ html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
 min-height: 100%;
 
 }
-a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
-a:hover,a:active{outline:0;}
+
 sub,sup{position:relative;font-size:75%;line-height:0;vertical-align:baseline;}
 sup{top:-0.5em;}
 sub{bottom:-0.25em;}
@@ -36,6 +35,8 @@ body{margin: 0px 0px 0px 0px; font-family:"Muli","Helvetica Neue",Helvetica,Aria
 color:#000000;background:#efeeee;}
 
 /* link colors*/
+a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
+a:hover,a:active{outline:0;color:#fa372e;}
 a{text-decoration:none;color:#b6806f;}
 a:hover{text-decoration:none;color:#fa372e;}
 
