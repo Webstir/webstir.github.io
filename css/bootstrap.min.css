@@ -442,6 +442,8 @@ font-size: 120%;}
 	.f-dropdown.content {max-width: 250px}
 	.hero-unit {visibility: hidden;display: none;}
 	#webstir-center {width:100px;margin-left: auto;margin-right: auto;padding-right: 35px;}
+	#webstir-blurb-big {visibility: hidden;
+display: none;}
 	#webstir-blurb{border-bottom: 1px solid #dddddd;
 		border-top: 1px solid #dddddd;background:#720200;position:relative;
 bottom: 15px;}
