@@ -436,6 +436,7 @@ padding-bottom: 10px;
 bottom: 210px;
 position: relative;
 font-size: 120%;}
+}
 
 @media (max-width: 530px){
 	html {overflow-x: hidden;overflow-y:hidden;}
