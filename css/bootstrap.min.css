@@ -423,6 +423,17 @@ display: none;}
 .mobileNav{display: none}
 #hamburger{display: none}
 header .brand {display: none}
+#webstir-center {width:100px;margin-left: auto;margin-right: auto;padding-right: 35px;}
+#webstir-blurb{border-bottom: 1px solid #dddddd;
+		border-top: 1px solid #dddddd;background:#720200;position:relative;
+bottom: 15px;}
+#webstir-blurb p{border:2px solid black;
+		padding:10px;
+		background:#342b24;
+		color:#efeeee;
+		margin:13px;
+		padding-left: 115px;
+		min-height: 120px;}
 }
 
 @media (max-width: 530px){
