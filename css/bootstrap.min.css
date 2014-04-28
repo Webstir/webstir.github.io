@@ -423,13 +423,19 @@ display: none;}
 .mobileNav{display: none}
 #hamburger{display: none}
 header .brand {display: none}
-#webstir-blurb-big{ 
-  display: block; 
-  background: #ef1b15;
-  color:#efeeee;
-  height: 22px; 
-  width: 67px; 
-  padding: 3px 10px;}
+#webstir-blurb-big{
+	display: block;
+color: #efeeee;
+height: 22px;
+width: 350px;
+left: -20;
+margin-left: auto;
+margin-right: auto;
+padding-right: 90px;
+padding-bottom: 10px;
+top: 120px;
+position: relative;
+font-size: 120%;}
 
 @media (max-width: 530px){
 	html {overflow-x: hidden;overflow-y:hidden;}
