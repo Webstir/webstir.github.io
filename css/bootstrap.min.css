@@ -165,7 +165,8 @@ nav.navbar  .dropdown-toggle .caret{font-size:20px; margin-top:8px;}
 
 ul#nav { 
   text-align: justify;
-  width: 95%;padding: 0px 0 0 0;height:35px;min-width: 481px;
+  width: 95%;padding: 0px 0 0 0;height:35px;min-width: 481px;position:fixed;background: #efeeee;
+width: 100%;
 }
 ul#nav li { 
     display: inline;
@@ -273,7 +274,7 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:0px;position: fixed;width: 100%;
-z-index: -2;}
+z-index: -2;padding-top: 65px;}
 
 .hero-unit h1{margin-bottom:0;font-size:60px;line-height:1;color:white;text-shadow:
    -1px -1px 0 #000,  
