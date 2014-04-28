@@ -292,7 +292,7 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 
 /*Banner images*/
 
-.talk-title{height: 377px;background:#6f9019 url('http://webst.ir/talk.png') no-repeat center center;}
+.talk-title{height: 377px;background:#000000 url('http://webst.ir/talk.png') no-repeat center center;}
 .share-title{height: 340px;background:#000000 url('http://webst.ir/share1.png') no-repeat center top;}
 .learn-title{height: 340px;background:#000000 url('http://webst.ir/learn5.png') no-repeat center top;}
 .create-title{height: 350px; background:#000000 url('http://webst.ir/create4.png') no-repeat center top;}
