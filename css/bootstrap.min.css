@@ -418,11 +418,18 @@ MEDIA QUERIES
 }
 
 @media (min-width: 531px){
-#webstir-blurb {/*visibility: hidden;
-display: none;*/}
+#webstir-blurb {visibility: hidden;
+display: none;}
 .mobileNav{display: none}
 #hamburger{display: none}
 header .brand {display: none}
+#webstir-blurb-big{ 
+  display: block; 
+  background: #ef1b15;
+  color:#efeeee;
+  height: 22px; 
+  width: 67px; 
+  padding: 3px 10px;}
 
 @media (max-width: 530px){
 	html {overflow-x: hidden;overflow-y:hidden;}
