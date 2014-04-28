@@ -436,7 +436,7 @@ margin-left: auto;
 margin-right: auto;
 padding-bottom: 10px;
 top: 210px;
-/*position: relative;*/
+position: fixed;
 font-size: 120%;}
 }
 
