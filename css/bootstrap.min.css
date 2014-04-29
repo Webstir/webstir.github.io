@@ -335,7 +335,7 @@ color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 1
 .comment-icon {width:30px;}
 
 .main-contents {top: 335px;
-position: relative;}
+position: relative; height: 400px; background:green;}
 
 .tab-text{display: inline;}
 
