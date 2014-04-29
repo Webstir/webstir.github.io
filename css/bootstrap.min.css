@@ -394,7 +394,7 @@ MEDIA QUERIES
 }
 @media (min-width: 780px) {
 #site-submit {
-  
+  position:fixed;
   top: 78px;
   left:-20px;
   transform: rotate(-90deg);
