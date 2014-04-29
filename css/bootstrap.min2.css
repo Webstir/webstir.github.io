@@ -166,7 +166,7 @@ nav.navbar  .dropdown-toggle .caret{font-size:20px; margin-top:8px;}
 ul#nav { 
   text-align: justify;
   width: 95%;padding: 0px 0 0 0;height:35px;min-width: 481px;position:fixed;background: #efeeee;
-width: 100%;z-index: -1;
+width: 100%;z-index: 0;
 }
 ul#nav li { 
     display: inline;
