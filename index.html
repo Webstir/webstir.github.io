@@ -52,9 +52,7 @@
 <body class="preview" data-spy="scroll" data-target=".subnav" data-offset="80">
 
 <div id="container">
-
-<header>
-
+  <div id="bookshelf"></div>
 
   <!-- Top Navbar-->
  <nav class="top-nav">
@@ -69,14 +67,18 @@
 
   </ul> 
 </nav>
+
+<!--This wrapping container is used to get the width of the whole content-->
+
+
         <!--The Hamburger Button in the Header-->
-  
+  <header>
       <div id="hamburger">
           <div></div>
           <div></div>
           <div></div>
       </div><div id="webstir-center"><a class="brand" href="/">Webstir</a></div>
-
+  </header>
         
         <!--The mobile navigation Markup hidden via css-->
   <nav class="mobileNav">
@@ -88,13 +90,8 @@
           <li><a href="/talk.html">Talk</a></li>
           <li><a href="#submit">Submit</a></li>
       </ul>
-<!--This wrapping container is used to get the width of the whole content-->
-
-
-
   </nav>
-</header>
-  
+
         <!--The Layer that will be layed over the content
         so that the content is unclickable while menu is shown-->
   <div id="contentLayer">
@@ -102,20 +99,18 @@
 
         <!--The content of the site-->
   <div id="content">
-    <div class="header-spacer">
-          <div id="webstir-blurb">
-            <div id="webster-small"><img src="/webster-small.png" /></div><p>Webstir is a repository of awesome websites to celebrate web innovation. No ads, no money, no ulterior motives, just honest people submitting websites they love. Help us grow Webstir and <a href="#submit">submit</a> what you love.</p>
-          </div>
-          
-        <div id="site-submit"><a href="#submit">Submit</a></div>
-        <div id="bookshelf"></div>
-        <!-- Main hero unit -->
-        <div class="hero-unit home-title"></div>
-        <div id="webstir-blurb-big">
-            <p>Webstir is a repository of awesome websites to celebrate web innovation. No ads, no money, no ulterior motives, just honest people submitting websites they love. Help us grow Webstir and <a href="#submit">submit</a> what you love.</p>
-          </div>    
-        <!--<p align="right"><a href="FAQs.html" class="btn">FAQs &raquo;</a></p>-->
-    </div><!--Header spacer-->
+      <div id="webstir-blurb">
+        <div id="webster-small"><img src="/webster-small.png" /></div><p>Webstir is a repository of awesome websites to celebrate web innovation. No ads, no money, no ulterior motives, just honest people submitting websites they love. Help us grow Webstir and <a href="#submit">submit</a> what you love.</p>
+      </div>
+      
+    <div id="site-submit"><a href="#submit">Submit</a></div>
+    <!-- Main hero unit -->
+    <div class="hero-unit home-title"></div>
+    <div id="webstir-blurb-big">
+        <p>Webstir is a repository of awesome websites to celebrate web innovation. No ads, no money, no ulterior motives, just honest people submitting websites they love. Help us grow Webstir and <a href="#submit">submit</a> what you love.</p>
+      </div>    
+    <!--<p align="right"><a href="FAQs.html" class="btn">FAQs &raquo;</a></p>-->
+<div class="header-spacer"></div>
     <!--sub categories-->
     <section>
       <ul class="nav-tabs">  
