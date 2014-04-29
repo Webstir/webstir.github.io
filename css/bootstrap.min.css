@@ -20,8 +20,8 @@ table {	border-collapse: collapse;	border-spacing: 0;}
 
 @import url('http://fonts.googleapis.com/css?family=Muli');
 section{display:block;}
-html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;/*
-min-height: 100%;*/
+html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
+min-height: 100%;
 
 }
 
@@ -165,8 +165,8 @@ nav.navbar  .dropdown-toggle .caret{font-size:20px; margin-top:8px;}
 
 ul#nav { 
   text-align: justify;
-  width: 95%;padding: 0px 0 0 0;height:inherit;min-width: 481px;position:fixed;background: #efeeee;
-width: 100%;/*z-index: 0*/;
+  width: 95%;padding: 0px 0 0 0;height:35px;min-width: 481px;position:fixed;background: #efeeee;
+width: 100%;z-index: -1;
 }
 ul#nav li { 
     display: inline;
@@ -206,7 +206,7 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 .nav-tabs.nav-stacked>li>a{border:1px solid #ddd;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
 .nav-tabs.nav-stacked>li:first-child>a{-webkit-border-top-right-radius:4px;-moz-border-radius-topright:4px;border-top-right-radius:4px;-webkit-border-top-left-radius:4px;-moz-border-radius-topleft:4px;border-top-left-radius:4px;}
 .nav-tabs.nav-stacked>li:last-child>a{-webkit-border-bottom-right-radius:4px;-moz-border-radius-bottomright:4px;border-bottom-right-radius:4px;-webkit-border-bottom-left-radius:4px;-moz-border-radius-bottomleft:4px;border-bottom-left-radius:4px;}
-.nav-tabs.nav-stacked>li>a:hover{border-color:#ddd;/*z-index:2;*/}
+.nav-tabs.nav-stacked>li>a:hover{border-color:#ddd;z-index:2;}
 .nav-pills.nav-stacked>li>a{margin-bottom:3px;}
 .nav-pills.nav-stacked>li:last-child>a{margin-bottom:1px;}
 .nav-tabs .dropdown-menu{-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;}
@@ -275,7 +275,7 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:0px;position: fixed;width: 100%;
-/*z-index: -2;*/}
+z-index: -2;padding-top: 65px;}
 
 .hero-unit h1{margin-bottom:0;font-size:60px;line-height:1;color:white;text-shadow:
    -1px -1px 0 #000,  
@@ -328,7 +328,7 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 /* TOP NAVIGATION */
 nav.top-nav{margin-left:0;list-style:none;font-size:1.8em;
 float:none;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
-color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 100%;border-bottom: 1px solid #dddddd;height: 35px;}
+color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 100%;border-bottom: 1px solid #dddddd;}
 
 .navbar .brand:hover{color:#fa372e;}
 
@@ -336,8 +336,6 @@ color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 1
 
 .main-contents {top: 335px;
 position: relative;}
-
-.title-contents {height: 300px}
 
 .tab-text{display: inline;}
 
@@ -392,7 +390,7 @@ MEDIA QUERIES
   display: block; 
   background: #ee140f;
   border-bottom: 1px solid #911f19;
-  border-top:1px solid #cf1913;/*z-index: -1;*/}
+  border-top:1px solid #cf1913;z-index: -1;}
 }
 @media (min-width: 780px) {
 #site-submit {
@@ -443,7 +441,7 @@ top: 125px;
 position: fixed;
 left: 50%;
 font-size: 120%;
-/*z-index: 0;*/}
+z-index: 0;}
 }
 
 @media (max-width: 564px){
@@ -496,7 +494,7 @@ position absolute isset to cover the whole viewport
     padding-top: 52px;
     position: relative;
     width: auto;
-    min-height: 1000px;
+    /*min-height: 1000px;*/
     -webkit-box-shadow:  -10px 0px 9px 0px rgba(0, 0, 0, 0.4);
     box-shadow:  -10px 0px 9px 0px rgba(0, 0, 0, 0.4);
 }
@@ -526,7 +524,7 @@ The white stripes in the hamburger button
     border-radius: 2px 2px 2px 2px;
     height: 2px;
     margin-top: 3px;
-    width: 90%;
+    /*width: 90%;*/
 }
 
 /*
