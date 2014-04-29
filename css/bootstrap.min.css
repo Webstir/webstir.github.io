@@ -337,6 +337,8 @@ color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 1
 .main-contents {top: 335px;
 position: relative;}
 
+.title-contents {height: 300px}
+
 .tab-text{display: inline;}
 
 .tab-text img{width:30px;}
@@ -468,7 +470,7 @@ bottom: 15px;}
 /*HAMBURGER BUTTON  \/ \/ \/ \/ \/ */
 body {
     
-    overflow-x:hidden;
+    /*overflow-x:hidden;*/
     
 }
 
