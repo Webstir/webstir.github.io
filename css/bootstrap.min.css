@@ -375,13 +375,7 @@ footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
 
 footer a:hover{color: #8ebae8;}
 
-#site-submit {
-	position: fixed;
-	top: 78px;
-	left:-20px;
-	z-index: 0;
-  transform: rotate(-90deg);
-}
+
 /*//////////////////////////////////////////////
 MEDIA QUERIES
 ///////////////////////////////////////////////*/
@@ -398,6 +392,17 @@ MEDIA QUERIES
   border-top:1px solid #cf1913;z-index: -1;}
 }
 @media (min-width: 780px) {
+#site-submit {
+  position: fixed;
+  top: 78px;
+  left:-20px;
+  z-index: -2;
+  transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg); 
+  -moz-transform: rotate(-90deg); 
+  -o-transform: rotate(-90deg); 
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
 #site-submit a { 
   display: block; 
   background: #ef1b15;
