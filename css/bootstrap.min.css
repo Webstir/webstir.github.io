@@ -374,10 +374,10 @@ footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
 footer a:hover{color: #8ebae8;}
 
 #site-submit {
-	position: absolute;
+	position: fixed;
 	top: 78px;
 	left:-20px;
-	z-index: 999;
+	z-index: -1;
   transform: rotate(-90deg);
   -webkit-transform: rotate(-90deg); 
   -moz-transform: rotate(-90deg); 
