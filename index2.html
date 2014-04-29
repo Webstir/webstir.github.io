@@ -13,7 +13,7 @@
 
     <!-- styles -->
     <link href="/css/foundation.dropdowns.css" rel="stylesheet">
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min2.css" rel="stylesheet">
     <link rel="image_src" href="/webstir.png" />
 
   <!--Google fonts-->
@@ -51,8 +51,9 @@
 
 <body class="preview" data-spy="scroll" data-target=".subnav" data-offset="80">
 
+<div id="container">
+  <div id="bookshelf"></div>
 
-<header>
   <!-- Top Navbar-->
  <nav class="top-nav">
   <ul id="nav">
@@ -67,19 +68,52 @@
   </ul> 
 </nav>
 
-</header>
+<!--This wrapping container is used to get the width of the whole content-->
+
+
+        <!--The Hamburger Button in the Header-->
+  <header>
+      <div id="hamburger">
+          <div></div>
+          <div></div>
+          <div></div>
+      </div><div id="webstir-center"><a class="brand" href="/">Webstir</a></div>
+  </header>
         
-<div class="title-contents">
+        <!--The mobile navigation Markup hidden via css-->
+  <nav class="mobileNav">
+      <ul>
+          <li><a href="/create.html">Create</a></li>
+          <li><a href="/learn.html">Learn</a></li>
+          <li><a href="/share.html">Share</a></li>
+          <li><a href="/play.html">Play</a></li>
+          <li><a href="/talk.html">Talk</a></li>
+          <li><a href="#submit">Submit</a></li>
+      </ul>
+  </nav>
+
+        <!--The Layer that will be layed over the content
+        so that the content is unclickable while menu is shown-->
+  <div id="contentLayer">
+  </div>
+
+        <!--The content of the site-->
+  <div id="content">
+      <div id="webstir-blurb">
+        <div id="webster-small"><img src="/webster-small.png" /></div><p>Webstir is a repository of awesome websites to celebrate web innovation. No ads, no money, no ulterior motives, just honest people submitting websites they love. Help us grow Webstir and <a href="#submit">submit</a> what you love.</p>
+      </div>
+    <div class="title-contents">
       <!-- Main hero unit -->
       <div class="hero-unit home-title"></div>
       <div id="webstir-blurb-big">
           <p>Webstir is a repository of awesome websites to celebrate web innovation. No ads, no money, no ulterior motives, just honest people submitting websites they love. Help us grow Webstir and <a href="#submit">submit</a> what you love.</p>
         </div>
-      <div id="site-submit"><p><a href="#submit">Submit</a></p></div><div id="bookshelf"></div>
-
-</div>
-<div class="main-contents">
-<!--
+      <div id="site-submit"><p><a href="#submit">Submit</a></p></div>
+    </div>
+    <!--<p align="right"><a href="FAQs.html" class="btn">FAQs &raquo;</a></p>-->
+  <div class="main-contents">
+      <!--<div class="header-spacer"></div>-->
+      <!--sub categories-->
       <section>
         <ul class="nav-tabs">  
           <li class="active"><a href="#1" data-toggle="tab">Editors' Choice</a></li>  
@@ -164,9 +198,9 @@
             <h3><input type="checkbox"> Grown from the web</h3>
             <h3><input type="checkbox"> A community</h3>
             <h3><input type="checkbox"> Web 2.0y</h3>
-          </div> --><!--float left-->
-        <!--</div>--><!--row-fluid-->
-        <!--<div class="row-fluid">
+          </div> <!--float left-->
+        </div><!--row-fluid-->
+        <div class="row-fluid">
           <center>
             <h4>Then please format your submission (comment) like:</h4>
             <div id="submit-example">[Category] Site Title - Short description - link</div>
@@ -195,7 +229,7 @@
               <a href="http://disqus.com" class="dsq-brlink">comments powered by<span class="logo-disqus">Disqus</span>
               </a>
             </p>
-                </div>-->
+                </div>
                         <!--
                 <div id="disqus_thread"></div>
                 <script type="text/javascript">
@@ -211,21 +245,22 @@
                 </script>
                 <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">submissions.</a></noscript>
               -->
-        <!--</div>--><!--f-dropdown content-->
+        </div><!--f-dropdown content-->
 
-      <!--</section>-->
+      </section>
 
       <!--<div class="footer-spacer"></div>-->
 
     <!-- Footer-->
-    <!----><footer>
+    <footer>
       <p><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>Code licensed under the <a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>. Based on open-source <a target="_blank" href="http://twitter.github.com/bootstrap/">Bootstrap</a>. Hosted free on <a target="_blank" href="http://pages.github.com/">GitHub</a>. Icons from <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>. Web fonts from <a target="_blank" href="http://www.google.com/webfonts">Google</a>.
       </p>
     </footer>
-</div><!--main contents-->
+  </div><!--main contents-->
+  </div><!--content-->
+</div><!--container-->
 
 
-</body>
 
 <!--jquery must be before bootstrap.js-->
   <script src="http://code.jquery.com/jquery-latest.min.js"></script>
@@ -237,5 +272,5 @@
       $(document).foundation();
   </script>
 
-
+</body>
 </html>
