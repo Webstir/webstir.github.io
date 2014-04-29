@@ -334,7 +334,8 @@ color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 1
 
 .comment-icon {width:30px;}
 
-.main-contents {z-index: -10;}
+.main-contents {top: 335px;
+position: relative;}
 
 .tab-text{display: inline;}
 
@@ -442,7 +443,7 @@ top: 125px;
 position: fixed;
 left: 50%;
 font-size: 120%;
-z-index: -2;}
+z-index: 0;}
 }
 
 @media (max-width: 564px){
