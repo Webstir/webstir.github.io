@@ -397,7 +397,6 @@ MEDIA QUERIES
   
   top: 78px;
   left:-20px;
-  z-index: -2;
   transform: rotate(-90deg);
   -webkit-transform: rotate(-90deg); 
   -moz-transform: rotate(-90deg); 
@@ -405,7 +404,6 @@ MEDIA QUERIES
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
 #site-submit a {
-  position: fixed;
   display: block; 
   background: #ef1b15;
   color:#efeeee;
