@@ -235,7 +235,8 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 
     vertical-align: top;
     display: inline-block;
-    zoom: 1
+    zoom: 1;
+    padding-right: 2%;
 }
 .stretch {
     width: 100%;
@@ -421,7 +422,7 @@ MEDIA QUERIES
   #site-submit a {visibility:hidden;}
 }
 
-@media (min-width: 531px){
+@media (min-width: 565px){
 #webstir-blurb {visibility: hidden;
 display: none;}
 .mobileNav{display: none}
@@ -440,7 +441,7 @@ font-size: 120%;
 z-index: -2;}
 }
 
-@media (max-width: 530px){
+@media (max-width: 564px){
 	html {overflow-x: hidden;overflow-y:hidden;}
 	.f-dropdown.content {max-width: 250px}
 	.hero-unit {visibility: hidden;display: none;}
