@@ -581,6 +581,6 @@ so that the content is unclickable while menu is shown
     top: 0;
     width: 30%;
     z-index: 5;
-    min-height: 1062px;
+    /*min-height: 1062px;*/
 }
 }
