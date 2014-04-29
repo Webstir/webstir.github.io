@@ -334,6 +334,8 @@ color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 1
 
 .comment-icon {width:30px;}
 
+.main-contents {z-index: -10;}
+
 .tab-text{display: inline;}
 
 .tab-text img{width:30px;}
@@ -377,7 +379,7 @@ footer a:hover{color: #8ebae8;}
 	position: fixed;
 	top: 78px;
 	left:-20px;
-	z-index: -1;
+	z-index: 0;
   transform: rotate(-90deg);
   -webkit-transform: rotate(-90deg); 
   -moz-transform: rotate(-90deg); 
@@ -392,12 +394,12 @@ MEDIA QUERIES
 #bookshelf {
   height: 3px; 
   width: 65px; 
-  position: absolute; 
+  position: fixed; 
   top: 147px;
   display: block; 
   background: #ee140f;
   border-bottom: 1px solid #911f19;
-  border-top:1px solid #cf1913;}
+  border-top:1px solid #cf1913;z-index: -1;}
 }
 @media (min-width: 780px) {
 #site-submit a { 
