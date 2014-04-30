@@ -360,7 +360,7 @@ footer {margin-left:0px;background: #342b24;
     position: relative;
     bottom: 0;
     left: 0;
-    width: 100%;
+    width: 100%;border-bottom: 1px solid #342b24;
 }
 footer p{color:#808080;padding:2% 2% 2% 2%;}
 footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
