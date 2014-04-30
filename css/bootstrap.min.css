@@ -369,7 +369,7 @@ footer a:hover{color: #8ebae8;}
 
 #site-submit {
 	position: absolute;
-	top: 78px;
+	top: 77px;
 	left:-20px;
 	z-index: 999;
   transform: rotate(-90deg);
@@ -387,7 +387,7 @@ MEDIA QUERIES
   height: 3px; 
   width: 65px; 
   position: absolute; 
-  top: 147px;
+  top: 146px;
   display: block; 
   background: #ee140f;
   border-bottom: 1px solid #911f19;
