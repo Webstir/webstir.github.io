@@ -336,6 +336,8 @@ color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 1
 
 .navbar .brand:hover{color:#fa372e;}
 
+.site-buttons {border-top: 1px solid #ddd;}
+
 .comment-icon {width:30px;float: right;
 padding: 4px;}
 
