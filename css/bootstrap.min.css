@@ -59,7 +59,7 @@ li.active.box>a{color:#fa372e;}
 .span6{width:460px;}
 .span5{width:380px;}
 
-.tab-pane .span4 p:first-child
+.tab-pane .span4 div+p
 {
 height:100px;}
 
