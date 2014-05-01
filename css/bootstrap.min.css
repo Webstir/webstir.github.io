@@ -336,7 +336,8 @@ color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 1
 
 .navbar .brand:hover{color:#fa372e;}
 
-.comment-icon {width:30px;}
+.comment-icon {width:30px;float: right;
+padding: 4px;}
 
 .tab-text{display: inline;}
 
