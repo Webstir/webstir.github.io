@@ -89,7 +89,16 @@ li.active.box>a{color:#fa372e;}
 .row-fluid .span7{width:57.44%;}
 .row-fluid .span6{width:48.93%;}
 .row-fluid .span5{width:40.42%;}
-.row-fluid .span4{width:31.91%;}
+
+/*BORDERS FOR SITE BOXES*/
+.row-fluid .span4{width:31.91%;border: 1px solid #ddd;
+border-radius: 10px;}
+
+.span4 p {border-top: 1px solid #ddd;}
+.span3 img {
+padding: 5px 0 0 5px;
+}
+
 .row-fluid .span3{width:23.40%;}
 .row-fluid .span2{width:14.89%;}
 .row-fluid .span1{width:6.38%;}
@@ -454,7 +463,6 @@ bottom: 15px;}
 	#hand-pointing {display: none}
 	/*.tab-text {display: none}*/
 	ul#nav {height:80px;}
-
 
 /*HAMBURGER BUTTON  \/ \/ \/ \/ \/ */
 body {
