@@ -143,9 +143,9 @@ cite{font-style:normal;}
 .text-error{color:#ffffff;}
 .text-info{color:#ffffff;}
 .text-success{color:#ffffff;}
-h1,h2,h3,h4,h5,h6{margin:10.5px 0;font-family:inherit;font-weight:normal;line-height:1;color:#000000;text-rendering:optimizelegibility;}h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:normal;line-height:1;color:#bbbbbb;}
+h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:normal;line-height:1;color:#bbbbbb;}
 h1{font-size:2.4em;line-height:40px;}
-h2{font-size:22px;line-height:40px;color:#a8320a;}
+h2{font-size:22px;line-height:80px;color:#a8320a;text-align: center;}
 h3{font-size:1.55em;}
 h4{font-size:1.3em;line-height:20px;}
 h5{font-size:14px;line-height:20px;}
