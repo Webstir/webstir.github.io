@@ -51,6 +51,8 @@
 
 <body class="preview" data-spy="scroll" data-target=".subnav" data-offset="80">
 
+<script src="/js/facebook.js"></script>
+
 <div id="container">
   <div id="bookshelf"></div>
 
@@ -114,7 +116,7 @@
     <!--sub categories-->
     <section>
       <ul class="nav-tabs">
-        <li class="active"><a href="#1" data-toggle="tab">Editors' Choice</a></li>
+        <li class="active"><a href="#1" data-toggle="tab">Editors Choice</a></li>
         <li class=""><a href="#2" data-toggle="tab"><div class="tab-text">New &amp; Noteable</div></a></li>
         <li class=""><a href="#3" data-toggle="tab"><div class="tab-text">Innovative</div></a></li>
       </ul>
@@ -130,26 +132,7 @@
               <div class="site-buttons"><div class="comment-icon">
               <a href="#" class="button" data-dropdown="drop" data-options="align:top"><img src="/comment-icon.png"></a></div></div>
               <div id="drop" data-dropdown-content class="f-dropdown content">
-                <!-- START: Livefyre Embed -->
-                <div id="livefyre-comments"></div>
-                <script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
-                <script type="text/javascript">
-                (function () {
-                    var articleId = fyre.conv.load.makeArticleId(null);
-                    fyre.conv.load({}, [{
-                        el: 'livefyre-comments',
-                        network: "livefyre.com",
-                        siteId: "358189",
-                        articleId: "kickstarter",
-                        signed: false,
-                        collectionMeta: {
-                            articleId: articleId,
-                            url: fyre.conv.load.makeCollectionUrl(),
-                        }
-                    }], function() {});
-                }());
-                </script>
-                <!-- END: Livefyre Embed -->
+                <div class="fb-comments" data-href="http://webstir.org/#kickstarter" data-numposts="5" data-colorscheme="light"></div>
               </div>
             </div>
             <div class="span4">
@@ -161,26 +144,7 @@
               <div class="site-buttons"><div class="comment-icon">
               <a href="#" class="button" data-dropdown="drop" data-options="align:top"><img src="/comment-icon.png"></a></div></div>
               <div id="drop" data-dropdown-content class="f-dropdown content">
-                <!-- START: Livefyre Embed -->
-                <div id="livefyre-comments"></div>
-                <script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
-                <script type="text/javascript">
-                (function () {
-                    var articleId = fyre.conv.load.makeArticleId(null);
-                    fyre.conv.load({}, [{
-                        el: 'livefyre-comments',
-                        network: "livefyre.com",
-                        siteId: "358189",
-                        articleId: "rumpus",
-                        signed: false,
-                        collectionMeta: {
-                            articleId: articleId,
-                            url: fyre.conv.load.makeCollectionUrl(),
-                        }
-                    }], function() {});
-                }());
-                </script>
-                <!-- END: Livefyre Embed -->
+                <div class="fb-comments" data-href="http://webstir.org/#rumpus" data-numposts="5" data-colorscheme="light"></div>
               </div>
             </div>
           </div>
