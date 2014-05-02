@@ -19,7 +19,8 @@ table {	border-collapse: collapse;	border-spacing: 0;}
 /*END CSS RESET*/
 
 @import url('http://fonts.googleapis.com/css?family=Muli');
-section{display:block;}
+section{display:block;width: 90%;
+margin: 0 auto;}
 html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
 min-height: 100%;
 
@@ -32,7 +33,7 @@ img{max-width:100%;width:auto;height:auto;vertical-align:middle;border:0;-ms-int
 #map_canvas img{max-width:none;}
 button,input,select,textarea{margin:0;font-size:100%;vertical-align:middle;}
 body{margin: 0px 0px 0px 0px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1em;
-color:#000000;background:#efeeee;}
+color:#000000;background:#332b24;}
 
 /* link colors*/
 a{text-decoration:none;color:#b6806f;}
@@ -226,7 +227,7 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 .nav-pills.nav-stacked>li:last-child>a{margin-bottom:1px;}
 .nav-tabs .dropdown-menu{-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;}
 
-.tabbable{background-color: #ffffff;}.tabbable:before,.tabbable:after{display:block;content:"";line-height:0;}
+.tabbable{background-color: #ffffff;border-radius: 15px;}.tabbable:before,.tabbable:after{display:block;content:"";line-height:0;}
 .tabbable:after{clear:both;border-bottom:1px solid #ddd;}
 .tab-content{margin-left: 8px;padding-top: 30px;padding-bottom:10px;}
 .tabs-below>.nav-tabs,.tabs-right>.nav-tabs,.tabs-left>.nav-tabs{border-bottom:0;}
@@ -338,7 +339,7 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 /* TOP NAVIGATION */
 nav.top-nav{margin-left:0;list-style:none;font-size:1.8em;
 float:none;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
-color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 100%;border-bottom: 1px solid #dddddd;}
+color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 100%;border-bottom: 1px solid #dddddd;background: #efeeee;}
 
 .navbar .brand:hover{color:#fa372e;}
 
