@@ -202,8 +202,11 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 .nav-tabs>li>a,.nav-pills>li>a{padding-right:5%;padding-left:5%;line-height:14px;}
 
 .nav-tabs{padding-left: 2%;position: relative;
-bottom: 34px;}
-.nav-tabs>li{margin-bottom:5px;list-style-type: none;background: #efeeee;
+bottom: 34px;height: 32px;
+background: #ddd;
+border-radius: 5px 5px 0 0;
+margin-top: 30px;}
+.nav-tabs>li{margin-bottom:5px;list-style-type: none;
 border-radius: 5px;
 font-size: 18px;
 border: 1px solid #ddd;}
@@ -230,11 +233,11 @@ border: 1px solid #ddd;}
 .nav-pills.nav-stacked>li:last-child>a{margin-bottom:1px;}
 .nav-tabs .dropdown-menu{-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;}
 
-.tabbable{background-color: #efeeee;border-radius: 5px;clear: both;
+.tabbable{background-color: #efeeee;border-radius: 0 0 5px 5px;clear: both;
 bottom: 34px;
 position: relative;}.tabbable:before,.tabbable:after{display:block;content:"";line-height:0;}
 .tabbable:after{clear:both;}
-.tab-content{margin-left: 8px;padding-top: 30px;padding-bottom:10px;}
+.tab-content{margin-left: 1%;padding-top: 15px;}
 .tabs-below>.nav-tabs,.tabs-right>.nav-tabs,.tabs-left>.nav-tabs{border-bottom:0;}
 .tab-content>.tab-pane,.pill-content>.pill-pane{display:none;}
 .tab-content>.active,.pill-content>.active{display:block;}
@@ -293,10 +296,10 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 
 /*Banner images*/
 
-.talk-title{height: 338px;background:#000000 url('http://webstir.org/talk3.png') no-repeat center center;}
-.share-title{height: 345px;background:#000000 url('http://webstir.org/share3.png') no-repeat center top;}
-.learn-title{height: 330px;background:#000000 url('http://webstir.org/learn6.png') no-repeat center top;}
-.create-title{height: 435px; background:#000000 url('http://webstir.org/create6.png') no-repeat center top;}
+.talk-title{height: 335px;background:#000000 url('http://webstir.org/talk3.png') no-repeat center center;}
+.share-title{height: 335px;background:#000000 url('http://webstir.org/share3.png') no-repeat center top;}
+.learn-title{height: 335px;background:#000000 url('http://webstir.org/learn6.png') no-repeat center top;}
+.create-title{height: 335px; background:#000000 url('http://webstir.org/create6.png') no-repeat center top;}
 .art-title{height: 335px;background:#000000 url('http://webstir.org/art8.png') no-repeat center top;}
 .home-title{height: 300px; background:#342B24 url('http://webstir.org/webster7.png') center no-repeat;}
 .web-title{padding:60px;margin-top:30px;background:url('http://webstir.org/web_home4.png') no-repeat center center;}
