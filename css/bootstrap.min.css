@@ -203,10 +203,10 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 
 .nav-tabs{padding-left: 2%;position: relative;
 bottom: 34px;}
-.nav-tabs>li{margin-bottom:5px;list-style-type: none;background: #ddd;
+.nav-tabs>li{margin-bottom:5px;list-style-type: none;background: #efeeee;
 border-radius: 5px;
 font-size: 18px;
-border: 1px solid #332b24;}
+border: 1px solid #ddd;}
 
 
 .nav-tabs>li>a{padding:8px;line-height:25px;border:1px solid transparent;
