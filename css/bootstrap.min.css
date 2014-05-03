@@ -203,7 +203,7 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 
 .nav-tabs{padding-left: 2%;position: relative;
 bottom: 34px;}
-.nav-tabs>li{margin-bottom:5px;list-style-type: none;background: #efeeee;
+.nav-tabs>li{margin-bottom:5px;list-style-type: none;background: #ddd;
 border-radius: 5px;
 font-size: 18px;
 border: 1px solid #332b24;}
