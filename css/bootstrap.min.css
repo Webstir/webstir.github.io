@@ -412,7 +412,7 @@ footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
 
 footer a:hover{color: #8ebae8;}
 
-.fb-like{float:right;}
+.fb-like{float:right;padding: 15px;}
 
 #site-submit {
 	position: absolute;
