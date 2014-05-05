@@ -457,10 +457,10 @@ MEDIA QUERIES
 	background:#ffffff;}
 }
 /*RESPONSIVE SITE BOXES */
-@media (min-width: 599px) {.span4 {width:47%;}}
-@media (min-width: 899px) {.span4 {width:31%;}}
-@media (min-width: 1230px) {.span4 {width:23%;}}
-@media (min-width: 1580px) {.span4 {width:18%;}}
+@media (min-width: 599px) {.tabbable .span4 {width:47%;}}
+@media (min-width: 899px) {.tabbable .span4 {width:31%;}}
+@media (min-width: 1230px) {.tabbable .span4 {width:23%;}}
+@media (min-width: 1580px) {.tabbable .span4 {width:18%;}}
 
 
 @media (max-width: 780px) {
