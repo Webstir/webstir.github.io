@@ -64,7 +64,7 @@ li.active.box>a{color:#fa372e;}
 {
 height:90px;}
 
-.span4{width:300px;border: 1px solid #ddd;
+.span4{width:96%;border: 1px solid #ddd;
 border-radius: 10px;margin: 0 5px 15px 1%;background: white;}
 .span3{width:220px;}
 .span2{width:140px;}
@@ -456,10 +456,18 @@ MEDIA QUERIES
 	color: #fa372e;
 	background:#ffffff;}
 }
+/*RESPONSIVE SITE BOXES */
+@media (min-width: 599px) {.span4 {width:47%;}}
+@media (min-width: 899px) {.span4 {width:31%;}}
+@media (min-width: 1230px) {.span4 {width:23%;}}
+@media (min-width: 1580px) {.span4 {width:18%;}}
+
 
 @media (max-width: 780px) {
   #site-submit a {visibility:hidden;}
 }
+
+@media
 
 @media (min-width: 531px){
 #webstir-blurb {visibility: hidden;
