@@ -374,7 +374,8 @@ padding: 4px;}
 
 #submit-section {background: #efeeee;
 border-radius: 5px;
-margin-top: 30px;}
+margin-top: 10px;
+padding-top: 20px;}
 
 #hand-pointing { width:30%;float:left;padding-top:4%;
 padding-right: 3%;}
