@@ -402,7 +402,7 @@ footer {background: #342b24;
     position: relative;
     bottom: 0;
     left: 0;
-    width: 100%;max-width: 650px;
+    width: 100%;/*max-width: 650px;*/
 border-bottom: 1px solid #342b24;
 margin: 0 auto;
 font-weight: 100;
