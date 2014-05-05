@@ -406,7 +406,7 @@ footer a:hover{color: #8ebae8;}
 
 #site-submit {
 	position: absolute;
-	top: 77px;
+	top: 92px;
 	left:-20px;
 	z-index: 999;
   transform: rotate(-90deg);
@@ -466,7 +466,7 @@ height: 0px;
 width: 350px;
 margin-left: auto;
 margin-right: auto;
-bottom: 210px;
+bottom: 221px;
 position: relative;
 font-size: 120%;}
 }
