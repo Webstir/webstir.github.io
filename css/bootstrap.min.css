@@ -325,7 +325,11 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
     0px 0px 0 #FFF,
      0px 0px 0 #FFF;*/}
 
-
+.fade-bar{background: url('/hero-fade-bar.png') repeat-x center bottom;
+height: 25px;
+position: absolute;
+top: 350px;
+width: 100%;}
 
 .footer-spacer{/*height:30px;*/}
 .site-box {display:inline-block;height:50px;width:200px;background: #342b24;margin:10px;}
