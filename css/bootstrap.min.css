@@ -434,17 +434,17 @@ font-weight: 100;
 }
 footer p{color: #808080;
 padding: 2% 2% 2% 5%;
-float: left;
+float: right;
 max-width: 40%;
-line-height: 1.2;}
+line-height: 1.2;font-weight: 300;}
 footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
 
 footer a:hover{color: #8ebae8;}
 
-.fb-like{right: 4%;
+.fb-like{left: 4%;
 margin: 1%;
 background: rgba(83, 70, 59, 0.23);
-float: right;
+float: left;
 padding: 10px;
 border-radius: 10px;
 }
