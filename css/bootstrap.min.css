@@ -33,7 +33,7 @@ img{max-width:100%;/*width:auto;*/height:auto;vertical-align:middle;border:0;-ms
 #map_canvas img{max-width:none;}
 button,input,select,textarea{margin:0;font-size:100%;vertical-align:middle;}
 body{margin: 0px 0px 0px 0px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1em;
-color:#000000;background:#332b24;}
+color:#000000;background: url('http://webstir.org/95-percent-bg.png') repeat;}
 
 /* link colors*/
 a{text-decoration:none;color:#b6806f;}
@@ -406,7 +406,7 @@ padding-right: 3%;}
 	color:#a8320a;
   width: 70%;}
 
-footer {background: #342b24;
+footer {background: url('http://webstir.org/90-percent-bg.png') repeat;
     position: relative;
     bottom: 0;
     left: 0;
