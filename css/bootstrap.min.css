@@ -354,7 +354,8 @@ width: 100%;}
 /* TOP NAVIGATION */
 nav.top-nav{margin-left:0;list-style:none;font-size:1.8em;
 float:none;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
-color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 519px;border-bottom: 1px solid #dddddd;
+color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;
+width:100%;min-width: 519px;border-bottom: 1px solid #dddddd;
 background: #efeeee;position: fixed;z-index: 1;}
 
 .navbar .brand:hover{color:#fa372e;}
