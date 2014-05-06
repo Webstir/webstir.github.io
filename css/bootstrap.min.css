@@ -477,8 +477,7 @@ MEDIA QUERIES
   #site-submit a {visibility:hidden;}
 }
 
-/*MIN WIDTH USED TO BE 531PX*/
-@media (min-width: 1px){
+@media (min-width: 531px){
 #webstir-blurb {visibility: hidden;
 display: none;}
 .mobileNav{display: none}
@@ -497,7 +496,7 @@ font-size: 120%;}
 }
 
 /*MOBILE*/
-/*
+
 @media (max-width: 530px){
 	html {overflow-x: hidden;overflow-y:hidden;}
 	.f-dropdown.content {max-width: 250px}
@@ -515,7 +514,7 @@ bottom: 15px;}
 		padding-left: 115px;
 		min-height: 120px;}
 	#hand-pointing {display: none}
-	ul#nav {height:80px;}*/
+	ul#nav {height:80px;}
   /*.tab-text {display: none}*/
 
 /*HAMBURGER BUTTON  \/ \/ \/ \/ \/ */
