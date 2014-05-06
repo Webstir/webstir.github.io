@@ -33,7 +33,7 @@ img{max-width:100%;/*width:auto;*/height:auto;vertical-align:middle;border:0;-ms
 #map_canvas img{max-width:none;}
 button,input,select,textarea{margin:0;font-size:100%;vertical-align:middle;}
 body{margin: 0px 0px 0px 0px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1em;
-color:#000000;background: url('http://webstir.org/95-percent-bg.png') repeat;}
+color:#000000;background: url('http://webstir.org/70-percent-bg.png') repeat;}
 
 /* link colors*/
 a{text-decoration:none;color:#b6806f;}
@@ -331,7 +331,7 @@ background-position-y: 35px;}
     0px 0px 0 #FFF,
      0px 0px 0 #FFF;*/}
 
-.fade-bar{background: url('/hero-fade-bar.png') repeat-x center bottom;
+.fade-bar{background: url('/hero-fade-bar2.png') repeat-x center bottom;
 height: 25px;
 position: absolute;
 top: 350px;
@@ -411,7 +411,7 @@ footer {background: url('http://webstir.org/90-percent-bg.png') repeat;
     bottom: 0;
     left: 0;
     width: 100%;/*max-width: 650px;*/
-border-bottom: 1px solid #342b24;
+border-bottom: 5px solid #342b24;
 margin: 0 auto;
 font-weight: 100;
 }
