@@ -477,7 +477,8 @@ MEDIA QUERIES
   #site-submit a {visibility:hidden;}
 }
 
-@media (min-width: 531px){
+/*MIN WIDTH USED TO BE 531PX*/
+@media (min-width: 1px){
 #webstir-blurb {visibility: hidden;
 display: none;}
 .mobileNav{display: none}
