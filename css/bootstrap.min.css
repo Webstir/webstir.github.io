@@ -438,6 +438,11 @@ footer a:hover{color: #8ebae8;}
 
 .fb-like{float:right;padding: 15px;}
 
+.fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
+    /* Now you can apply css here */
+    bottom:0!important;
+}
+
 #site-submit {
 	position: absolute;
 	top: 92px;
