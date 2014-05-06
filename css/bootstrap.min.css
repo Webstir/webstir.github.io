@@ -495,6 +495,8 @@ position: relative;
 font-size: 120%;}
 }
 
+/*MOBILE*/
+/*
 @media (max-width: 530px){
 	html {overflow-x: hidden;overflow-y:hidden;}
 	.f-dropdown.content {max-width: 250px}
@@ -512,8 +514,8 @@ bottom: 15px;}
 		padding-left: 115px;
 		min-height: 120px;}
 	#hand-pointing {display: none}
-	/*.tab-text {display: none}*/
-	ul#nav {height:80px;}
+	ul#nav {height:80px;}*/
+  /*.tab-text {display: none}*/
 
 /*HAMBURGER BUTTON  \/ \/ \/ \/ \/ */
 body {
