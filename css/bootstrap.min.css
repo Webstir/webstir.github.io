@@ -431,7 +431,11 @@ border-bottom: 5px solid #342b24;
 margin: 0 auto;
 font-weight: 100;
 }
-footer p{color:#808080;padding:2% 2% 2% 2%;float: left;max-width: 50%;}
+footer p{color: #808080;
+padding: 2% 2% 2% 5%;
+float: left;
+max-width: 40%;
+line-height: 1.2;}
 footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
 
 footer a:hover{color: #8ebae8;}
