@@ -438,6 +438,7 @@ float: right;
 max-width: 47%;
 line-height: 1.2;
 font-weight: 300;}
+footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
 
 footer a:hover{color: #8ebae8;}
 
