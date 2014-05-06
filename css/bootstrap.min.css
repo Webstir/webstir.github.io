@@ -296,18 +296,20 @@ a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 
 /*Banner images*/
 
-.talk-title{height: 335px;background:#332b24 url('http://webstir.org/talk3.png') no-repeat center center;}
-.share-title{height: 335px;background:#332b24 url('http://webstir.org/share3.png') no-repeat center top;}
-.learn-title{height: 335px;background:#332b24 url('http://webstir.org/learn6.png') no-repeat center top;}
-.create-title{height: 335px; background:#332b24 url('http://webstir.org/create6.png') no-repeat center top;}
-.art-title{height: 335px;background:#332b24 url('http://webstir.org/art8.png') no-repeat center top;}
+.talk-title{height: 375px;background:#332b24 url('http://webstir.org/talk3.png') no-repeat center center;}
+.share-title{height: 375px;background:#332b24 url('http://webstir.org/share3.png') no-repeat center top;}
+.learn-title{height: 375px;background:#332b24 url('http://webstir.org/learn6.png') no-repeat center top;}
+.create-title{height: 375px; background:#332b24 url('http://webstir.org/create6.png') no-repeat center top;}
+.art-title{height: 375px;background:#332b24 url('http://webstir.org/art8.png') no-repeat center top;}
 .home-title{height: 330px; background:#342B24 url('http://webstir.org/webster8.png') center no-repeat;}
 .web-title{padding:60px;margin-top:30px;background:url('http://webstir.org/web_home4.png') no-repeat center center;}
 
 .hero-unit{
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:0px;}
+	background-size: cover;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:0px;
+background-attachment: fixed;
+background-position-y: 35px;}
 
 .hero-unit h1{margin-bottom:0;font-size:60px;line-height:1;color:white;text-shadow:
    -1px -1px 0 #000,  
@@ -352,7 +354,7 @@ width: 100%;}
 /* TOP NAVIGATION */
 nav.top-nav{margin-left:0;list-style:none;font-size:1.8em;
 float:none;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
-color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 100%;border-bottom: 1px solid #dddddd;background: #efeeee;}
+color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 100%;border-bottom: 1px solid #dddddd;background: #efeeee;position: fixed;}
 
 .navbar .brand:hover{color:#fa372e;}
 
