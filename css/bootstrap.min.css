@@ -354,7 +354,7 @@ width: 100%;}
 /* TOP NAVIGATION */
 nav.top-nav{margin-left:0;list-style:none;font-size:1.8em;
 float:none;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
-color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 100%;border-bottom: 1px solid #dddddd;
+color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;min-width: 519px;border-bottom: 1px solid #dddddd;
 background: #efeeee;position: fixed;z-index: 1;}
 
 .navbar .brand:hover{color:#fa372e;}
@@ -382,7 +382,7 @@ padding: 4px;}
 #submit-section {background: #efeeee;
 border-radius: 5px;
 margin-top: 10px;
-padding-top: 20px;}
+padding-top: 20px;min-width: 528px;}
 
 #submit-section h4{padding:10px 0;}
 
@@ -468,6 +468,9 @@ MEDIA QUERIES
 @media (min-width: 899px) {.tabbable .span4 {width:31%;}}
 @media (min-width: 1230px) {.tabbable .span4 {width:23%;}}
 @media (min-width: 1580px) {.tabbable .span4 {width:18%;}}
+
+@media (max-width: 598px) {.tab-pane .span4 div+p {
+height: initial;}
 
 @media (max-width: 780px) {
   #site-submit a {visibility:hidden;}
