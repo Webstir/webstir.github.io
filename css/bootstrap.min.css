@@ -437,7 +437,11 @@ footer img{opacity:.4;float:left;padding-bottom:1%;padding-right: 1%;}
 footer a:hover{color: #8ebae8;}
 
 .fb-like{left: 100px;
-bottom: 160px;}
+bottom: 50px;
+position: fixed;
+background: #ddd;
+padding: 10px;
+border-radius: 10px;}
 
 
 
