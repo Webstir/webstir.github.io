@@ -433,12 +433,12 @@ margin: 0 auto;
 font-weight: 100;
 }
 footer p{color: #808080;
-padding-top:15px;
+padding-top: 2%;
 float: right;
 max-width: 47%;
 line-height: 1.2;
-font-weight: 300;margin-right:4%;}
-footer img{opacity:.4;float:right;padding-bottom:1%;padding-right: 1%;}
+font-weight: 300;
+margin-right: 4.4%;}
 
 footer a:hover{color: #8ebae8;}
 
