@@ -186,7 +186,7 @@ ul#nav {
   width: 95%;padding: 0px 0 0 0;height:43px;min-width: 481px;
 }
 ul#nav li { 
-    display: inline;
+    display: inline;padding: 0 .5% 2px;
 }
 ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 
@@ -382,7 +382,6 @@ background: #ddd;position: fixed;z-index: 1;}
 
 .top-nav li.active.box {
 background: #efeeee;
-padding: 0 7px 2px;
 border-bottom: 5px solid #a8320a;
 }
 
