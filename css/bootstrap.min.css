@@ -40,11 +40,10 @@ a{text-decoration:none;color:#b6806f;}
 a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
 a:active{outline:0;}
 a:hover{text-decoration:none;outline:0;color:#8ebae8;}
-li.active.box>a{color:#8ebae8;}
+li.active.box>a{color:#fa372e;}
 
 nav li a {color: #a8320a;}
 nav li a:hover {color:#fa372e;}
-nav li a:active {color:#fa372e;}
 h2 a {color: #a8320a;}
 h2 a:hover {color: #fa372e;}
 
