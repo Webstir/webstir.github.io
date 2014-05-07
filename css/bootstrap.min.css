@@ -224,6 +224,9 @@ box-sizing: border-box;font-family: 'Open Sans', sans-serif;}
 
 .nav-tabs>li>a:hover{/*border-color:#eeeeee #eeeeee #dddddd;*/}
 
+.nav-tabs li a:hover {
+color: #fa372e;
+}
 
 .nav-tabs>.active>a,.nav-tabs>.active>a:hover{color:#e70401;background-color:#efeeee;border:1px solid #ddd;cursor:default;}
 
