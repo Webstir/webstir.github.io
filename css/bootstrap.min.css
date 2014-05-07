@@ -202,8 +202,10 @@ bottom: 34px;
 background: #ddd;
 border-radius: 5px 5px 0 0;
 margin-top: 30px;
-overflow: hidden;
-text-align: justify;}
+overflow: auto;
+white-space: nowrap;
+text-align: justify;
+-webkit-overflow-scrolling: touch;}
 
 .nav-tabs>li{list-style-type: none;
 font-size: 18px;
