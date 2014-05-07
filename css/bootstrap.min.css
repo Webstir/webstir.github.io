@@ -442,10 +442,11 @@ font-weight: 100;
 footer p{color: #808080;
 padding-top: 38px;
 float: right;
-max-width: 64%;
+max-width: 44%;
 line-height: 1.2;
 font-weight: 300;
-margin-right: 4.4%;}
+margin-right: 4.4%;
+font-size: 13px;}
 
 
 footer img{opacity:.4;float:right;padding-bottom:1%;padding-right: 1%;}
