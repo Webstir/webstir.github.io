@@ -462,6 +462,7 @@ background: rgba(83, 70, 59, 0.23);
 float: left;
 padding: 10px;
 border-radius: 10px;
+max-width: 250px;
 }
 
 
