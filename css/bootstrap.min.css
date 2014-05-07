@@ -212,7 +212,7 @@ margin-top: 30px;
 overflow-x: hidden;}
 
 .nav-tabs>li{list-style-type: none;
-border-radius: 5px;
+/*border-radius: 5px;*/
 font-size: 18px;
 border: 1px solid #ddd;}
 
@@ -238,8 +238,10 @@ border: 1px solid #ddd;}
 .nav-pills.nav-stacked>li:last-child>a{margin-bottom:1px;}
 .nav-tabs .dropdown-menu{-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;}
 
-li.active {
+.nav-tabs li.active {
 /*border: 5px solid #CACACA;*/
+height: 42px;
+background: rgb(143, 17, 17);
 }
 
 .tabbable{background-color: #efeeee;border-radius: 0 0 5px 5px;clear: both;
