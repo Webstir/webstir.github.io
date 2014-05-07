@@ -182,7 +182,7 @@ nav.navbar  .dropdown-toggle .caret{font-size:20px; margin-top:8px;}
 
 ul#nav { 
   text-align: justify;
-  width: 95%;padding: 0px 0 0 0;height:35px;min-width: 481px;
+  width: 95%;padding: 0px 0 0 0;height:43px;min-width: 481px;
 }
 ul#nav li { 
     display: inline;
@@ -266,7 +266,7 @@ position: relative;}.tabbable:before,.tabbable:after{display:block;content:"";li
 
 .box{
 
-    vertical-align: top;
+    vertical-align: middle;
     display: inline-block;
     zoom: 1
 }
