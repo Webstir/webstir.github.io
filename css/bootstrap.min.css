@@ -466,7 +466,7 @@ max-width: 250px;
 
 #site-submit {
 	position: absolute;
-	top: 92px;
+	top: 91px;
 	left:-20px;
 	z-index: 0;
   transform: rotate(-90deg);
@@ -484,7 +484,7 @@ MEDIA QUERIES
   height: 3px; 
   width: 65px; 
   position: absolute; 
-  top: 161px;
+  top: 160px;
   display: block; 
   background: #ee140f;
   border-bottom: 1px solid #911f19;
