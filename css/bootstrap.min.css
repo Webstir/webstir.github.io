@@ -36,11 +36,16 @@ body{margin: 0px 0px 0px 0px; font-family:"Muli","Helvetica Neue",Helvetica,Aria
 color:#000000;background: url('http://webstir.org/80-percent-bg.png') repeat;}
 
 /* link colors*/
-a{text-decoration:none;color:#a8320a;}
+a{text-decoration:none;color:#b6806f;}
 a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
 a:active{outline:0;}
-a:hover{text-decoration:none;outline:0;color:#fa372e;}
-li.active.box>a{color:#fa372e;}
+a:hover{text-decoration:none;outline:0;color:#8ebae8;}
+li.active.box>a{color:#8ebae8;}
+
+nav li a {color: #a8320a;}
+nav li a:hover {color:#fa372e;}
+h2 a {color: #a8320a;}
+h2 a:hover {color: #fa372e;}
 
 .img-rounded{-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}
 .img-polaroid{padding:4px;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0, 0, 0, 0.2);
