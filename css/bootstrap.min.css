@@ -205,12 +205,12 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 padding-top: 12px;
 position: relative;
 bottom: 34px;
-height: 33px;
+height: 37px;
 background: #ddd;
 border-radius: 5px 5px 0 0;
 margin-top: 30px;
 overflow-x: hidden;}
-.nav-tabs>li{margin-bottom:5px;list-style-type: none;
+.nav-tabs>li{list-style-type: none;
 border-radius: 5px;
 font-size: 18px;
 border: 1px solid #ddd;}
