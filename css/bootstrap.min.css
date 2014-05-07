@@ -436,13 +436,13 @@ footer {background: url('http://webstir.org/70-percent-bg.png') repeat;
     bottom: 0;
     left: 0;
     width: 100%;
-    height: 100px;
+    height: 110px;
 border-bottom: 11px solid #342b24;
 margin: 0 auto;
 font-weight: 100;
 }
 footer p{color: #808080;
-padding-top: 34px;
+padding-top: 38px;
 float: right;
 max-width: 64%;
 line-height: 1.2;
@@ -458,7 +458,7 @@ footer a:hover{color: #8ebae8;}
 margin: 1%;
 background: rgba(83, 70, 59, 0.23);
 float: left;
-padding: 10px;
+padding: 12px 10px;
 border-radius: 10px;
 max-width: 250px;
 }
