@@ -385,7 +385,7 @@ background: #ddd;position: fixed;z-index: 1;}
 
 .top-nav li.active.box {
 background: #efeeee;
-border-bottom: 5px solid #a8320a;
+border-bottom: 4px solid #efeeee;
 }
 
 .navbar .brand:hover{color:#fa372e;}
