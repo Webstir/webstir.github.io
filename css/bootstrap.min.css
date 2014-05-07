@@ -237,6 +237,10 @@ border: 1px solid #ddd;}
 .nav-pills.nav-stacked>li:last-child>a{margin-bottom:1px;}
 .nav-tabs .dropdown-menu{-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;}
 
+li.active {
+border: 5px solid #CACACA;
+}
+
 .tabbable{background-color: #efeeee;border-radius: 0 0 5px 5px;clear: both;
 bottom: 34px;
 position: relative;}.tabbable:before,.tabbable:after{display:block;content:"";line-height:0;}
