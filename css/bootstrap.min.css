@@ -198,14 +198,15 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 .nav-tabs{padding-left: 2%;
 padding-top: 6px;
 position: relative;
-bottom: 32px;
+bottom: 15px;
 background: #ddd;
 border-radius: 5px 5px 0 0;
 margin-top: 30px;
 overflow: auto;
 white-space: nowrap;
 text-align: justify;
--webkit-overflow-scrolling: touch;}
+-webkit-overflow-scrolling: touch;
+height: 60px;}
 
 .nav-tabs>li{list-style-type: none;
 font-size: 18px;
