@@ -282,7 +282,7 @@ nav>.disabled>a:hover{text-decoration:none;background-color:transparent;cursor:d
   text-shadow:0 1px 0 #eeeeee;text-align: right;font-family:Georgia;}
   .navbar .brand:hover{/*text-decoration:none;*/}
 
-a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
+a.brand {font-size:33px;color:#a8320a;font-weight:400;padding-left:2%;font-family: volkhorn;}
 a.brand:hover {color:#fa372e;}
 
 
