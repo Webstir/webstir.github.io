@@ -36,7 +36,7 @@ body{margin: 0px 0px 0px 0px; font-family:"Muli","Helvetica Neue",Helvetica,Aria
 color:#000000;background: url('http://webstir.org/80-percent-bg.png') repeat;}
 
 /* link colors*/
-a{text-decoration:none;color:#b6806f;}
+a{text-decoration:none;color:#a8320a;}
 a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
 a:active{outline:0;}
 a:hover{text-decoration:none;outline:0;color:#fa372e;}
