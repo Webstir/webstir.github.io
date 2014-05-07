@@ -96,7 +96,7 @@ border-radius: 10px;margin: 0 5px 15px 1%;background: white;}
 .row-fluid .span12{width:100%;}
 .row-fluid .span11{width:91.48%;}
 .row-fluid .span10{width:82.97%;}
-.row-fluid .span9{width:74.46%;}
+.row-fluid .span9{width:74.46%;height: 70px;}
 .row-fluid .span8{width:65.95%;}
 .row-fluid .span7{width:57.44%;}
 .row-fluid .span6{width:48.93%;}
