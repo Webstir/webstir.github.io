@@ -40,7 +40,7 @@ a{text-decoration:none;color:#a8320a;}
 a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
 a:active{outline:0;}
 a:hover{text-decoration:none;outline:0;color:#fa372e;}
-li.active.box>a{color:#fa372e;}
+li.active.box>a{color:#dd1c14;}
 
 .img-rounded{-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}
 .img-polaroid{padding:4px;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0, 0, 0, 0.2);
