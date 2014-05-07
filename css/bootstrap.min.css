@@ -230,7 +230,7 @@ box-sizing: border-box;}
 .nav-tabs .dropdown-menu{-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;}
 
 .nav-tabs li.active {
-  border-bottom: 4px solid rgb(143, 17, 17);
+  border-bottom: 4px solid #a8320a;
 }
 
 .tabbable{background-color: #efeeee;border-radius: 0 0 5px 5px;clear: both;
@@ -382,7 +382,7 @@ background: #ddd;position: fixed;z-index: 1;}
 .top-nav li.active.box {
 background: #efeeee;
 padding: 0 7px 2px;
-border-bottom: 5px solid #8f1010;
+border-bottom: 5px solid #a8320a;
 }
 
 .navbar .brand:hover{color:#fa372e;}
