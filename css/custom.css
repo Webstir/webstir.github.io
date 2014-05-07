@@ -7,5 +7,6 @@
 #content .span4 p a {
     float: right;
     margin-right: 15px;
-    font-size: 14px;
+    font-size: 16px;
+	color: #b1806f;
 }
