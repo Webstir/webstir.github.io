@@ -289,7 +289,7 @@ nav>.disabled>a:hover{text-decoration:none;background-color:transparent;cursor:d
 .navbar .brand{background: url(http://webst.ir/monocle-small.png) no-repeat left center;
   height: 20px; width: 145px; float:left;display:block;padding:9.5px 20px 9.5px;margin-left:0px;font-size:30px;font-weight:200;
   text-shadow:0 1px 0 #eeeeee;text-align: right;font-family:Georgia;}
-  .navbar .brand:hover{text-decoration:none;}
+  .navbar .brand:hover{/*text-decoration:none;*/}
 
 a.brand {font-size:29px;color:#a8320a;font-weight:400;padding-left:2%;}
 
@@ -385,7 +385,13 @@ nav.top-nav{margin-left:0;list-style:none;font-size:1.8em;
 float:none;text-decoration:none;text-shadow:0 1px 0 #eeeeee;
 color: #868686;font-family: 'Open Sans', sans-serif;font-weight:300;
 width:100%;min-width: 519px;border-bottom: 1px solid #dddddd;
-background: #efeeee;position: fixed;z-index: 1;}
+background: #ddd;position: fixed;z-index: 1;}
+
+.top-nav li.active.box {
+background: #efeeee;
+padding: 0 7px 2px;
+border-bottom: 5px solid #8f1010;
+}
 
 .navbar .brand:hover{color:#fa372e;}
 
