@@ -438,9 +438,10 @@ footer {background: url('http://webstir.org/70-percent-bg.png') repeat;
 /*border-bottom: 11px solid #342b24;*/
 margin: 0 auto;
 font-weight: 100;
+min-width: 540px;
 }
 footer p{color: #808080;
-padding-top: 38px;
+padding-top: 20px;
 float: right;
 max-width: 44%;
 line-height: 1.2;
