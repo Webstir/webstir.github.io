@@ -527,7 +527,7 @@ MEDIA QUERIES
   #site-submit a {visibility:hidden;}
 }
 
-@media (min-width: 321px){
+@media (min-width: 525px){
 #webstir-blurb {visibility: hidden;
 display: none;}
 .mobileNav{display: none}
@@ -547,7 +547,7 @@ font-size: 120%;}
 
 /*MOBILE*/
 
-@media (max-width: 320px){
+@media (max-width: 524px){
 	html {overflow-x: hidden;overflow-y:hidden;}
 	.f-dropdown.content {max-width: 250px}
 	.hero-unit {visibility: hidden;display: none;}
