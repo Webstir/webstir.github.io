@@ -198,7 +198,7 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 .nav-tabs{padding-left: 2%;
 padding-top: 6px;
 position: relative;
-bottom: 34px;
+bottom: 32px;
 background: #ddd;
 border-radius: 5px 5px 0 0;
 margin-top: 30px;
@@ -233,7 +233,7 @@ box-sizing: border-box;font-family: 'Open Sans', sans-serif;}
 .nav-tabs .dropdown-menu{-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;}
 
 .nav-tabs li.active {
-  border-bottom: 4px solid #a8320a;
+  /*border-bottom: 4px solid #a8320a;*/
 }
 
 .tabbable{background-color: #efeeee;border-radius: 0 0 5px 5px;clear: both;
