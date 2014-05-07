@@ -211,9 +211,9 @@ margin-top: 30px;
 overflow: hidden;}
 
 .nav-tabs>li{list-style-type: none;
-/*border-radius: 5px;*/
 font-size: 18px;
-border: 1px solid #ddd;}
+border: 1px solid #ddd;height: 38px;
+box-sizing: border-box;}
 
 
 .nav-tabs>li>a{padding:8px;line-height:25px;border:1px solid transparent;
