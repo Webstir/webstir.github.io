@@ -474,7 +474,7 @@ MEDIA QUERIES
 ///////////////////////////////////////////////*/
 /*OLD BOOKSHELF 1335px*/
 
-@media (min-width: 600px) {
+@media (min-width: 660px) {
 #bookshelf {
   height: 3px; 
   width: 65px; 
@@ -486,7 +486,7 @@ MEDIA QUERIES
   border-top:1px solid #cf1913;
 border-radius: 0px 2px 4px 0;}
 }
-@media (min-width: 600px) {
+@media (min-width: 660px) {
 #site-submit a { 
   display: block; 
   background: #ef1b15;
@@ -505,6 +505,9 @@ border-radius: 3px 7px 3px 2px;}
 	color: #fa372e;
 	background:#ffffff;}
 }
+@media (max-width: 659px) {
+  #site-submit a {visibility:hidden;}
+}
 
 /*RESPONSIVE SITE BOXES*/
 @media (min-width: 320px) {.tabbable .span4 {width:96%;}}
@@ -515,10 +518,6 @@ border-radius: 3px 7px 3px 2px;}
 
 @media (max-width: 598px) {
   .tab-pane .span4 div+p {height: initial;}
-}
-
-@media (max-width: 780px) {
-  #site-submit a {visibility:hidden;}
 }
 
 @media (min-width: 525px){
