@@ -149,12 +149,6 @@ padding: 5px 0 0 5px;
 small{font-size:85%;}
 strong{font-weight:bold;}
 em{font-style:italic;}
-cite{font-style:normal;}
-.muted{color:#bbbbbb;}
-.text-warning{color:#ffffff;}
-.text-error{color:#ffffff;}
-.text-info{color:#ffffff;}
-.text-success{color:#ffffff;}
 h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:normal;line-height:1;color:#bbbbbb;}
 h1{font-size:2.4em;line-height:40px;}
 h2{font-size:25px;color:#C23432;text-align: center;margin-top: 10%;font-family: volkhorn;padding-top: 3px;
@@ -373,7 +367,6 @@ width: 100%;}
 .show{display:block;}
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
-.navbar .navbar-inner{border:0px solid #a8320a;-webkit-box-shadow:0 1px 0 rgba(255, 255, 255, 0.4) , 0 0 10px rgba(0, 0, 0, 0.1);-moz-box-shadow:0 1px 0 rgba(255, 255, 255, 0.4) , 0 0 10px rgba(0, 0, 0, 0.1);box-shadow:0 1px 0 rgba(255, 255, 255, 0.4) , 0 0 10px rgba(0, 0, 0, 0.1);}
 
 .navbar .brand{text-shadow:0 1px 0 rgba(255, 255, 255, 0.3);font-family: 'Vollkorn', serif;font-size:30px;}
 
