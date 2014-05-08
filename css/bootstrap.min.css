@@ -33,7 +33,7 @@ img{max-width:100%;/*width:auto;*/height:auto;vertical-align:middle;border:0;-ms
 #map_canvas img{max-width:none;}
 button,input,select,textarea{margin:0;font-size:100%;vertical-align:middle;}
 body{margin: 0px 0px 0px 0px; font-family:"Muli","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1em;
-color:#000000;background: url('http://webstir.org/80-percent-bg.png') repeat;}
+color:#000000;/*background: url('http://webstir.org/80-percent-bg.png') repeat;*/}
 
 /* link colors*/
 a{text-decoration:none;color:#b6806f;}
@@ -303,31 +303,31 @@ a.brand:hover {color:#fa372e;}
 
 /*Banner images*/
 
-.talk-title{height: 375px;background:#332b24 url('http://webstir.org/talk6.png') no-repeat center center fixed;}
+.talk-title{height: 375px;/*background:#332b24 url('http://webstir.org/talk6.png') no-repeat center center fixed;*/}
 .talk-title-background{background: #332b24 url('http://webstir.org/talk6.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;
 overflow:hidden;
 background-position-y: 35px;}
-.share-title{height: 375px;background:#332b24 url('http://webstir.org/share5.png') no-repeat center center fixed;}
+.share-title{height: 375px;/*background:#332b24 url('http://webstir.org/share5.png') no-repeat center center fixed;*/}
 .share-title-background{background: #332b24 url('http://webstir.org/share5.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;
 overflow:hidden;
 background-position-y: 35px;}
-.learn-title{height: 375px;background:#332b24 url('http://webstir.org/learn8.png') no-repeat center center fixed;}
+.learn-title{height: 375px;/*background:#332b24 url('http://webstir.org/learn8.png') no-repeat center center fixed;*/}
 .learn-title-background{background: #332b24 url('http://webstir.org/learn8.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;
 overflow:hidden;
 background-position-y: 35px;}
-.create-title{height: 375px; background:#332b24 url('http://webstir.org/create8.png') no-repeat center center fixed;}
+.create-title{height: 375px; /*background:#332b24 url('http://webstir.org/create8.png') no-repeat center center fixed;*/}
 .create-title-background{background: #332b24 url('http://webstir.org/create8.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;
 overflow:hidden;
 background-position-y: 35px;}
-.art-title{height: 375px;background:#332b24 url('http://webstir.org/art9.png') no-repeat center center fixed;}
+.art-title{height: 375px;/*background:#332b24 url('http://webstir.org/art9.png') no-repeat center center fixed;*/}
 .art-title-background{background: #332b24 url('http://webstir.org/art9.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;
