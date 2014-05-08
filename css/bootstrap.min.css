@@ -472,8 +472,9 @@ max-width: 250px;
 /*//////////////////////////////////////////////
 MEDIA QUERIES
 ///////////////////////////////////////////////*/
+/*OLD BOOKSHELF 1335px*/
 
-@media (min-width: 1335px) {
+@media (min-width: 600px) {
 #bookshelf {
   height: 3px; 
   width: 65px; 
@@ -485,7 +486,7 @@ MEDIA QUERIES
   border-top:1px solid #cf1913;
 border-radius: 0px 2px 4px 0;}
 }
-@media (min-width: 780px) {
+@media (min-width: 600px) {
 #site-submit a { 
   display: block; 
   background: #ef1b15;
