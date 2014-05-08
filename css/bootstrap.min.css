@@ -350,7 +350,8 @@ background-position-y: 35px;}
 background-attachment: fixed;
 background-position-y: 44px;}
 
-body {height: 100%;overflow: auto;}
+body {height: 100%;overflow: scroll;
+-webkit-overflow-scrolling: touch;}
 
 .fade-bar{/*background: url('/hero-fade-bar2.png') repeat-x center bottom;*/
 height: 25px;
