@@ -460,7 +460,7 @@ max-width: 250px;
 
 #site-submit {
 	position: absolute;
-	top: 117px;
+	top: 116px;
 	left:-20px;
 	z-index: 0;
   transform: rotate(-90deg);
@@ -500,6 +500,7 @@ border-radius: 0px 2px 4px 0;}
   border-left: solid 1px #332b24;
   border-right: solid 15px #332b24;
   border-top:solid 2px #332b24;*/
+  border: 1px solid #332b24;
 border-radius: 3px 7px 3px 2px;}
 #site-submit a:hover {
 	color: #fa372e;
