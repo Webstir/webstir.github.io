@@ -461,7 +461,7 @@ max-width: 250px;
 #site-submit {
 	position: absolute;
 	top: 116px;
-	left:-20px;
+	left:-11px;
 	z-index: 0;
   transform: rotate(-90deg);
   -webkit-transform: rotate(-90deg); 
