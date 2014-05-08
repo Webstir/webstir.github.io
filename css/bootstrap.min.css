@@ -460,7 +460,7 @@ max-width: 250px;
 
 #site-submit {
 	position: absolute;
-	top: 106px;
+	top: 117px;
 	left:-20px;
 	z-index: 0;
   transform: rotate(-90deg);
@@ -478,10 +478,10 @@ MEDIA QUERIES
   height: 3px; 
   width: 65px; 
   position: absolute; 
-  top: 160px;
+  top: 175px;
   display: block; 
   background: #ee140f;
-  border-bottom: 1px solid #911f19;
+  border-bottom: 1px solid #b71610;
   border-top:1px solid #cf1913;}
 }
 @media (min-width: 780px) {
@@ -494,10 +494,11 @@ MEDIA QUERIES
   padding: 3px 10px;
   font-size: 1.1em; 
   font-weight: bold; 
-  border-bottom: solid 5px #332b24;
+  /*border-bottom: solid 5px #332b24;
   border-left: solid 1px #332b24;
   border-right: solid 15px #332b24;
-  border-top:solid 2px #332b24;}
+  border-top:solid 2px #332b24;*/
+border-radius: 3px 7px 3px 2px;}
 #site-submit a:hover {
 	color: #fa372e;
 	background:#ffffff;}
