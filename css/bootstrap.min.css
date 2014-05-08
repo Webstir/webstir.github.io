@@ -307,32 +307,27 @@ a.brand:hover {color:#fa372e;}
 .talk-title-background{background: #332b24 url('http://webstir.org/talk6.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;/*
-overflow:hidden;*/
-background-position-y: 35px;}
+overflow:hidden;*/}
 .share-title{height: 375px;/*background:#332b24 url('http://webstir.org/share5.png') no-repeat center center fixed;*/}
 .share-title-background{background: #332b24 url('http://webstir.org/share7.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;/*
-overflow:hidden;*/
-background-position-y: 35px;}
+overflow:hidden;*/}
 .learn-title{height: 375px;/*background:#332b24 url('http://webstir.org/learn8.png') no-repeat center center fixed;*/}
 .learn-title-background{background: #332b24 url('http://webstir.org/learn8.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;/*
-overflow:hidden;*/
-background-position-y: 35px;}
+overflow:hidden;*/}
 .create-title{height: 375px; /*background:#332b24 url('http://webstir.org/create8.png') no-repeat center center fixed;*/}
 .create-title-background{background: #332b24 url('http://webstir.org/create8.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;/*
-overflow:hidden;*/
-background-position-y: 35px;}
+overflow:hidden;*/}
 .art-title{height: 375px;/*background:#332b24 url('http://webstir.org/art9.png') no-repeat center center fixed;*/}
 .art-title-background{background: #332b24 url('http://webstir.org/art9.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;/*
-overflow:hidden;*/
-background-position-y: 35px;}
+overflow:hidden;*/}
 .home-title{height: 365px; background:#342B24 url('http://webstir.org/webster8.png') center no-repeat;background-position-y: 50px;}
 .web-title{padding:60px;margin-top:30px;background:url('http://webstir.org/web_home4.png') no-repeat center center;}
 
