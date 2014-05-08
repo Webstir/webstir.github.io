@@ -473,7 +473,7 @@ max-width: 250px;
 MEDIA QUERIES
 ///////////////////////////////////////////////*/
 
-@media (min-width: 1400px) {
+@media (min-width: 1335px) {
 #bookshelf {
   height: 3px; 
   width: 65px; 
@@ -482,7 +482,8 @@ MEDIA QUERIES
   display: block; 
   background: #ee140f;
   border-bottom: 1px solid #b71610;
-  border-top:1px solid #cf1913;}
+  border-top:1px solid #cf1913;
+border-radius: 0px 2px 4px 0;}
 }
 @media (min-width: 780px) {
 #site-submit a { 
