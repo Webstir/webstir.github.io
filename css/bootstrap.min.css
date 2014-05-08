@@ -373,7 +373,7 @@ width:100%;min-width: 550px;border-bottom: 1px solid #dddddd;background: rgba(23
 
 .top-nav li.active.box {
 background: #efeeee;
-border-bottom: 4px solid #efeeee;
+border-bottom: 3px solid #efeeee;
 }
 
 .navbar .brand:hover{color:#fa372e;}
