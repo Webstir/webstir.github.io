@@ -204,7 +204,7 @@ margin-top: 15px;
 overflow-y: hidden;
 white-space: nowrap;
 text-align: justify;
--webkit-overflow-scrolling: touch;
+-webkit-overflow-scrolling-y: touch;
 height: 60px;}
 
 .nav-tabs>li{list-style-type: none;
