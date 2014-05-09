@@ -403,6 +403,15 @@ padding: 4px;}
 	border-radius: 5px;
 	margin: 10px;}
 
+#webstir-blurb-big p {
+font-weight: 200;
+padding-top: 10px;
+}
+
+#webstir-blurb-big h3 {
+text-align: center;
+}
+
 #submit-section {background: #efeeee;
 border-radius: 5px;
 margin-top: 10px;
