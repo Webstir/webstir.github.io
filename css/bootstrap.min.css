@@ -519,7 +519,7 @@ margin-left: 5%;}
 @media (min-width: 599px) {.tabbable .span4 {width:48%;margin-left: .6%;}}
 @media (min-width: 900px) {.tabbable .span4 {width:31.5%;}}
 @media (min-width: 1230px) {.tabbable .span4 {width:23.3%;}}
-@media (min-width: 1580px) {.tabbable .span4 {width:18.7%;}}
+@media (min-width: 1580px) {.tabbable .span4 {width:18.4%;}}
 
 @media (max-width: 598px) {
   .tab-pane .span4 div+p {height: initial;}
