@@ -19,7 +19,7 @@ table {	border-collapse: collapse;	border-spacing: 0;}
 /*END CSS RESET*/
 
 @import url('http://fonts.googleapis.com/css?family=Muli');
-section{display:block;width: 90%;
+section{display:block;width: 92%;
 margin: 0 auto;}
 html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
 min-height: 100%;
@@ -70,7 +70,7 @@ h2 a:hover {color: #fa372e;}
 height:80px;}
 
 .span4{width:300px;border: 1px solid #ddd;
-border-radius: 10px;margin: 0 5px 15px 1%;background: white;}
+border-radius: 10px;margin: 0px .7% 15px .7%;background: white;}
 .span3{width:220px;}
 .span2{width:140px;}
 .span1{width:60px;}
@@ -514,9 +514,10 @@ border-radius: 3px 7px 3px 2px;}
 }
 
 /*RESPONSIVE SITE BOXES*/
-@media (min-width: 320px) {.tabbable .span4 {width:96%;}}
-@media (min-width: 599px) {.tabbable .span4 {width:47%;}}
-@media (min-width: 899px) {.tabbable .span4 {width:31%;}}
+@media (min-width: 320px) {.tabbable .span4 {width: 82%;
+margin-left: 8%;}
+@media (min-width: 599px) {.tabbable .span4 {width:48%;}}
+@media (min-width: 1020px) {.tabbable .span4 {width:31%;}}
 @media (min-width: 1230px) {.tabbable .span4 {width:23%;}}
 @media (min-width: 1580px) {.tabbable .span4 {width:18%;}}
 
