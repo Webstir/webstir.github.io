@@ -201,7 +201,7 @@ bottom: 15px;
 background: #ddd;
 border-radius: 5px 5px 0 0;
 margin-top: 15px;
-overflow: auto;
+/*overflow: auto;*/
 white-space: nowrap;
 text-align: justify;
 -webkit-overflow-scrolling: touch;
@@ -209,7 +209,9 @@ height: 60px;}
 
 .nav-tabs>li{list-style-type: none;
 font-size: 18px;
-border: 1px solid #ddd;/*height: 38px;*/
+/*border: 1px solid #ddd;height: 38px;*/
+background: #ddd;
+border-radius: 10px;
 box-sizing: border-box;font-family: 'Open Sans', sans-serif;}
 
 
