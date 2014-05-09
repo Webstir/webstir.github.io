@@ -197,7 +197,7 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 .nav-tabs{padding-left: 2%;
 padding-top: 6px;
 position: relative;
-bottom: 15px;
+bottom: 30px;
 background: #ddd;
 border-radius: 5px 5px 0 0;
 margin-top: 15px;
