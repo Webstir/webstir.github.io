@@ -5,9 +5,11 @@
 }
 
 #content .span4 p a {
-    float: right;
-    margin-right: 15px;
-    font-size: 17px;
+    /*float: right;*/
+    /*margin-right: 15px;
+    font-size: 17px;*/
 	color: #b1806f;
-	font-weight: 300;
+	/*font-weight: 300;*/
+	font-family: Muli, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 14px;
 }
