@@ -517,7 +517,7 @@ border-radius: 3px 7px 3px 2px;}
 @media (min-width: 320px) {.tabbable .span4 {width: 88%;
 margin-left: 5%;}
 @media (min-width: 599px) {.tabbable .span4 {width:48%;margin-left: .6%;}}
-@media (min-width: 900px) {.tabbable .span4 {width:31.8%;}}
+@media (min-width: 900px) {.tabbable .span4 {width:31.5%;}}
 @media (min-width: 1230px) {.tabbable .span4 {width:23.7%;}}
 @media (min-width: 1580px) {.tabbable .span4 {width:18.7%;}}
 
