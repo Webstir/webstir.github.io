@@ -226,7 +226,7 @@ color: #fa372e;
 
 .nav-tabs>.active>a,.nav-tabs>.active>a:hover{
   color:#e70401;background-color:#efeeee;
-  cursor:default;border-bottom: 30px solid #efeeee;
+  cursor:default;border-bottom: 14px solid #efeeee;
   border-radius: 10px 10px 0 0;}
 
 
