@@ -309,7 +309,7 @@ a.brand:hover {color:#fa372e;}
 top: 15px;
 position: fixed;
 font-family: 'Raleway', sans-serif;
-font-weight: 100;
+font-weight: 200;
 font-size: 4em;
 color: white;
 /*background: url('http://webstir.org/70-percent-bg.png') repeat;*/
@@ -325,7 +325,7 @@ background-size: cover;
 height:100%;/*
 overflow:hidden;*/}
 .share-title{height: 375px;/*background:#332b24 url('http://webstir.org/share5.png') no-repeat center center fixed;*/}
-.share-title h1 {left: 25%;}
+.share-title h1 {left: 25%;color: #9f6528;text-shadow: 0;}
 .share-title-background{background: #332b24 url('http://webstir.org/share7.png') no-repeat center center fixed;
 background-size: cover;
 height:100%;/*
