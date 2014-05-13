@@ -227,7 +227,7 @@ color: #fa372e;
 
 .nav-tabs>.active>a,.nav-tabs>.active>a:hover{
   color:#e70401;/*background-color: rgba(239, 238, 238, 0.9);*/
-  cursor:default;/*border-bottom: 14px solid #efeeee;*/
+  cursor:default;border-bottom: 1px solid #e70401;
   border-radius: 10px 10px 0 0;}
 
 
@@ -402,8 +402,8 @@ width:100%;min-width: 550px;border-bottom: 1px solid #dddddd;background: rgba(23
 position: fixed;z-index: 1;bottom: 0;}
 
 .top-nav li.active.box {
-background: #efeeee;
-border-bottom: 3px solid #efeeee;
+/*background: #efeeee;*/
+border-bottom: 1px solid #e70401;
 }
 
 .navbar .brand:hover{color:#fa372e;}
