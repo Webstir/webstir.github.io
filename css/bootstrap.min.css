@@ -349,6 +349,10 @@ background-size: cover;
 height:100%;/*
 overflow:hidden;*/}
 .home-title{height: 355px; background:#342B24 url('http://webstir.org/webster9.png') center no-repeat;background-position-y: 10px;}
+.home-title-background{background: #332b24 url('http://webstir.org/den1.png') no-repeat center center fixed;
+background-size: cover;
+height:100%;/*
+overflow:hidden;*/}
 .web-title{padding:60px;margin-top:30px;background:url('http://webstir.org/web_home4.png') no-repeat center center;}
 
 
