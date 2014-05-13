@@ -348,7 +348,7 @@ overflow:hidden;*/}
 background-size: cover;
 height:100%;/*
 overflow:hidden;*/}
-.home-title{height: 365px; background:#342B24 url('http://webstir.org/webster9.png') center no-repeat;background-position-y: 50px;}
+.home-title{height: 355px; background:#342B24 url('http://webstir.org/webster9.png') center no-repeat;background-position-y: 10px;}
 .web-title{padding:60px;margin-top:30px;background:url('http://webstir.org/web_home4.png') no-repeat center center;}
 
 
@@ -493,7 +493,7 @@ max-width: 250px;
 
 #site-submit {
 	position: absolute;
-	top: 116px;
+	top: 76px;
 	left:-8px;
 	z-index: 0;
   transform: rotate(-90deg);
@@ -512,7 +512,7 @@ MEDIA QUERIES
   height: 3px; 
   width: 65px; 
   position: absolute; 
-  top: 175px;
+  top: 135px;
   left:5px;
   display: block; 
   background: #ee140f;
@@ -569,7 +569,7 @@ height: 0px;
 width: 350px;
 margin-left: auto;
 margin-right: auto;
-bottom: 207px;
+bottom: 240px;
 position: relative;
 font-size: 120%;}
 }
