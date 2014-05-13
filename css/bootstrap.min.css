@@ -336,6 +336,18 @@ overflow:hidden;*/}
 .home-title{height: 365px; background:#342B24 url('http://webstir.org/webster9.png') center no-repeat;background-position-y: 50px;}
 .web-title{padding:60px;margin-top:30px;background:url('http://webstir.org/web_home4.png') no-repeat center center;}
 
+
+.hero-unit h1 {
+top: 80px;
+position: fixed;
+left: 30%;
+font-family: volkhorn;
+font-size: 5em;
+color: white;
+background: url('http://webstir.org/50-percent-bg.png') repeat;
+padding: 20px 5px 15px 5px;
+border-radius: 5px;}
+
 .hero-unit{
 	-moz-background-size: cover;
 	-o-background-size: cover;
