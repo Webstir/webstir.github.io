@@ -308,7 +308,9 @@ a.brand:hover {color:#fa372e;}
 
 .hero-unit h1 {
 top: 15px;
-/*position: fixed;*/
+position: fixed;
+left: 50%;
+margin-left: -300px;
 font-family: 'Raleway', sans-serif;
 font-weight: 200;
 font-size: 4em;
