@@ -308,10 +308,11 @@ a.brand:hover {color:#fa372e;}
 .hero-unit h1 {
 top: 55px;
 position: fixed;
-font-family: volkhorn;
+font-family: 'Raleway', sans-serif;
+font-weight: 100;
 font-size: 4em;
 color: #ddd;
-background: url('http://webstir.org/70-percent-bg.png') repeat;
+/*background: url('http://webstir.org/70-percent-bg.png') repeat;*/
 padding: 20px 5px 15px 5px;
 border-radius: 5px;}
 /*Banner images*/
