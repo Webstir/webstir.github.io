@@ -199,6 +199,7 @@ padding-top: 6px;
 position: relative;
 bottom: 30px;
 /*background: #ddd;*/
+background-color: rgba(239, 238, 238, 0.9);
 border-radius: 5px 5px 0 0;
 margin-top: 15px;
 overflow-y: hidden;
@@ -216,7 +217,7 @@ box-sizing: border-box;font-family: 'Raleway', sans-serif;}
 
 
 .nav-tabs>li>a{padding:8px;line-height:25px;border:1px solid transparent;
-	-webkit-border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;border-radius:4px 4px 0 0;}
+	-webkit-border-radius:4px 4px 4px 4px;-moz-border-radius:4px 4px 4px 4px;border-radius:4px 4px 4px 4px;}
 
 .nav-tabs>li>a:hover{/*border-color:#eeeeee #eeeeee #dddddd;*/}
 
@@ -226,7 +227,7 @@ color: #fa372e;
 
 .nav-tabs>.active>a,.nav-tabs>.active>a:hover{
   color:#e70401;background-color: rgba(239, 238, 238, 0.9);
-  cursor:default;border-bottom: 14px solid #efeeee;
+  cursor:default;/*border-bottom: 14px solid #efeeee;*/
   border-radius: 10px 10px 0 0;}
 
 
