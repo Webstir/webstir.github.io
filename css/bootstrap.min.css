@@ -205,7 +205,6 @@ background-color: rgba(239, 238, 238, 0.9);
 margin-top: 30px;
 overflow-y: hidden;
 white-space: nowrap;
-text-align: justify;
 -webkit-overflow-scrolling-y: touch;
 height: 55px;}
 
@@ -295,7 +294,8 @@ nav>.disabled>a:hover{text-decoration:none;background-color:transparent;cursor:d
   text-shadow:0 1px 0 #eeeeee;text-align: right;font-family:Georgia;}
   .navbar .brand:hover{/*text-decoration:none;*/}
 
-a.brand {font-size:33px;color:#fa372e;font-weight:400;padding-left:2%;font-family: volkhorn;}
+a.brand {font-size:33px;color:#fa372e;font-weight:400;padding-left:2%;font-family: volkhorn;height: 40px;
+padding: 2px 0 0 2px;}
 a.brand:hover {color:#fa372e;border-bottom: 1px solid #e70401;}
 
 
