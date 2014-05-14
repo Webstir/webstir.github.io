@@ -185,7 +185,7 @@ ul#nav {
   width: 95%;padding: 5px;height:43px;min-width: 481px;
 }
 ul#nav li { 
-    display: inline;padding: 0 .5% 2px;
+    display: inline;padding: 0 .5% 2px;font-size: .9em;
 }
 ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 
