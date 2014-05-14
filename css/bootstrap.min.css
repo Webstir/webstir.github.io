@@ -42,7 +42,7 @@ a:active{outline:0;}
 a:hover{text-decoration:none;outline:0;color:#8ebae8;}
 li.active.box>a{color:#e70401;}
 
-nav li a {color: white;}
+nav li a {color: grey;}
 nav li a:hover {color:#fa372e;}
 h2 a {color: #a8320a;}
 h2 a:hover {color: #fa372e;}
@@ -401,7 +401,7 @@ width: 100%;}
 nav.top-nav{margin-left:0;list-style:none;font-size:2em;
 float:none;text-decoration:none;/*text-shadow:0 1px 0 #eeeeee;*/
 color: #868686;font-family: 'Raleway', sans-serif;font-weight:100;
-width:100%;min-width: 550px;border-bottom: 1px solid #dddddd;background: rgba(51, 51, 51, 0.9);;
+width:100%;min-width: 550px;border-bottom: 1px solid #dddddd;background: rgba(253, 253, 253, 0.9);
 position: fixed;z-index: 1;bottom: 0;}
 
 .top-nav li.active.box {
