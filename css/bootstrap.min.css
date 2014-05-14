@@ -294,10 +294,11 @@ nav>.disabled>a:hover{text-decoration:none;background-color:transparent;cursor:d
   text-shadow:0 1px 0 #eeeeee;text-align: right;font-family:Georgia;}
   .navbar .brand:hover{/*text-decoration:none;*/}
 
-a.brand {font-size:33px;color:#fa372e;font-weight:400;padding-left:2%;font-family: volkhorn;height: 40px;
-padding: 2px 0 0 2px;}
+a.brand {font-size:33px;color:#fa372e;font-weight:400;padding-left:2%;font-family: volkhorn;}
 a.brand:hover {color:#fa372e;border-bottom: 1px solid #e70401;}
 
+.brand img {height: 40px;
+padding: 2px 0 0 2px;}
 
 .navbar .nav{position:relative;left:0;display:block;/*float:left;*/margin:0 0 0 0;}
 .navbar .nav.pull-right{float:right;margin-right:0;}
