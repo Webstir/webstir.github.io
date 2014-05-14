@@ -416,6 +416,9 @@ border-bottom: 1px solid #e70401;
 .comment-icon {width:30px;float: right;
 padding: 4px;}
 
+.innovative-icon {width:30px;float: left;
+padding: 4px;}
+
 .tab-text{display: inline;}
 
 .tab-text img{width:30px;}
