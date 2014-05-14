@@ -316,7 +316,7 @@ font-weight: 200;
 font-size: 4em;
 color:white;
 text-align: center;
-background: url('http://webstir.org/50-percent-bg.png') repeat;
+background: rgba(52, 43, 36, 0.3);
 /*padding: 20px 5px 15px 5px;*/
 border-radius: 5px;
 /*text-shadow: -1px -1px 0 rgba(0, 0, 0, 0), 1px -1px 0 rgba(0, 0, 0, 0), -1px 1px 0 rgba(88, 88, 88, 0), 1px 1px 0 rgba(0, 0, 0, 0.51);*/
