@@ -19,7 +19,7 @@ table {	border-collapse: collapse;	border-spacing: 0;}
 /*END CSS RESET*/
 
 @import url('http://fonts.googleapis.com/css?family=Muli');
-section{display:block;/*width: 92%;*/
+section{display:block;width: 92%;
 margin: 0 auto;}
 html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
 min-height: 100%;
@@ -241,8 +241,7 @@ color: #fa372e;
   /*border-bottom: 4px solid #a8320a;*/
 }
 
-.tabbable{background-color: rgba(122, 122, 122, 0.64);
-/*border-radius: 0 0 5px 5px;*/clear: both;
+.tabbable{background-color: rgba(239, 238, 238, 0.9);border-radius: 0 0 5px 5px;clear: both;
 position: relative;bottom:4px;}
 
 .tabbable:before,.tabbable:after{display:block;content:"";line-height:0;}
@@ -403,7 +402,7 @@ nav.top-nav{margin-left:0;list-style:none;font-size:2em;
 float:none;text-decoration:none;/*text-shadow:0 1px 0 #eeeeee;*/
 color: #868686;font-family: 'Raleway', sans-serif;font-weight:100;
 width:100%;min-width: 489px;border-bottom: 1px solid #dddddd;background: rgba(253, 253, 253, 0.9);
-/*position: fixed;*/z-index: 1;bottom: 0;/*border-radius: 5px 5px 0 0;*/}
+/*position: fixed;*/z-index: 1;bottom: 0;border-radius: 5px 5px 0 0;}
 
 .top-nav li.active.box {
 /*background: #efeeee;*/
@@ -495,7 +494,7 @@ footer a:hover{color: #8ebae8;}
 
 .fb-like{left: 4%;
 margin: 1%;
-background: rgba(83, 70, 59, 0.75);
+background: rgba(83, 70, 59, 0.23);
 float: left;
 padding: 12px 10px;
 border-radius: 10px;
@@ -560,11 +559,10 @@ border-radius: 3px 7px 3px 2px;}
 /*RESPONSIVE SITE BOXES*/
 @media (min-width: 320px) {.tabbable .span4 {width: 88%;
 margin-left: 5%;}
-@media (min-width: 599px) {.tabbable .span4 {width:44.3%;margin-left: 3%;margin-bottom: 3.5%;}}
-@media (min-width: 900px) {.tabbable .span4 {width:30.7%;margin-left: 1.1%;
-margin-bottom: 1.5%;}}
-@media (min-width: 1230px) {.tabbable .span4 {width:22.6%;}}
-@media (min-width: 1580px) {.tabbable .span4 {width:17.7%;}}
+@media (min-width: 599px) {.tabbable .span4 {width:48%;margin-left: .6%;}}
+@media (min-width: 900px) {.tabbable .span4 {width:31.5%;}}
+@media (min-width: 1230px) {.tabbable .span4 {width:23.3%;}}
+@media (min-width: 1580px) {.tabbable .span4 {width:18.4%;}}
 
 @media (max-width: 598px) {
   .tab-pane .span4 div+p {height: initial;}
