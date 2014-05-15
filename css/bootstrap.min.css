@@ -241,7 +241,7 @@ color: #fa372e;
   /*border-bottom: 4px solid #a8320a;*/
 }
 
-.tabbable{background-color: rgba(239, 238, 238, 0.9);border-radius: 0 0 5px 5px;clear: both;
+.tabbable{background-color: rgba(197, 197, 197, 0.95);border-radius: 0 0 5px 5px;clear: both;
 position: relative;bottom:4px;}
 
 .tabbable:before,.tabbable:after{display:block;content:"";line-height:0;}
