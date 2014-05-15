@@ -691,8 +691,7 @@ nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     overflow-x:hidden;
-    overflow-y:auto ;
-    background: url('http://webstir.org/img/70-percent-bg.png') repeat;}
+    overflow-y:auto ;}
 
 /*
 Style the navigation menu
@@ -702,6 +701,7 @@ nav ul {
     margin: 0;
     width: 100%;
     padding: 0;
+    background: url('http://webstir.org/img/70-percent-bg.png') repeat;
 }
 
 nav li {
