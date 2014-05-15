@@ -72,7 +72,7 @@ height:95px;}
 
 
 .span4{width:300px;border: 1px solid #ddd;
-border-radius: 10px;margin: 0px .7% 15px .7%;background: white;}
+border-radius: 10px;margin: 0px .7% 15px .7%;background: white;box-shadow: 0 3px 2px rgba(0,0,0,0.33);}
 .span3{width:220px;}
 .span2{width:140px;}
 .span1{width:60px;}
