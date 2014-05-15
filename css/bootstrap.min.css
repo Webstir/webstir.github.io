@@ -67,10 +67,9 @@ h2 a:hover {color: #fa372e;}
 
 .tab-pane .span4 div+p
 {
-height:95px;transition: height .5s;}
+height:95px;}
 
-.tab-content .span4 p:hover {
-height: 100%;}
+
 
 .span4{width:300px;border: 1px solid #ddd;
 border-radius: 10px;margin: 0px .7% 15px .7%;background: white;}
