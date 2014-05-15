@@ -468,8 +468,9 @@ padding-right: 3%;}
 	color:#a8320a;
   width: 70%;}
 
-footer {background: url('http://webstir.org/img/70-percent-bg.png') repeat;
+footer {background: #200201;
     height: 120px;
+    margin-top: 40px;
     /*position: relative;
     bottom: -1px;
     left: 0;
