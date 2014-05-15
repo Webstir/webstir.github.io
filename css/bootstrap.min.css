@@ -241,7 +241,8 @@ color: #fa372e;
   /*border-bottom: 4px solid #a8320a;*/
 }
 
-.tabbable{background-color: rgba(239, 238, 238, 0.9);/*border-radius: 0 0 5px 5px;*/clear: both;
+.tabbable{background-color: rgba(122, 122, 122, 0.64);
+/*border-radius: 0 0 5px 5px;*/clear: both;
 position: relative;bottom:4px;}
 
 .tabbable:before,.tabbable:after{display:block;content:"";line-height:0;}
@@ -559,10 +560,11 @@ border-radius: 3px 7px 3px 2px;}
 /*RESPONSIVE SITE BOXES*/
 @media (min-width: 320px) {.tabbable .span4 {width: 88%;
 margin-left: 5%;}
-@media (min-width: 599px) {.tabbable .span4 {width:48%;margin-left: .6%;}}
-@media (min-width: 900px) {.tabbable .span4 {width:31.5%;}}
-@media (min-width: 1230px) {.tabbable .span4 {width:23.3%;}}
-@media (min-width: 1580px) {.tabbable .span4 {width:18.4%;}}
+@media (min-width: 599px) {.tabbable .span4 {width:48%;margin-left: 3%;margin-bottom: 3.5%;}}
+@media (min-width: 900px) {.tabbable .span4 {width:30.7%;margin-left: 1.1%;
+margin-bottom: 1.5%;}}
+@media (min-width: 1230px) {.tabbable .span4 {width:22.6%;}}
+@media (min-width: 1580px) {.tabbable .span4 {width:17.7%;}}
 
 @media (max-width: 598px) {
   .tab-pane .span4 div+p {height: initial;}
