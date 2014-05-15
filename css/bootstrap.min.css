@@ -494,13 +494,12 @@ footer a{color:#b6806f}
 
 footer a:hover{color: #8ebae8;}
 
-.fb-like{left: 4%;
+.fb-like{
 margin: 1%;
-background: rgba(83, 70, 59, 0.23);
+background: #200201;
 float: left;
 padding: 12px 10px;
 border-radius: 10px;
-max-width: 250px;
 }
 
 
