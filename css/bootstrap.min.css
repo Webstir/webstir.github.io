@@ -481,13 +481,11 @@ min-width: 540px;*/
 
 }
 footer p{color: #808080;
-padding-top: 20px;
-float: right;
-max-width: 44%;
+padding: 20px;
 line-height: 1.2;
 font-weight: 300;
-margin-right: 4.4%;
-font-size: 13px;}
+font-size: 14px;
+background: #200201}
 
 
 footer img{opacity:.4;float:right;padding-bottom:1%;padding-right: 1%;}
