@@ -468,7 +468,7 @@ padding-right: 3%;}
 	color:#a8320a;
   width: 70%;}
 
-footer {background: #200201;
+footer {background: rgba(32, 2, 1, 0.9);
     height: 120px;
     margin-top: 40px;
     /*position: relative;
@@ -485,8 +485,7 @@ footer p{color: #808080;
 padding: 20px;
 line-height: 1.2;
 font-weight: 300;
-font-size: 14px;
-background: #200201}
+font-size: 14px;}
 
 
 footer img{opacity:.4;float:right;padding-bottom:1%;padding-right: 1%;}
