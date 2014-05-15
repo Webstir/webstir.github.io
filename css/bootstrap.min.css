@@ -197,7 +197,7 @@ ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 .nav-tabs{padding-left: 2%;
 position: relative;
 /*background: #ddd;*/
-background-color: rgba(239, 238, 238, 0.9);
+background-color: rgba(238, 238, 238, 0.95);
 /*border-radius: 5px 5px 0 0;*/
 overflow-y: hidden;
 white-space: nowrap;
@@ -241,7 +241,7 @@ color: #fa372e;
   /*border-bottom: 4px solid #a8320a;*/
 }
 
-.tabbable{background-color: rgba(197, 197, 197, 0.95);border-radius: 0 0 5px 5px;clear: both;
+.tabbable{background-color: rgba(238, 238, 238, 0.95);border-radius: 0 0 5px 5px;clear: both;
 position: relative;bottom:4px;}
 
 .tabbable:before,.tabbable:after{display:block;content:"";line-height:0;}
