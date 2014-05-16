@@ -189,7 +189,7 @@ ul#nav {
 ul#nav li { 
     display: inline;padding: 0 .5% 2px;font-size: .9em;
 }
-ul#nav li#first {padding-left: 4%; }
+ul#nav li#first {margin-left: 4%; }
 
 ul#nav li#last { display: inline-block; /* Opera */ padding-left: 100%; }
 
@@ -319,6 +319,7 @@ top: 15px;
 position: fixed;
 left: 50%;
 margin-left: -300px;*/
+padding-left: 80px;
 font-family: 'Raleway', sans-serif;
 font-weight: 200;
 font-size: 4em;
