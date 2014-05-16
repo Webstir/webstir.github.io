@@ -212,12 +212,12 @@ white-space: nowrap;
 font-size: 18px;
 /*border: 1px solid #ddd;height: 38px;*/
 /*background: #ddd;*/
-margin: 10px 2% 5px 0;
+margin: 10px 15px 5px 0;
 border-radius: 10px;
 box-sizing: border-box;font-family: 'Raleway', sans-serif;}
 
 
-.nav-tabs>li>a{padding:8px;line-height:25px;border:1px solid transparent;
+.nav-tabs>li>a{line-height:25px;border:1px solid transparent;
 	-webkit-border-radius:4px 4px 4px 4px;-moz-border-radius:4px 4px 4px 4px;border-radius:4px 4px 4px 4px;}
 
 .nav-tabs>li>a:hover{/*border-color:#eeeeee #eeeeee #dddddd;*/}
