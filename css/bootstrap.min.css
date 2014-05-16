@@ -362,8 +362,8 @@ overflow:hidden;*/}
 background-size: cover;
 height:100%;/*
 overflow:hidden;*/}
-.home-title{height: 355px; background: url('http://webstir.org/img/webster12.png') center no-repeat;background-position-y: 10px;}
-.home-title-background{background:#200201;
+.home-title{height: 770px; background:#000 url('http://webstir.org/img/webster12.png') center no-repeat;background-position-y: 10px;}
+.home-title-background{background:#000;
 background-size: cover;
 height:100%;/*
 overflow:hidden;*/}
@@ -587,10 +587,10 @@ header .brand {display: none}
 color: #efeeee;
 height: 0px;
 width: 350px;
-margin-left: auto;
-margin-right: auto;
-bottom: 240px;
-position: relative;
+top: 130px;
+left: 50%;
+margin-left: -200px;
+position: absolute;
 font-size: 120%;}
 }
 
