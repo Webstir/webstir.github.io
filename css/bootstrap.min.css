@@ -296,10 +296,10 @@ nav>.disabled>a:hover{text-decoration:none;background-color:transparent;cursor:d
 a.brand {font-size:33px;color:#fa372e;font-weight:400;padding-left:2%;font-family: volkhorn;}
 a.brand:hover {border-bottom: 1px solid #e70401;}
 
-.brand img {height: 50px;
+.brand img {height: 60px;
 padding: 2px 0 0 2px;
 position: fixed;
-top: 10px;
+top: 0px;
 z-index: 5;}
 
 .navbar .nav{position:relative;left:0;display:block;/*float:left;*/margin:0 0 0 0;}
