@@ -67,7 +67,7 @@ h2 a:hover {color: #fa372e;}
 
 .tab-pane .span4 div+p
 {
-height:95px;background: rgba(236, 190, 184, 0.27);}
+height:95px;background: rgba(231, 231, 231, 0.27);}
 
 
 
@@ -109,7 +109,7 @@ border-radius: 10px;margin: 0px .7% 15px .7%;background: white;box-shadow: 2px 3
 border-radius: 10px;}
 
 .span4 p {border-top: 1px solid #ddd;padding: 5px 0 5px 10px;font-size: 16px;
-line-height: 22px;overflow-x: hidden;font-family: 'Georgia', serif;color: #090909;}
+line-height: 22px;overflow-x: hidden;font-family: 'Georgia', serif;color: #303030;}
 .span3 img {
 padding: 5px 0 0 5px;
 }
@@ -154,7 +154,7 @@ em{font-style:italic;}
 h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:normal;line-height:1;color:#bbbbbb;}
 h1{font-size:2.4em;line-height:40px;}
 h2{font-size:25px;color:#720000;text-align: center;margin-top: 10%;font-family: 'raleway';padding-top: 3px;
-padding-right: 12px;font-weight: 300;}
+padding-right: 12px;font-weight: 600;}
 h3{font-size:1.55em;}
 h4{font-size:1.3em;line-height:20px;}
 h5{font-size:14px;line-height:20px;}
