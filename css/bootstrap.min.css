@@ -109,7 +109,7 @@ border-radius: 10px;margin: 0px .7% 15px .7%;background: white;box-shadow: 2px 3
 border-radius: 10px;}
 
 .span4 p {border-top: 1px solid #ddd;padding: 5px 0 5px 10px;font-size: 16px;
-line-height: 20px;overflow-x: hidden;font-family: 'volkhorn';margin: 5px 0;}
+line-height: 22px;overflow-x: hidden;font-family: 'Georgia', serif;margin: 5px 0;}
 .span3 img {
 padding: 5px 0 0 5px;
 }
@@ -187,7 +187,7 @@ ul#nav {
   width: 95%;padding: 5px;height:43px;
 }
 ul#nav li { 
-    display: inline;padding: 0 .5% 2px;font-size: .9em;font-family: 'volkhorn';
+    display: inline;padding: 0 .5% 2px;font-size: .9em;font-family: 'Old Standard TT', serif;
 }
 ul#nav li#first {margin-left: 4%; }
 
