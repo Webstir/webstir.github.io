@@ -453,7 +453,7 @@ font-family: 'raleway';
 
 #webstir-blurb-big h3 {
 text-align: center;
-font-family: 'raleway';
+font-family: 'Old Standard TT', serif;
 font-weight: 300;
 }
 
@@ -518,7 +518,7 @@ border-radius: 10px;
 
 #site-submit {
 	position: absolute;
-	top: 88px;
+	top: 86px;
 	left:-8px;
 	z-index: 0;
   transform: rotate(-90deg);
