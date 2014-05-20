@@ -108,8 +108,8 @@ border-radius: 10px;margin: 0px .7% 15px .7%;background: white;box-shadow: 2px 3
 .row-fluid .span4{width:31%;border: 1px solid #ddd;
 border-radius: 10px;}
 
-.span4 p {border-top: 1px solid #ddd;padding: 5px 0 5px 10px;font-size: 14px;
-line-height: 20px;overflow-x: hidden;font-family: volkhorn;}
+.span4 p {border-top: 1px solid #ddd;padding: 5px 0 5px 10px;font-size: 16px;
+line-height: 20px;overflow-x: hidden;font-family: 'volkhorn';margin: 5px 0;}
 .span3 img {
 padding: 5px 0 0 5px;
 }
@@ -552,9 +552,10 @@ border-radius: 2px 2px 4px 4px;}
   color:#efeeee;
   height: 22px; 
   width: 67px; 
-  padding: 3px 10px;
-  font-size: 1.1em; 
-  font-weight: bold; 
+  padding: 5px 10px 1px 10px;
+  font-size: 18px; 
+  font-weight: bold;
+  font-family: 'raleway' 
   /*border-bottom: solid 5px #332b24;
   border-left: solid 1px #332b24;
   border-right: solid 15px #332b24;
