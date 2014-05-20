@@ -153,8 +153,10 @@ strong{font-weight:bold;}
 em{font-style:italic;}
 h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:normal;line-height:1;color:#bbbbbb;}
 h1{font-size:2.4em;line-height:40px;}
-h2{font-size:25px;color:#720000;text-align: center;margin-top: 10%;font-family: 'raleway';padding-top: 3px;
-padding-right: 12px;font-weight: 600;}
+h2{font-size:25px;color:#720000;text-align: center;font-family: 'raleway';
+padding-right: 4px;padding-left: 5px;font-weight: 600;letter-spacing: 0.01rem;position: relative;
+top: 50%;
+margin-top: -20px;}
 h3{font-size:1.55em;}
 h4{font-size:1.3em;line-height:20px;}
 h5{font-size:14px;line-height:20px;}
@@ -187,7 +189,7 @@ ul#nav {
   width: 95%;padding: 5px;height:43px;
 }
 ul#nav li { 
-    display: inline;padding: 0 .5% 2px;font-size: .9em;font-family: 'Old Standard TT', serif;
+    display: inline;padding: 0 .5% 2px;font-size: .9em;font-family: 'Old Standard TT', serif;letter-spacing: 0.1rem;
 }
 ul#nav li#first {margin-left: 4%; }
 
@@ -214,7 +216,7 @@ font-size: 18px;
 /*background: #ddd;*/
 margin: 10px 15px 5px 0;
 border-radius: 10px;
-box-sizing: border-box;font-family: 'Raleway', sans-serif;}
+box-sizing: border-box;font-family: 'Raleway', sans-serif;letter-spacing: 0.08rem;}
 
 
 .nav-tabs>li>a{line-height:25px;border:1px solid transparent;
@@ -323,6 +325,7 @@ margin-left: -300px;*/
 padding-left: 80px;
 font-family: 'Raleway', sans-serif;
 font-weight: 200;
+letter-spacing: 0.1rem;
 font-size: 4em;
 color:white;
 text-align: center;
