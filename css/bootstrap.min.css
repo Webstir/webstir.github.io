@@ -67,7 +67,7 @@ h2 a:hover {color: #fa372e;}
 
 .tab-pane .span4 div+p
 {
-height:95px;}
+height:95px;background: rgba(236, 190, 184, 0.27);}
 
 
 
@@ -109,7 +109,7 @@ border-radius: 10px;margin: 0px .7% 15px .7%;background: white;box-shadow: 2px 3
 border-radius: 10px;}
 
 .span4 p {border-top: 1px solid #ddd;padding: 5px 0 5px 10px;font-size: 16px;
-line-height: 22px;overflow-x: hidden;font-family: 'Georgia', serif;margin: 5px 0;}
+line-height: 22px;overflow-x: hidden;font-family: 'Georgia', serif;color: #090909;}
 .span3 img {
 padding: 5px 0 0 5px;
 }
