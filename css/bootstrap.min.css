@@ -98,7 +98,7 @@ border-radius: 10px;margin: 0px .7% 15px .7%;background: white;box-shadow: 2px 3
 .row-fluid .span12{width:100%;}
 .row-fluid .span11{width:91.48%;}
 .row-fluid .span10{width:82.97%;}
-.row-fluid .span9{width:74.46%;height: 70px;}
+.row-fluid .span9{width:74.46%;height: 80px;}
 .row-fluid .span8{width:65.95%;}
 .row-fluid .span7{width:57.44%;}
 .row-fluid .span6{width:48.93%;}
@@ -156,7 +156,7 @@ h1{font-size:2.4em;line-height:40px;}
 h2{font-size:25px;color:#720000;text-align: center;font-family: 'raleway';
 padding-right: 4px;padding-left: 5px;font-weight: 300;letter-spacing: 0.01rem;position: relative;
 top: 50%;
-margin-top: -20px;}
+margin-top: -30px;}
 h3{font-size:1.55em;}
 h4{font-size: 1.3em;
 line-height: 20px;
@@ -165,7 +165,7 @@ top: 35px;
 position: relative;
 font-size: 12.5px;
 color: #646464;
-font-family: volkhorn;}
+font-family: volkhorn;padding-top: 5px;}
 h5{font-size:1.3em;line-height:20px;}
 h6{font-size:12px;line-height:20px;}
 h1 small{font-size:24px;}
