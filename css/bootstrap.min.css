@@ -440,7 +440,9 @@ padding: 4px;}
 
 .innovative-icon {width:30px;float: left;}
 
-.popular-icon {width:30px;float: left;}
+.popular-icon {width: 25px;
+float: left;
+padding: 2px 0 3px 7px;}
 
 
 .tab-text{display: inline;}
