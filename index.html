@@ -129,8 +129,8 @@
   </ul>
 </nav>
       <ul class="nav-tabs">
-        <li class="active"><a href="#new" data-toggle="tab"><div class="tab-text">New</div></a></li>
-        <li class=""><a href="#added" data-toggle="tab"><div class="tab-text">Recented Added</div></a></li>
+        <li class="active"><a href="#added" data-toggle="tab"><div class="tab-text">Recently Added</div></a></li>
+        <li class=""><a href="#new" data-toggle="tab"><div class="tab-text">New</div></a></li>
         <li class=""><a href="#innovative" data-toggle="tab"><div class="tab-text">Innovative</div></a></li>
         <li class=""><a href="#popular" data-toggle="tab"><div class="tab-text">Popular</div></a></li>
         <li class=""><a href="#editors" data-toggle="tab">Editor's Choice</a></li>
@@ -138,9 +138,44 @@
       </ul>
       <div class="tabbable">
         <div class="tab-content">
+          <div class="tab-pane fade in active" id="added">
+            <div class="span4">
+                <div class="row-fluid">
+                  <div class="span3"><img width="72" alt="8 tracks icon" src="/icons/8tracks-icon.png"></div>
+                  <div class="span9"><h2><a href = "http://8tracks.com">8 Tracks</a></h2><h4>Launched in '08</h4></div>
+                </div>
+                <p>Internet radio and user submitted playlists for many moods and occasions.</p>
+                <div class="site-buttons">
+                  <div class="comment-icon">
+                <a href="#" class="button" data-dropdown="drop" data-options="align:top"><img src="/comment-icon.png"></a></div></div>
+                <div id="drop" data-dropdown-content class="f-dropdown content">
+                </div>
+            </div>
+            <div class="span4">
+              <div class="row-fluid">
+                <div class="span3"><img width="72" alt="meetup icon" src="/icons/meetup-icon.png"></div>
+                <div class="span9"><h2><a href = "http://www.meetup.com">Meetup</a></h2><h4>Launched in '02</h4></div>
+              </div>
+              <p>Comedy, concerts, parties, and a lot of software developers. Host or go to a Meetup around any idea or topic.</p>
+              <div class="site-buttons"><div class="comment-icon">
+              <a href="#" class="button" data-dropdown="drop" data-options="align:top"><img src="/comment-icon.png"></a></div></div>
+              <div id="drop" data-dropdown-content class="f-dropdown content">
+              </div>
+            </div>
+            <div class="span4">
+              <div class="row-fluid">
+                <div class="span3"><img width="72" alt="rap genius icon" src="/icons/rap-genius-icon.png"></div>
+                <div class="span9"><h2><a href = "http://rapgenius.com">Rap Genius</a></h2><h4>Since '10</h4></div>
+              </div>
+              <p>Think rap is all about bitches, ho, violence, thug life etc.? You're missing out on the deeper poetry these artists are trying to share.</p>
+              <div class="site-buttons"><div class="comment-icon">
+              <a href="#" class="button" data-dropdown="drop" data-options="align:top"><img src="/comment-icon.png"></a></div></div>
+              <div id="drop" data-dropdown-content class="f-dropdown content">
+              </div>
+            </div>
+          </div>
 
-
-          <div class="tab-pane fade in active" id="new">
+          <div class="tab-pane fade" id="new">
             <div class="span4">
               <div class="row-fluid">
                 <div class="span3"><img width="72" alt="Designerboard icon" src="/icons/designerboard-icon.png"/></div>
@@ -224,45 +259,19 @@
                   <div id="drop" data-dropdown-content class="f-dropdown content">
               </div>
             </div>
-          </div>
-          <div class="tab-pane fade" id="added">
-            <div class="span4">
-                <div class="row-fluid">
-                  <div class="span3"><img width="72" alt="8 tracks icon" src="/icons/8tracks-icon.png"></div>
-                  <div class="span9"><h2><a href = "http://8tracks.com">8 Tracks</a></h2><h4>Launched in '08</h4></div>
-                </div>
-                <p>Internet radio and user submitted playlists for many moods and occasions.</p>
-                <div class="site-buttons">
-                  <div class="comment-icon">
-                <a href="#" class="button" data-dropdown="drop" data-options="align:top"><img src="/comment-icon.png"></a></div></div>
-                <div id="drop" data-dropdown-content class="f-dropdown content">
-                </div>
-            </div>
             <div class="span4">
               <div class="row-fluid">
-                <div class="span3"><img width="72" alt="meetup icon" src="/icons/meetup-icon.png"></div>
-                <div class="span9"><h2><a href = "http://www.meetup.com">Meetup</a></h2><h4>Launched in '02</h4></div>
+                <div class="span3"><img width="72" alt="code pen icon" src="/icons/code-pen-icon.png"/></div>
+                <div class="span9"><h2><a class="btn" href="http://codepen.io/">Code Pen</a></h2><h4>Made in '12</h4></div>
               </div>
-              <p>Comedy, concerts, parties, and a lot of software developers. Host or go to a Meetup around any idea or topic.</p>
+              <p>CodePen is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. </p>
               <div class="site-buttons"><div class="comment-icon">
-              <a href="#" class="button" data-dropdown="drop" data-options="align:top"><img src="/comment-icon.png"></a></div></div>
-              <div id="drop" data-dropdown-content class="f-dropdown content">
-              </div>
-            </div>
-            <div class="span4">
-              <div class="row-fluid">
-                <div class="span3"><img width="72" alt="rap genius icon" src="/icons/rap-genius-icon.png"></div>
-                <div class="span9"><h2><a href = "http://rapgenius.com">Rap Genius</a></h2><h4>Since '10</h4></div>
-              </div>
-              <p>Think rap is all about bitches, ho, violence, thug life etc.? You're missing out on the deeper poetry these artists are trying to share.</p>
-              <div class="site-buttons"><div class="comment-icon">
-              <a href="#" class="button" data-dropdown="drop" data-options="align:top"><img src="/comment-icon.png"></a></div></div>
-              <div id="drop" data-dropdown-content class="f-dropdown content">
+                  <a href="#" class="button" data-dropdown="drop" data-options="align:top"><img src="/comment-icon.png"></a></div></div>
+                  <div id="drop" data-dropdown-content class="f-dropdown content">
               </div>
             </div>
           </div>
-
-
+          
           <div class="tab-pane fade" id="innovative">
             <div class="span4">
               <div class="row-fluid">
