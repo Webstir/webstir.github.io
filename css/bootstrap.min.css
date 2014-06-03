@@ -264,7 +264,7 @@ position: relative;bottom:4px;}
 
 .tabbable:before,.tabbable:after{display:block;content:"";line-height:0;}
 .tabbable:after{clear:both;}
-.tab-content{margin-left: 1%;padding-top: 15px;margin-top: 4px;}
+.tab-content{padding-top: 15px;margin-top: 4px;}
 .tabs-below>.nav-tabs,.tabs-right>.nav-tabs,.tabs-left>.nav-tabs{border-bottom:0;}
 .tab-content>.tab-pane,.pill-content>.pill-pane{display:none;}
 .tab-content>.active,.pill-content>.active{display:block;}
