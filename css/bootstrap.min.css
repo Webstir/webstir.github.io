@@ -40,9 +40,9 @@ a{text-decoration:none;color:#b6806f;}
 a:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
 a:active{outline:0;}
 a:hover{text-decoration:none;outline:0;color:#8ebae8;}
-li.active.box>a{color:#e70401;}
+li.active.box>a{color:#fa372e;;}
 
-nav li a {color: rgba(0, 0, 0, 0.5);}
+nav li a {color: #fa372e;}
 nav li a:hover {color:#fa372e;}
 h2 a {color: #a8320a;}
 h2 a:hover {color: #fa372e;}
@@ -223,7 +223,7 @@ white-space: nowrap;
 }
 
 .nav-tabs>li{list-style-type: none;
-font-size: 18px;
+font-size: 1.3em;
 /*border: 1px solid #ddd;height: 38px;*/
 /*background: #ddd;*/
 margin: 10px 15px 5px 0;
@@ -241,8 +241,8 @@ color: #fa372e;
 }
 
 .nav-tabs>.active>a,.nav-tabs>.active>a:hover{
-  color:#e70401;/*background-color: rgba(239, 238, 238, 0.9);*/
-  cursor:default;border-bottom: 1px solid #e70401;
+  color:#fa372e;;/*background-color: rgba(239, 238, 238, 0.9);*/
+  cursor:default;border-bottom: 1px solid #fa372e;
   border-radius: 10px 10px 0 0;}
 
 
