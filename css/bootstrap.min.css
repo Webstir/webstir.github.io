@@ -440,9 +440,13 @@ height: 380px;margin-bottom: 20px;}
 
 .site-buttons {border-top: 1px solid #ddd;}
 
-.wiki-article {width:20px;}
+.wiki-article {width: 30px;
+padding-left: 3px;
+float: left;}
 
-.external-link {width:20px;}
+.external-link {width: 11px;
+float: left;
+position: relative;}
 
 .comment-icon {width:30px;float: right;
 padding: 4px;}
