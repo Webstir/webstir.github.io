@@ -444,9 +444,9 @@ height: 380px;margin-bottom: 20px;}
 padding-left: 3px;
 float: left;}
 
-.external-link {width: 11px;
+.external-link {width: 11px;bottom:4px;
 float: left;
-position: relative;}
+position: relative;padding: 2px;}
 
 .comment-icon {width:30px;float: right;
 padding: 4px;}
