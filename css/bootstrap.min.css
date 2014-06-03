@@ -441,10 +441,9 @@ height: 380px;margin-bottom: 20px;}
 .site-buttons {border-top: 1px solid #ddd;}
 
 .wiki-article {width: 30px;
-padding-left: 3px;
 float: left;}
 
-.external-link {width: 11px;bottom:4px;
+.external-link {width: 11px;bottom:5px;right: 1px;
 float: left;
 position: relative;padding: 2px;}
 
