@@ -154,7 +154,7 @@ em{font-style:italic;}
 h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:normal;line-height:1;color:#bbbbbb;}
 h1{font-size:2.4em;line-height:40px;}
 h2{font-size:25px;color:#720000;text-align: center;font-family: 'Vollkorn';
-padding-right: 38px;padding-left: 35px;font-weight: 300;letter-spacing: 0.01rem;position: relative;
+padding-right: 38px;padding-left: 15px;font-weight: 300;letter-spacing: 0.01rem;position: relative;
 top: 50%;
 margin-top: -30px;}
 h3{font-size:1.55em;}
@@ -165,7 +165,7 @@ top: 35px;
 position: relative;
 font-size: 12.5px;
 color: #646464;
-font-family: Raleway;padding-top: 5px;padding-left: 34px;padding-right: 30px;}
+font-family: Raleway;padding-top: 5px;padding-left: 14px;padding-right: 30px;}
 h5{font-size: 3em;
 text-align: center;
 font-family: Old Standard TT;
