@@ -435,7 +435,7 @@ border-bottom: 1px solid #e70401;
 
 .incumbents{width: 100%;
 background: rgb(58, 23, 32);
-height: 380px;}
+height: 380px;margin-bottom: 20px;}
 
 .site-buttons {border-top: 1px solid #ddd;}
 
