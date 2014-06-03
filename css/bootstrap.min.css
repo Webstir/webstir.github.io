@@ -166,7 +166,11 @@ position: relative;
 font-size: 12.5px;
 color: #646464;
 font-family: Raleway;padding-top: 5px;padding-left: 34px;padding-right: 30px;}
-h5{font-size:1.3em;line-height:20px;}
+h5{font-size: 4em;
+text-align: center;
+font-family: Old Standard TT;
+color: rgb(255, 255, 255);
+padding: 20px;}
 h6{font-size:12px;line-height:20px;}
 h1 small{font-size:24px;}
 h2 small{font-size:18px;}
@@ -428,6 +432,10 @@ border-bottom: 1px solid #e70401;
 }
 
 .navbar .brand:hover{color:#fa372e;}
+
+.incumbents{width: 100%;
+background: rgb(58, 23, 32);
+height: 380px;}
 
 .site-buttons {border-top: 1px solid #ddd;}
 
