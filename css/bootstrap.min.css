@@ -609,7 +609,7 @@ border-radius: 3px 7px 3px 2px;}
 }
 @media (min-width: 900px) {
   .tabbable .span4 {width:31.5%;}
-  .incumbents {height: 680px;}
+  .incumbents {height: 400px;}
 }
 @media (min-width: 1230px) {.tabbable .span4 {width:23.3%;}}
 @media (min-width: 1580px) {.tabbable .span4 {width:18.4%;}}
