@@ -454,7 +454,7 @@ float: left;
 padding: 2px 0 3px 7px;}
 
 
-.tab-text{display: inline;}
+.tab-text{display: inline;color: rgba(255, 255, 255, 0.9);}
 
 .tab-text img{width:30px;}
 
