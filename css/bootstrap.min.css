@@ -12,6 +12,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body {	line-height: 1;}
 ol, ul {	list-style: none;}
 blockquote, q {	quotes: none;font: 15px Georgia, serif;
+  line-height: 22px;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 50px;
