@@ -13,9 +13,9 @@ body {	line-height: 1;}
 ol, ul {	list-style: none;}
 .blockquote, q {	quotes: none;font: 15px Georgia, serif;
   line-height: 22px;
-  margin-top: 10px;
+  display:block;
   margin-bottom: 10px;
-  margin-left: 50px;
+  margin-left: 30px;
   padding-left: 15px;
   border-left: 3px solid #ccc;}
 blockquote:before, 
