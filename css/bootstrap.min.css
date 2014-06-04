@@ -440,7 +440,8 @@ height: 380px;margin-bottom: 20px;}
 
 .site-buttons {border-top: 1px solid #ddd;}
 
-.embed-video{width:200px;}
+.embed-video{width: 40px;
+float: left;}
 
 .wiki-article {width: 30px;
 float: left;}
