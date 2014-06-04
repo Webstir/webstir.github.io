@@ -446,6 +446,9 @@ float: left;}
 .wiki-article {width: 30px;
 float: left;}
 
+.article {width: 30px;
+float: left;}
+
 .external-link {width: 11px;bottom:5px;right: 1px;
 float: left;
 position: relative;padding: 2px;}
