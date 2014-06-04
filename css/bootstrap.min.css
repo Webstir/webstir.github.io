@@ -68,7 +68,10 @@ h2 a:hover {color: #fa372e;}
 .tab-pane .span4 div+p
 {
 height:135px;background: rgba(231, 231, 231, 0.27);}
-
+.tab-pane .span4 div+blockquote
+{
+height: 135px;
+background: rgba(231, 231, 231, 0.27);}
 
 
 .span4{width:300px;border: 1px solid #ddd;
